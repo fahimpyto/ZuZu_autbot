@@ -1,0 +1,79 @@
+{
+  "url": "https://www.gsmarena.com/tcl_tab_10l_gen_4-14466.php",
+  "name": "TCL Tab 10L Gen 4",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/tcl-tab-10l-gen4.jpg",
+  "highlights": [
+    "Released 2025, July\n430g, 7.6mm thickness\nAndroid 15, planned upgrade to Android 16\n64GB/128GB storage, microSDXC",
+    "0.6%\n389 HITS",
+    "0\nBECOME A FAN",
+    "10.1\"\n800x1280 pixels",
+    "8MP\n1080p",
+    "4GB RAM\nMT8786",
+    "6000mAh\n18W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900 - cellular model only",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - cellular model only",
+      "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 26, 28, 38, 40, 41, 66 - cellular model only",
+      "Speed": "HSPA, LTE - cellular model only"
+    },
+    "LAUNCH": {
+      "Announced": "2025, July",
+      "Status": "Available. Released 2025, July"
+    },
+    "BODY": {
+      "Dimensions": "238.9 x 155.2 x 7.6 mm (9.41 x 6.11 x 0.30 in)",
+      "Weight": "430 g (15.17 oz)",
+      "SIM": "Nano-SIM (cellular model only)",
+      "": "IP54 dust protected and water resistant (water splashes)"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 400 nits",
+      "Size": "10.1 inches, 295.8 cm2 (~79.8% screen-to-body ratio)",
+      "Resolution": "800 x 1280 pixels, 16:10 ratio (~149 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 15, planned upgrade to Android 16",
+      "Chipset": "Mediatek MT8786",
+      "CPU": "Octa-core"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (dedicated slot)",
+      "Internal": "64GB 4GB RAM, 128GB 4GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "8 MP (10L LTE Gen 4)\n5 MP (10L Gen 4)",
+      "Features": "LED flash",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "5 MP (10L LTE Gen 4)\n2 MP (10L Gen 4)",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with dual speakers",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+      "Bluetooth": "5.1, A2DP, LE",
+      "Positioning": "Unspecified",
+      "NFC": "No",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C 2.0"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, proximity"
+    },
+    "BATTERY": {
+      "Type": "6000 mAh",
+      "Charging": "18W wired, PD"
+    },
+    "MISC": {
+      "Colors": "Future Dusk",
+      "Models": "1162, 1389"
+    }
+  }
+}
