@@ -1,0 +1,82 @@
+{
+  "url": "https://www.gsmarena.com/huawei_enjoy_90m_plus-14587.php",
+  "name": "Huawei Enjoy 90m Plus",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei_enjoy_90m_plus.jpg",
+  "highlights": [
+    "Released 2026, April 10\n212g, 8.3mm thickness\nHarmonyOS 6.0\n256GB/128GB storage, no card slot",
+    "7.2%\n2,590 HITS",
+    "2\nBECOME A FAN",
+    "6.67\"\n720x1604 pixels",
+    "50MP\n2160p",
+    "8GB RAM\nKirin 8000",
+    "6620mAh\n40W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "5G support is not specified by maker",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2026, April 10",
+      "Status": "Coming soon"
+    },
+    "BODY": {
+      "Dimensions": "166.1 x 76.6 x 8.3 mm (6.54 x 3.02 x 0.33 in)",
+      "Weight": "212 g (7.48 oz)",
+      "Build": "Glass front, plastic frame, aluminum back",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP64 dust tight and water resistant (water splashes)\nDrop resistant up to 1.8m"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 120Hz, 850 nits (HBM)",
+      "Size": "6.67 inches, 107.2 cm2 (~84.3% screen-to-body ratio)",
+      "Resolution": "720 x 1604 pixels, 20:9 ratio (~264 ppi density)",
+      "Protection": "Aluminosilicate glass"
+    },
+    "PLATFORM": {
+      "OS": "HarmonyOS 6.0",
+      "Chipset": "Kirin 8000 (7 nm)",
+      "CPU": "Octa-core (1x2.4 GHz & 3x2.2 GHz & 4x1.84 GHz)",
+      "GPU": "Mali-G610 MP4"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "128GB 8GB RAM, 256GB 8GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "50 MP, f/1.8, (wide), PDAF",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "4K@30fps, 1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP, f/2.0, (wide)",
+      "Video": "4K@30fps, 1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "802.11 a/b/g/n/ac/ax/be dual-band",
+      "Bluetooth": "6.0, A2DP, LE, L2HC",
+      "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 6620 mAh",
+      "Charging": "40W wired, 55% in 30 min\n5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Starry Night Black, Yusha White, Coral Orange"
+    }
+  }
+}
