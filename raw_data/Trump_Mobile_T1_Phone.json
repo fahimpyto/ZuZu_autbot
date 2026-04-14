@@ -1,0 +1,80 @@
+{
+  "url": "https://www.gsmarena.com/_trump_mobile_t1_phone-13958.php",
+  "name": "Trump Mobile T1 Phone",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/trump-phone-t1sm-.jpg",
+  "highlights": [
+    "Exp. release 2026, Q1\n\nAndroid 15\n512GB storage, microSDXC",
+    "4.2%\n239,766 HITS",
+    "55\nBECOME A FAN",
+    "6.78\"\n1080x2460 pixels",
+    "50MP\n2160p",
+    "12GB RAM\nSnapdragon 7 series",
+    "5000mAh\n30W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2025, June 16",
+      "Status": "Coming soon. Exp. release 2026, Q1"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "SIM": "Nano-SIM + eSIM"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 120Hz",
+      "Size": "6.78 inches, 109.2 cm2",
+      "Resolution": "1080 x 2460 pixels (~396 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 15",
+      "Chipset": "Snapdragon 7 series",
+      "CPU": "Octa-core",
+      "GPU": "Adreno"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (dedicated slot)",
+      "Internal": "512GB 12GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, (wide), PDAF\n50 MP, (telephoto), PDAF, 2x optical zoom\n8 MP (ultrawide)",
+      "Features": "LED flash",
+      "Video": "4K@30fps, 1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, (wide)",
+      "Video": "4K@30fps, 1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Yes",
+      "Bluetooth": "Yes",
+      "Positioning": "GPS, GLONASS, BDS, GALILEO",
+      "NFC": "Unspecified",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "5000 mAh",
+      "Charging": "30W wired\nReverse wired"
+    },
+    "MISC": {
+      "Colors": "Gold",
+      "Price": "About 430 EUR"
+    }
+  }
+}

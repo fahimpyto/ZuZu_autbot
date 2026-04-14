@@ -1,0 +1,78 @@
+{
+  "url": "https://www.gsmarena.com/zte_nubia_neo_5_pro_5g-14594.php",
+  "name": "ZTE nubia Neo 5 Pro",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-neo-5-pro-.jpg",
+  "highlights": [
+    "Exp. release 2026, April\n\nAndroid 16\n256GB storage, no card slot",
+    "15%\n5,204 HITS",
+    "6\nBECOME A FAN",
+    "6.8\"\n1080x2400 pixels*",
+    "50MP\n2160p",
+    "8/12GB RAM",
+    "6000mAh\n80W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, March 03",
+      "Status": "Coming soon. Exp. release 2026, April"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "SIM": "· Nano-SIM + eSIM\n· Nano-SIM + Nano-SIM",
+      "": "IP64 dust tight and water resistant (water splashes)\nPressure sensitive zones (550Hz touch-sensing)\nRGB light (on the back)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 120Hz",
+      "Size": "6.8 inches, 111.6 cm2",
+      "Resolution": "1080 x 2400 pixels*, 20:9 ratio (~387 ppi density)",
+      "": "* Display resolution is not officially revealed"
+    },
+    "PLATFORM": {
+      "OS": "Android 16"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 8GB RAM, 256GB 12GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, (wide), PDAF\nAuxiliary lens",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "4K@30fps, 1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "16 MP",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Yes",
+      "Bluetooth": "Yes",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS",
+      "NFC": "Yes (market/region dependent)",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity"
+    },
+    "BATTERY": {
+      "Type": "6000 mAh",
+      "Charging": "80W wired\nBypass charging"
+    },
+    "MISC": {
+      "Colors": "Gray"
+    }
+  }
+}
