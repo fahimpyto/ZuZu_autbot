@@ -1,0 +1,85 @@
+{
+  "url": "https://www.gsmarena.com/honor_600_pro_5g-14604.php",
+  "name": "Honor 600 Pro",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-600-pro.jpg",
+  "highlights": [
+    "Not announced yet\n\nAndroid 16, MagicOS 10\n512GB storage, no card slot",
+    "34%\n10,717 HITS",
+    "12\nBECOME A FAN",
+    "6.57\"\n1264x2728 pixels",
+    "200MP\n2160p",
+    "12GB RAM\nSnapdragon 8 Elite",
+    "7000mAh\n80W50W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "Build": "Glass front, aluminum frame",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 120Hz, 3840Hz PWM, HDR Vivid, 6500 nits (peak)",
+      "Size": "6.57 inches, 106.2 cm2",
+      "Resolution": "1264 x 2728 pixels, 19.5:9 ratio (~458 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, MagicOS 10",
+      "Chipset": "Qualcomm SM8750-AC Snapdragon 8 Elite (3 nm)",
+      "CPU": "Octa-core (2x4.47 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)",
+      "GPU": "Adreno 830 (1200 MHz)"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "512GB 12GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Triple": "200 MP, f/1.8, (wide), 1/1.4\", 0.56µm, PDAF, OIS\n50 MP, (telephoto), PDAF, 3.5x optical zoom\n12 MP, f/2.2, 112˚ (ultrawide), AF",
+      "Features": "Color spectrum sensor, LED flash, HDR, panorama",
+      "Video": "4K, 1080p, gyro-EIS, OIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, f/2.0, (wide)",
+      "Features": "HDR",
+      "Video": "4K, 1080p, gyro-EIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+      "Bluetooth": "6.0, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless, LHDC 5, Auracast, ASHA",
+      "Positioning": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L5)",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass (ultrasound)"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 7000 mAh (International) or 6400 mAh (Europe)",
+      "Charging": "80W wired\n50W wireless\n27W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Golden White, Black, Orange",
+      "Models": "VKP-NX9",
+      "Price": "About 650 EUR"
+    }
+  }
+}
