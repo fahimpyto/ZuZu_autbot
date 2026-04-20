@@ -1,0 +1,85 @@
+{
+  "url": "https://www.gsmarena.com/huawei_pura_90_pro_5g-14610.php",
+  "name": "Huawei Pura 90 Pro",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-pura90-pro.jpg",
+  "highlights": [
+    "Exp. release 2026, May 13\n213.5g, 8.2mm thickness\nHarmonyOS 6.1\n256GB/512GB/1TB storage, no card slot",
+    "7.7%\n2,857 HITS",
+    "7\nBECOME A FAN",
+    "6.6\"\n1256x2760 pixels",
+    "50MP\n2160p",
+    "12/16GB RAM\nKirin 9030S",
+    "6000mAh\n66W50W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA - China only",
+      "Speed": "HSPA, LTE, 5G (China only)"
+    },
+    "LAUNCH": {
+      "Announced": "2026, April 20",
+      "Status": "Coming soon. Exp. release 2026, May 13"
+    },
+    "BODY": {
+      "Dimensions": "157.8 x 74.5 x 8.2 mm (6.21 x 2.93 x 0.32 in)",
+      "Weight": "213.5 g (7.55 oz)",
+      "Build": "Glass front, aluminum frame, glass back",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "LTPO OLED, 1B colors, 120Hz, PWM, HDR Vivid",
+      "Size": "6.6 inches, 105.9 cm2 (~90.1% screen-to-body ratio)",
+      "Resolution": "1256 x 2760 pixels (~459 ppi density)",
+      "Protection": "Kunlun Glass 2"
+    },
+    "PLATFORM": {
+      "OS": "HarmonyOS 6.1",
+      "Chipset": "Kirin 9030S"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.4-4.0, 24mm (wide), PDAF, OIS\n50 MP, f/2.1, 91mm (telephoto), PDAF (5cm - ∞), OIS, 4x optical zoom\n12.5 MP, f/2.2, 13mm (ultrawide), AF",
+      "Features": "Laser AF, color spectrum sensor, LED flash, panorama, HDR",
+      "Video": "4K, 1080p, 1080p@960fps (interpolated), HDR Vivid, gyro-EIS, OIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "13 MP, f/2.0, (ultrawide), AF",
+      "Features": "HDR, panorama",
+      "Video": "4K, 1080p, 1080p@240fps, HDR Vivid, gyro-EIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+      "Bluetooth": "6.0, A2DP, LE, L2HC",
+      "Positioning": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+      "": "BDS Satellite Messaging - China only"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 6000 mAh",
+      "Charging": "66W wired\n50W wireless\nReverse wired\n5W reverse wireless"
+    },
+    "MISC": {
+      "Colors": "Black, White, Orange, Pink/Green",
+      "Models": "MLN-AL00",
+      "Price": "About 690 EUR"
+    }
+  }
+}

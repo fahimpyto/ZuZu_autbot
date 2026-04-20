@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.8, 24mm (wide), PDAF, OIS",
+    "Flash:": "Laser AF, color spectrum sensor, LED flash, panorama, HDR",
+    "Front:": "50 MP, f/2.0, (wide), AF",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.8, 24mm (wide), PDAF, OIS",
+    "Second camera:": "50 MP, f/2.2, 88mm (periscope telephoto), PDAF, OIS, 3.7x optical zoom",
+    "Third camera:": "12.5 MP, f/2.2, 13mm (ultrawide)",
+    "Specifications:": "Aperture size: F/1.8 Focal Length: 24mm",
+    "Video recording:": "4K, 1080p, 1080p@480fps (interpolated), HDR Vivid, gyro-EIS, OIS"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black, White Dark Purple",
+    "Folded:": "",
+    "Weight:": "210 g (7.41 oz)",
+    "Materials:": "Glass front, aluminum frame",
+    "Biometrics:": "Fingerprint (side-mounted), accelerometer, gyro, compass",
+    "Dimensions:": "163.1 x 78.1 x 7 mm (6.42 x 3.07 x 0.28 in)",
+    "Resistance:": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "6500 mAh",
+    "Charging:": "100W wired, 100% in 45 min\n50W wireless\nReverse wireless\n5W reverse wired",
+    "Max charge speed:": "Wired: 100WWireless: 50W"
+  },
+  "Display": {
+    "Size:": "6.8 inches",
+    "Features:": "Fingerprint (side-mounted), accelerometer, gyro, compass",
+    "Resolution:": "1320 x 2856 pixels, 19.5:9 ratio (~463 ppi density)",
+    "Technology:": "LTPO OLED",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA - China only",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "HarmonyOS 6.1",
+    "GPU:": "",
+    "RAM:": "12GB",
+    "Processor:": "Kirin 9010s (7 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, gyro, compass",
+    "Features:": "USB Type-C",
+    "Location:": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC",
+    "Bluetooth:": "6.0, A2DP, LE, L2HC"
+  }
+}
