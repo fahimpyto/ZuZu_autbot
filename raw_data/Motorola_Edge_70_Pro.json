@@ -1,0 +1,87 @@
+{
+  "url": "https://www.gsmarena.com/motorola_edge_70_pro_5g-14620.php",
+  "name": "Motorola Edge 70 Pro",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-edge-70-pro-.jpg",
+  "highlights": [
+    "Exp. release 2026, April 29\n183g or 190g, 7mm thickness\nAndroid 16, up to 3 major Android upgrades\n256GB storage, no card slot",
+    "40%\n11,846 HITS",
+    "10\nBECOME A FAN",
+    "6.8\"\n1272x2772 pixels",
+    "50MP\n2160p",
+    "8/12GB RAM\nDimensity 8500 Extreme",
+    "6500mAh\n90W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "1, 2, 3, 4, 5, 8, 12, 17, 18, 19, 20, 25, 26, 28, 34, 38, 40, 41, 42, 48, 66",
+      "5G bands": "1, 2, 3, 5, 8, 12, 20, 25, 26, 28, 38, 40, 41, 66, 48, 77, 78 SA/NSA/Sub6",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, April 22",
+      "Status": "Coming soon. Exp. release 2026, April 29"
+    },
+    "BODY": {
+      "Dimensions": "162.7 x 75.6 x 7.0 mm or 7.3 mm",
+      "Weight": "183 g or 190 g (6.46 oz)",
+      "Build": "Glass front (Gorilla Glass 7i), plastic frame, silicone polymer (eco leather) back",
+      "SIM": "· Nano-SIM + Nano-SIM + eSIM (max 2 at a time)\n· Nano-SIM + Nano-SIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nMIL-STD-810H compliant*\n* does not guarantee ruggedness or use in extreme conditions"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 144Hz, PWM, HDR, 1800 (HBM), 5200 nits peak",
+      "Size": "6.8 inches, 113.1 cm2 (~91.9% screen-to-body ratio)",
+      "Resolution": "1272 x 2772 pixels, 19.5:9 ratio (~449 ppi density)",
+      "Protection": "Corning Gorilla Glass 7i"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, up to 3 major Android upgrades",
+      "Chipset": "Mediatek Dimensity 8500 Extreme (4 nm)",
+      "CPU": "Octa-core (1x3.4 GHz Cortex-A725 & 3x3.2 GHz Cortex-A725 & 4x2.2 GHz Cortex-A725)",
+      "GPU": "Mali-G720 MC8"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 8GB RAM, 256GB 12GB RAM",
+      "": "UFS 4.1"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, multi-directional PDAF, OIS\n50 MP, f/2.0, 12mm, 122˚ (ultrawide), 1/2.76\", 0.64µm, PDAF",
+      "Features": "LED flash, HDR, panorama, Pantone Validated Colour and Skin Tones",
+      "Video": "4K@30/60/120fps, 1080p@30/60/120/240fps, gyro-EIS, HDR10+"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, f/1.9, (wide), 1/2.76\", 0.64µm",
+      "Features": "HDR",
+      "Video": "4K@30fps, 1080p@30/120fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers (with Dolby Atmos)",
+      "3.5mm jack": "No",
+      "": "24-bit/192kHz Hi-Res & Hi-Res Wireless audio"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS, NavIC",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+      "": "Smart Connect support"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 6500 mAh",
+      "Charging": "90W wired, PD3.0\n5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Pantone: Lily White, Titan, Tea",
+      "Price": "About 350 EUR"
+    }
+  }
+}
