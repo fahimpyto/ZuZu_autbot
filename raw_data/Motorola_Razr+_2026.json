@@ -1,0 +1,85 @@
+{
+  "url": "https://www.gsmarena.com/motorola_razr+_2026-14639.php",
+  "name": "Motorola Razr+ 2026",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-razr-plus-2026.jpg",
+  "highlights": [
+    "Exp. release 2026, May 14\n189g, 7.1mm thickness\nAndroid 16\n256GB storage, no card slot",
+    "18%\n4,107 HITS",
+    "3\nBECOME A FAN",
+    "6.9\"\n1084x2640 pixels",
+    "50MP\n2160p",
+    "12GB RAM\nSnapdragon 8s Gen 3",
+    "4500mAh\n45W15W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 38, 39, 40, 41, 46, 48, 66, 71",
+      "5G bands": "1, 2, 3, 5, 7, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 66, 70, 71, 77, 78 SA/NSA/Sub6",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, April 29",
+      "Status": "Coming soon. Exp. release 2026, May 14"
+    },
+    "BODY": {
+      "Dimensions": "Unfolded: 171.4 x 74 x 7.1 mm\nFolded: 88.1 x 74 x 15.3 mm",
+      "Weight": "189 g (6.67 oz)",
+      "Build": "Plastic front (unfolded), glass front (folded, Gorilla Glass Victus), hinge (titanium)",
+      "SIM": "Nano-SIM + eSIM",
+      "": "IP48 dust and water resistant (dust > 1mm; immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "Foldable LTPO AMOLED, 1B colors, Dolby Vision, 165Hz, HDR10+, 3000 nits (peak)",
+      "Size": "6.9 inches, 107.9 cm2 (~85.1% screen-to-body ratio)",
+      "Resolution": "1084 x 2640 pixels (~414 ppi density)",
+      "": "Second external LTPS AMOLED, 1B colors, 165Hz, 2400 nits (peak)\n4 inches, 1272 x 1080 pixels, 165Hz, 417 ppi, Gorilla Glass Victus"
+    },
+    "PLATFORM": {
+      "OS": "Android 16",
+      "Chipset": "Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm)",
+      "CPU": "Octa-core (1x3.0 GHz Cortex-X4 & 4x2.8 GHz Cortex-A720 & 3x2.0 GHz Cortex-A520)",
+      "GPU": "Adreno 735"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM",
+      "": "UFS 4.0"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.8, (wide), 1/1.95\", 0.8µm, PDAF, OIS\n50 MP, f/2.0, 122˚ (ultrawide), 1/2.76\", 1.28µm",
+      "Features": "Pantone Validated, LED flash, panorama, HDR",
+      "Video": "4K@30/60fps, 1080p@30/60/240fps, HDR10+, Dolby Vision"
+    },
+    "SELFIE CAMERA": {
+      "Single": "32 MP, f/2.4, (wide), 0.7µm",
+      "Features": "HDR",
+      "Video": "4K@30/60fps, 1080p@30/60fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers (with Dolby Atmos)",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/ax/6e/7, tri-band",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, compass, barometer"
+    },
+    "BATTERY": {
+      "Type": "4500 mAh",
+      "Charging": "45W wired\n15W wireless\n5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Pantone: Mountain View",
+      "Price": "About 940 EUR"
+    }
+  }
+}

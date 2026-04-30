@@ -1,0 +1,85 @@
+{
+  "url": "https://www.gsmarena.com/motorola_razr_2026-14640.php",
+  "name": "Motorola Razr 2026",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-razr-2026.jpg",
+  "highlights": [
+    "Exp. release 2026, May 14\n188g, 7.3mm thickness\nAndroid 16\n128GB/256GB storage, no card slot",
+    "16%\n3,598 HITS",
+    "1\nBECOME A FAN",
+    "6.9\"\n1080x2640 pixels",
+    "50MP\n4160p",
+    "8GB RAM\nDimensity 7400X",
+    "4800mAh\n30W15W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 38, 39, 40, 41, 48, 66, 71",
+      "5G bands": "1, 2, 3, 5, 7, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 66, 70, 71, 77, 78 SA/NSA/Sub6",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, April 29",
+      "Status": "Coming soon. Exp. release 2026, May 14"
+    },
+    "BODY": {
+      "Dimensions": "Unfolded: 171.3 x 74 x 7.3 mm\nFolded: 88.1 x 74 x 15.9 mm",
+      "Weight": "188 g (6.63 oz)",
+      "Build": "Plastic front (unfolded), glass front (folded, Gorilla Glass), aluminum frame, hinge (titaniuml)",
+      "SIM": "Nano-SIM + eSIM",
+      "": "IP48 water resistant (up to 1.5m for 30 min)\nMIL-STD-810H compliant"
+    },
+    "DISPLAY": {
+      "Type": "Foldable LTPO AMOLED, 1B colors, 120Hz, Dolby Vision, HDR10+, 3000 nits (peak)",
+      "Size": "6.9 inches, 107.6 cm2 (~84.9% screen-to-body ratio)",
+      "Resolution": "1080 x 2640 pixels (~413 ppi density)",
+      "": "Second external AMOLED, 1B colors, 90Hz, HDR10+, 1700 nits (peak)\n3.6 inches, 1056 x 1066 pixels, 413 ppi, Gorilla Glass Victus"
+    },
+    "PLATFORM": {
+      "OS": "Android 16",
+      "Chipset": "Mediatek Dimensity 7400X (4 nm)",
+      "CPU": "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G615 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "128GB 8GB RAM, 256GB 8GB RAM",
+      "": "UFS 3.1"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.7, (wide), 1/1.95\", 0.8µm, OIS\n50 MP, f/2.0, 122˚ (ultrawide), 1/2.76\", 1.28µm",
+      "Features": "LED flash, panorama, HDR, Pantone Validated Colour and Skin Tones",
+      "Video": "4K@30fps, 1080p@30/60/120fps, gyro-EIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "32 MP, f/2.4, (wide), 1/3.14\", 0.7µm",
+      "Features": "HDR",
+      "Video": "4K@30fps, 1080p@30/60fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers (with Dolby Atmos)",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/ax/6e, tri-band",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS, GLONASS, GALILEO, QZSS",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), gyro, accelerometer, proximity, compass, barometer"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 4800 mAh",
+      "Charging": "30W wired\n15W wireless"
+    },
+    "MISC": {
+      "Colors": "Pantone: Hematite, Sporting Green, Violet Ice, Bright White",
+      "Price": "About 690 EUR"
+    }
+  }
+}
