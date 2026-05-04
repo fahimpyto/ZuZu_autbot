@@ -1,0 +1,83 @@
+{
+  "url": "https://www.gsmarena.com/rugone_xever_8-14648.php",
+  "name": "RugOne Xever 8",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/rugone-xever8.jpg",
+  "highlights": [
+    "Released 2026, May\n320g, 14mm thickness\nAndroid 16, up to 3 major Android upgrades\n128GB/256GB storage, microSDXC",
+    "3.3%\n2,614 HITS",
+    "2\nBECOME A FAN",
+    "6.5\"\n1080x2400 pixels",
+    "64MP\n1440p",
+    "8GB RAM\nHelio G200",
+    "4800mAh\n18W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 34, 38, 39, 40, 41, 66, 71",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2026, May",
+      "Status": "Available. Released 2026, May"
+    },
+    "BODY": {
+      "Dimensions": "168 x 80 x 14 mm (6.61 x 3.15 x 0.55 in)",
+      "Weight": "320 g (11.29 oz)",
+      "SIM": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time)",
+      "": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)\nDrop resistant up to 2m\nMIL-STD-810H compliant\nDedicated flashlight (230 lumens)"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 120Hz, 680 nits (peak)",
+      "Size": "6.5 inches, 102.0 cm2 (~75.9% screen-to-body ratio)",
+      "Resolution": "1080 x 2400 pixels, 20:9 ratio (~405 ppi density)",
+      "Protection": "Corning Gorilla Glass 3"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, up to 3 major Android upgrades",
+      "Chipset": "MediaTek Helio G200",
+      "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (dedicated slot)",
+      "Internal": "128GB 8GB RAM, 256GB 8GB RAM",
+      "": "UFS 2.2"
+    },
+    "MAIN CAMERA": {
+      "Dual": "64 MP, f/1.9, (wide), 1/1.7\", 0.8µm, PDAF\n20 MP, f/1.8, (night vision), 2 infrared lights",
+      "Features": "Dual-LED flash, HDR, panorama",
+      "Video": "1440p@30fps, 1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "32 MP, f/2.5, (wide), 0.7µm",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers (117 dB)",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.2, A2DP, LE",
+      "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "Wireless FM radio",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 4800 mAh, removable",
+      "Charging": "18W wired\n10W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Black, Sand Dune",
+      "Price": "About 490 EUR"
+    }
+  }
+}
