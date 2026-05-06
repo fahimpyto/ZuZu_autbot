@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.6, 23mm (wide), 1/1.31\", 1.2µm, multi-directional PDAF, OIS",
+    "Flash:": "Leica lens, Color spectrum sensor, Ultra HDR, LED flash, HDR, panorama",
+    "Front:": "32 MP, f/2.2, 21mm (wide), 1/3.44\", 0.64µm",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.6, 23mm (wide), 1/1.31\", 1.2µm, multi-directional PDAF, OIS",
+    "Second camera:": "50 MP, f/3.0, 115mm (periscope telephoto), 1/2.76\", 0.64µm, PDAF (10cm - ∞), OIS, 5x optical zoom",
+    "Third camera:": "12 MP, f/2.2, 15mm, 120˚ (ultrawide), 1/3.06\", 1.12µm",
+    "Specifications:": "Aperture size: F/1.6 Focal Length: 23mm",
+    "Video recording:": "8K@30fps, 4K@30/60/120fps, 1080p@30/60/120/240/960fps, gyro-EIS, 10-bit Rec. 2020, HDR10+"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black, Dark Purple, Dark Blue",
+    "Folded:": "",
+    "Weight:": "-",
+    "Materials:": "Glass front (Gorilla Glass), aluminum frame, glass-fiber reinforced plastic back",
+    "Biometrics:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+    "Dimensions:": "-",
+    "Resistance:": "IP68 dust tight and water resistant (immersible up to 3m for 30 min)\n6M13 aluminium alloy, 330 N/mm frame rigidity, 321 N/mm device rigidity"
+  },
+  "Battery": {
+    "Type:": "Si/C Li-Ion",
+    "Capacity:": "7000 mAh",
+    "Charging:": "100W wired, PD3.0, QC4\n50W wireless",
+    "Max charge speed:": "Wired: 100WWireless: 50W"
+  },
+  "Display": {
+    "Size:": "6.83 inches",
+    "Features:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+    "Resolution:": "1280 x 2772 pixels, 19.5:9 ratio (~447 ppi density)",
+    "Technology:": "AMOLED",
+    "Refresh rate:": "144Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "SIM type:": "· Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time)\n· Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 16, HyperOS 3",
+    "GPU:": "Mali-G1 Ultra MC12",
+    "RAM:": "12GB",
+    "Processor:": "Mediatek Dimensity 9500 (3 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "512GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers (with Dolby Atmos)",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0, OTG",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, Wi-Fi Direct",
+    "Sensors:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+    "Features:": "USB Type-C 2.0, OTG",
+    "Location:": "GPS (L1+L5), BDS (B1I+B1C+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L5), GLONASS",
+    "Bluetooth:": "6.0, A2DP, LE"
+  }
+}
