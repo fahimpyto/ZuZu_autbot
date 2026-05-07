@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "",
+    "Flash:": "",
+    "Front:": "",
+    "Folded:": "",
+    "Main camera:": "",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": ""
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Diamond Silver",
+    "Folded:": "",
+    "Weight:": "91 g (3.21 oz)",
+    "Materials:": "Sapphire crystal front, titanium alloy front shell, ceramic back",
+    "Biometrics:": "Accelerometer, gyro, heart rate, barometer, compass, SpO2, thermometer (body temperature), X-TAP",
+    "Dimensions:": "42.9 x 42.9 x 10.8 mm (1.69 x 1.69 x 0.43 in)",
+    "Resistance:": "99 natural diamonds (0.8 carats)\n5 ATM (maximum depth 40 meters when diving)\nIP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nECG certified"
+  },
+  "Battery": {
+    "Type:": "Li-Ion",
+    "Capacity:": "540 mAh",
+    "Charging:": "Wireless",
+    "Max charge speed:": ""
+  },
+  "Display": {
+    "Size:": "1.38 inches",
+    "Features:": "Accelerometer, gyro, heart rate, barometer, compass, SpO2, thermometer (body temperature), X-TAP",
+    "Resolution:": "466 x 466 pixels (~338 ppi density)",
+    "Technology:": "LTPO2 AMOLED",
+    "Refresh rate:": "",
+    "Screen-to-body:": "",
+    "Peak brightness:": "3000 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "HSPA / LTE",
+    "2G bands:": "N/A",
+    "3G bands:": "HSDPA 850 / 900 / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "",
+    "SIM type:": "eSIM"
+  },
+  "Hardware": {
+    "OS:": "HarmonyOS 6.1",
+    "GPU:": "",
+    "RAM:": "",
+    "Processor:": "Kirin W80",
+    "Device type:": "Smartphone",
+    "Internal storage:": " (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "No",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+    "Sensors:": "Accelerometer, gyro, heart rate, barometer, compass, SpO2, thermometer (body temperature), X-TAP",
+    "Features:": "No",
+    "Location:": "GPS (L1+L5), GLONASS, GALILEO (L1+L5), QZSS (L1+L5), BDS",
+    "Bluetooth:": "5.2, A2DP, LE"
+  }
+}

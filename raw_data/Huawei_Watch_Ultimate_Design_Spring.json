@@ -1,0 +1,75 @@
+{
+  "url": "https://www.gsmarena.com/huawei_watch_ultimate_design_spring-14657.php",
+  "name": "Huawei Watch Ultimate Design Spring",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-watch-ultimate-design-spring-edition.jpg",
+  "highlights": [
+    "Exp. release 2026, May 08\n91g, 10.8mm thickness\nHarmonyOS 6.1\nNo card slot",
+    "5.5%\n1,810 HITS",
+    "1\nBECOME A FAN",
+    "1.38\"\n466x466 pixels",
+    "NO",
+    "Kirin W80",
+    "540mAh\n5W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "HSPA / LTE",
+      "2G bands": "N/A",
+      "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+      "4G bands": "LTE",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2026, April 20",
+      "Status": "Coming soon. Exp. release 2026, May 08"
+    },
+    "BODY": {
+      "Dimensions": "42.9 x 42.9 x 10.8 mm (1.69 x 1.69 x 0.43 in)",
+      "Weight": "91 g (3.21 oz)",
+      "Build": "Sapphire crystal front, titanium alloy front shell, ceramic back",
+      "SIM": "eSIM",
+      "": "99 natural diamonds (0.8 carats)\n5 ATM (maximum depth 40 meters when diving)\nIP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nECG certified"
+    },
+    "DISPLAY": {
+      "Type": "LTPO2 AMOLED, 3000 nits (peak)",
+      "Size": "1.38 inches",
+      "Resolution": "466 x 466 pixels (~338 ppi density)",
+      "Protection": "Sapphire crystal glass"
+    },
+    "PLATFORM": {
+      "OS": "HarmonyOS 6.1",
+      "Chipset": "Kirin W80"
+    },
+    "MEMORY": {
+      "Card slot": "No"
+    },
+    "CAMERA": {
+      "": "No"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+      "Bluetooth": "5.2, A2DP, LE",
+      "Positioning": "GPS (L1+L5), GLONASS, GALILEO (L1+L5), QZSS (L1+L5), BDS",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "No"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, gyro, heart rate, barometer, compass, SpO2, thermometer (body temperature), X-TAP",
+      "": "Sleep apnea detection\nHeart Rate Variability (HRV)\nArterial Stiffness Detection"
+    },
+    "BATTERY": {
+      "Type": "Li-Ion 540 mAh",
+      "Charging": "Wireless"
+    },
+    "MISC": {
+      "Colors": "Diamond Silver",
+      "Models": "CHC-AL00",
+      "Price": "About 4000 EUR"
+    }
+  }
+}
