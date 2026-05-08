@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.8, (wide), PDAF",
+    "Flash:": "LED flash",
+    "Front:": "12 MP, f/2.4",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.8, (wide), PDAF",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "Aperture size: F/1.8",
+    "Video recording:": "4K@30fps, 1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Blue, Gray",
+    "Folded:": "",
+    "Weight:": "499 g or 509 g (1.10 lb)",
+    "Materials:": "Glass front, aluminum frame, aluminum back",
+    "Biometrics:": "Accelerometer, gyro, compass, proximity (accessories only)",
+    "Dimensions:": "289.3 x 196.3 x 4.7 mm (11.39 x 7.73 x 0.19 in)",
+    "Resistance:": "Stylus support"
+  },
+  "Battery": {
+    "Type:": "(International) or 9760 mAh (Europe)",
+    "Capacity:": "10400 mAh",
+    "Charging:": "66W wired\n40W reverse wired",
+    "Max charge speed:": "Wired: 66W"
+  },
+  "Display": {
+    "Size:": "13.2 inches",
+    "Features:": "Accelerometer, gyro, compass, proximity (accessories only)",
+    "Resolution:": "3000 x 2000 pixels, 3:2 ratio (~273 ppi density)",
+    "Technology:": "OLED",
+    "Refresh rate:": "144Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "1600 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "N/A",
+    "4G bands:": "N/A",
+    "5G bands:": "",
+    "SIM type:": "No"
+  },
+  "Hardware": {
+    "OS:": "Harmony OS 4.3",
+    "GPU:": "",
+    "RAM:": "12GB",
+    "Processor:": "",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers (6 speakers)",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 3.1, OTG, DisplayPort 1.2, accessory connector pins",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+    "Sensors:": "Accelerometer, gyro, compass, proximity (accessories only)",
+    "Features:": "USB Type-C 3.1, OTG, DisplayPort 1.2, accessory connector pins",
+    "Location:": "GPS, GALILEO, GLONASS, BDS, QZSS",
+    "Bluetooth:": "6.0, A2DP, LE, L2HC (320-960 kbps HD audio)"
+  }
+}
