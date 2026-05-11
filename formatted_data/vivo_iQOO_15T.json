@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "200 MP, (wide), 1/1.56\", 0.5µm, PDAF, OIS",
+    "Flash:": "LED flash, HDR, panorama",
+    "Front:": "16 MP (wide)",
+    "Folded:": "",
+    "Main camera:": "200 MP, (wide), 1/1.56\", 0.5µm, PDAF, OIS",
+    "Second camera:": "50 MP, f/2.1, 15mm (ultrawide), 1/2.76\", 0.64µm, AF",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "Yes"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Gray; other colors",
+    "Folded:": "",
+    "Weight:": "216 g (7.62 oz)",
+    "Materials:": "Glass front, aluminum frame",
+    "Biometrics:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+    "Dimensions:": "163.4 x 76.7 x 8.3 mm (6.43 x 3.02 x 0.33 in)",
+    "Resistance:": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nColor-changing rear panel (gray color only)"
+  },
+  "Battery": {
+    "Type:": "Si/C Li-Ion",
+    "Capacity:": "8000 mAh",
+    "Charging:": "100W wired, PPS, PD\nBypass charging",
+    "Max charge speed:": "Wired: 100W"
+  },
+  "Display": {
+    "Size:": "6.83 inches",
+    "Features:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+    "Resolution:": "1260 x 2800 pixels, 20:9 ratio (~450 ppi density)",
+    "Technology:": "AMOLED",
+    "Refresh rate:": "144Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 16, OriginOS 6",
+    "GPU:": "Mali-G1 Ultra MC12",
+    "RAM:": "12GB",
+    "Processor:": "MediaTek Dimensity 9500 (3 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+    "Sensors:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+    "Features:": "USB Type-C",
+    "Location:": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)",
+    "Bluetooth:": "6.0, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless, LHDC 5"
+  }
+}

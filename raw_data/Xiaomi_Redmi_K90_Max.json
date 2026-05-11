@@ -1,0 +1,87 @@
+{
+  "url": "https://www.gsmarena.com/xiaomi_redmi_k90_max_5g-14618.php",
+  "name": "Xiaomi Redmi K90 Max",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k90-max-.jpg",
+  "highlights": [
+    "Released 2026, April 21\n227g, 8.2mm thickness\nAndroid 16, HyperOS 3\n256GB/512GB/1TB storage, no card slot",
+    "19%\n89,239 HITS",
+    "32\nBECOME A FAN",
+    "6.83\"\n1280x2772 pixels",
+    "50MP\n4320p",
+    "12/16GB RAM\nDimensity 9500",
+    "8550mAh\n100W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "1, 3, 4, 5, 7, 8, 19, 28, 34, 38, 39, 40, 41, 42, 43, 48, 66",
+      "5G bands": "1, 3, 5, 7, 8, 28, 34, 38, 39, 40, 41, 48, 77, 78 SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, April 21",
+      "Status": "Available. Released 2026, April 21"
+    },
+    "BODY": {
+      "Dimensions": "162.9 x 77.9 x 8.2 mm (6.41 x 3.07 x 0.32 in)",
+      "Weight": "227 g (8.01 oz)",
+      "Build": "Glass front (Dragon Crystal Glass), aluminum frame, glass-fiber reinforced plastic back or silicone polymer back",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nBuilt-in cooling fan"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 68B colors, 165Hz, Dolby Vision, HDR10+, HDR Vivid, 3500 nits (peak)",
+      "Size": "6.83 inches, 114.5 cm2 (~90.3% screen-to-body ratio)",
+      "Resolution": "1280 x 2772 pixels, 19.5:9 ratio (~447 ppi density)",
+      "Protection": "Dragon Crystal Glass"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, HyperOS 3",
+      "Chipset": "MediaTek Dimensity 9500 (3 nm)",
+      "CPU": "Octa-core (1x4.21 GHz C1-Ultra & 3x3.5 GHz C1-Premium & 4x2.7 GHz C1-Pro)",
+      "GPU": "Mali-G1 Ultra MC12"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 256GB 16GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+      "": "UFS 4.1"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.7, 24mm (wide), 1/1.55\", 1.0µm, PDAF, OIS\n8 MP, f/2.2, (ultrawide), 1/4.0\", 1.12µm",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "8K@30fps, 4K@30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "20 MP (wide)",
+      "Features": "HDR",
+      "Video": "1080p@30/60fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers (with Dolby Atmos)",
+      "3.5mm jack": "No",
+      "": "Tuned by Bose\nBose 2.1 stereo sound system with a woofer\n24-bit/192kHz Hi-Res & Hi-Res wireless audio"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+      "Bluetooth": "5.4, A2DP, LE, LHDC 5, Auracast, ASHA, MIHC",
+      "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), GLONASS, NavIC",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass"
+    },
+    "BATTERY": {
+      "Type": "8550 mAh",
+      "Charging": "100W wired, 100W PPS, PD3.0\n22.5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Silver, Blue, Black",
+      "Price": "About 440 EUR"
+    }
+  }
+}
