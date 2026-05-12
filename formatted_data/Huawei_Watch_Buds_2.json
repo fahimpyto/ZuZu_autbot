@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "",
+    "Flash:": "",
+    "Front:": "",
+    "Folded:": "",
+    "Main camera:": "",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": ""
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black, Silver",
+    "Folded:": "",
+    "Weight:": "54.5 g (1.90 oz)",
+    "Materials:": "Titanium alloy frame, glass-fiber reinforced plastic back",
+    "Biometrics:": "Accelerometer, gyro, heart rate, SpO2",
+    "Dimensions:": "47 x 47 x 14.7 mm (1.85 x 1.85 x 0.58 in)",
+    "Resistance:": "Built-in wireless earbuds housed beneath the display; charging from the watch\nCompatible with standard 22mm straps"
+  },
+  "Battery": {
+    "Type:": "Li-Ion",
+    "Capacity:": "410 mAh",
+    "Charging:": "Wireless",
+    "Max charge speed:": ""
+  },
+  "Display": {
+    "Size:": "1.5 inches",
+    "Features:": "Accelerometer, gyro, heart rate, SpO2",
+    "Resolution:": "466 x 466 pixels (~310 ppi density)",
+    "Technology:": "LTPO AMOLED",
+    "Refresh rate:": "",
+    "Screen-to-body:": "",
+    "Peak brightness:": "3000 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "N/A",
+    "4G bands:": "N/A",
+    "5G bands:": "",
+    "SIM type:": "No"
+  },
+  "Hardware": {
+    "OS:": "HarmonyOS",
+    "GPU:": "",
+    "RAM:": "",
+    "Processor:": "",
+    "Device type:": "Smartphone",
+    "Internal storage:": " (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "No",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "No",
+    "Other:": "NFC",
+    "Wi-Fi:": "No",
+    "Sensors:": "Accelerometer, gyro, heart rate, SpO2",
+    "Features:": "No",
+    "Location:": "GPS, GLONASS, GALILEO, BDS",
+    "Bluetooth:": "5.2, A2DP, LE"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "url": "https://www.gsmarena.com/honor_pad_20-14663.php",
+  "name": "Honor Pad 20",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-pad20.jpg",
+  "highlights": [
+    "Exp. release 2026, May\n\nAndroid 16, MagicOS 10\n128GB/256GB storage, Unspecified",
+    "7.5%\n1,732 HITS",
+    "1\nBECOME A FAN",
+    "12.1\"\n1600x2560 pixels",
+    "8MP\n2160p",
+    "8GB RAM\nSnapdragon 7 Gen 3",
+    "10100mAh\n45W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "LTE / 5G",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "LTE - cellular model only",
+      "5G bands": "SA/NSA - cellular model only",
+      "Speed": "LTE, 5G - cellular model only",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2026, May 12",
+      "Status": "Coming soon. Exp. release 2026, May"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "Build": "Glass front, aluminum frame, aluminum back",
+      "SIM": "Yes (cellular model only)",
+      "": "Stylus support"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 1B colors, 120Hz, HDR",
+      "Size": "12.1 inches, 424.5 cm2",
+      "Resolution": "1600 x 2560 pixels, 16:10 ratio (~249 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, MagicOS 10",
+      "Chipset": "Qualcomm SM7550-AB Snapdragon 7 Gen 3 (4 nm)",
+      "CPU": "Octa-core (1x2.63 GHz Cortex-A715 & 3x2.4 GHz Cortex-A715 & 4x1.8 GHz Cortex-A510)",
+      "GPU": "Adreno 720"
+    },
+    "MEMORY": {
+      "Card slot": "Unspecified",
+      "Internal": "128GB 8GB RAM, 256GB 8GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "8 MP, f/2.0, (wide), AF",
+      "Video": "Yes"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP, f/2.2, (wide)",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers (6 speakers)",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+      "Bluetooth": "5.3, A2DP, LE, aptX HD",
+      "Positioning": "Unspecified",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "USB Type-C"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 10100 mAh",
+      "Charging": "45W wired"
+    },
+    "MISC": {
+      "Colors": "Green, Pink"
+    }
+  }
+}
