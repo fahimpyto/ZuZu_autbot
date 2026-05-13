@@ -1,0 +1,94 @@
+{
+  "url": "https://www.gsmarena.com/sony_xperia_1_viii_5g-14660.php",
+  "name": "Sony Xperia 1 VIII",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-1-viii-2.jpg",
+  "highlights": [
+    "Exp. release 2026, June 26\n200g, 8.3mm thickness\nAndroid 16, up to 4 major Android upgrades\n256GB/512GB/1TB storage, microSDXC",
+    "34%\n12,598 HITS",
+    "24\nBECOME A FAN",
+    "6.5\"\n1080x2340 pixels",
+    "48MP\n2160p",
+    "12/16GB RAM\nSnapdragon 8 Elite Gen 5",
+    "5000mAh\n30W15W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA/Sub6",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, May 13",
+      "Status": "Coming soon. Exp. release 2026, June 26"
+    },
+    "BODY": {
+      "Dimensions": "162 x 74 x 8.3 mm (6.38 x 2.91 x 0.33 in)",
+      "Weight": "200 g (7.05 oz)",
+      "Build": "Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus), aluminum frame",
+      "SIM": "· Nano-SIM + eSIM\n· Nano-SIM + Nano-SIM",
+      "": "IP65/IP68 dust tight and water resistant (low pressure water jets; immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "LTPO OLED, 1B colors, 120Hz, HDR BT.2020",
+      "Size": "6.5 inches, 103.7 cm2 (~86.5% screen-to-body ratio)",
+      "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~396 ppi density)",
+      "Protection": "Corning Gorilla Glass Victus 2"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, up to 4 major Android upgrades",
+      "Chipset": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+      "CPU": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
+      "GPU": "Adreno 840"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (uses shared SIM slot)",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+      "": "UFS"
+    },
+    "MAIN CAMERA": {
+      "Triple": "48 MP, f/1.9, 24mm (wide), 1/1.35\", 1.12µm, dual pixel PDAF, OIS\n48 MP, f/2.8, 70mm (periscope telephoto), 1/1.56\", 1.0µm, dual-pixel PDAF (15cm - ∞), OIS, 2.9x optical zoom\n48 MP, f/2.0, 16mm (ultrawide), 1/1.56\", 1.0µm, PDAF",
+      "Features": "Zeiss optics, Zeiss T* lens coating, color spectrum sensor, LED flash, panorama, HDR, eye tracking",
+      "Video": "4K@24/30/60/120fps HDR, 1080p@30/60/120fps; 5-axis gyro-EIS, OIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "12 MP, f/2.0, 24mm (wide), 1/2.9\", 1.22µm",
+      "Features": "HDR",
+      "Video": "4K@30/60fps, 1080p@30/60fps, 5-axis gyro-EIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "Yes",
+      "": "Hi-Res & Hi-Res wireless audio\nDynamic vibration system\nSnapdragon Sound"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct, DLNA",
+      "Bluetooth": "6.0, A2DP, LE Audio, aptX HD, aptX Adaptive, aptX Lossless",
+      "Positioning": "GPS, GLONASS, BDS, GALILEO, QZSS",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2, OTG, video output"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, barometer, compass",
+      "": "Native Sony Alpha camera support"
+    },
+    "BATTERY": {
+      "Type": "5000 mAh",
+      "Charging": "30W wired, PD3.0, PPS, 50% in 30 min\n15W wireless\nReverse wireless\nBypass charging"
+    },
+    "MISC": {
+      "Colors": "Graphite Black, Iolite Silver, Garnet Red, Native Gold",
+      "Models": "XQ-GE74",
+      "Price": "About 1500 EUR"
+    },
+    "OUR TESTS": {
+      "Performance": "AnTuTu: 2312684 (v10), 3210596 (v11)\nGeekBench: 9278 (v6)\n3DMark: 6962 (Wild Life Extreme)",
+      "Display": "1510 nits max brightness (measured)",
+      "Loudspeaker": "-25.5 LUFS (Very good)",
+      "Battery": "Active use score 17:47h"
+    }
+  }
+}
