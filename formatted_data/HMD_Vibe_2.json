@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, (wide)",
+    "Flash:": "LED flash, HDR",
+    "Front:": "8 MP",
+    "Folded:": "",
+    "Main camera:": "50 MP, (wide)",
+    "Second camera:": "Auxiliary lens",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Cosmic Lavender, Nordic Blue, Peach Pink",
+    "Folded:": "",
+    "Weight:": "-",
+    "Materials:": "Glass front, plastic frame, plastic back",
+    "Biometrics:": "Fingerprint (side-mounted), accelerometer, proximity",
+    "Dimensions:": "-",
+    "Resistance:": "IP64 dust tight and water resistant (water splashes)"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "6000 mAh",
+    "Charging:": "18W wired",
+    "Max charge speed:": "Wired: 18W"
+  },
+  "Display": {
+    "Size:": "6.75 inches",
+    "Features:": "Fingerprint (side-mounted), accelerometer, proximity",
+    "Resolution:": "720 x 1640 pixels (~265 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 2100",
+    "4G bands:": "1, 3, 5, 8, 28, 40, 41",
+    "5G bands:": "1, 3, 5, 8, 28, 40, 41, 77, 78 SA/NSA",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 16",
+    "GPU:": "Mali-G57 MC2",
+    "RAM:": "4GB",
+    "Processor:": "Unisoc T8200 (6 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "64GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with dual speakers",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, proximity",
+    "Features:": "USB Type-C 2.0",
+    "Location:": "GPS, GLONASS",
+    "Bluetooth:": "5.2, A2DP, LE"
+  }
+}
