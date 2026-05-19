@@ -1,0 +1,82 @@
+{
+  "url": "https://www.gsmarena.com/honor_x7e-14677.php",
+  "name": "Honor X7e",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x7e-.jpg",
+  "highlights": [
+    "Exp. release 2026, May\n200g, 8.3mm thickness\nAndroid 16, MagicOS 10\n128GB/256GB storage, no card slot",
+    "5.5%\n1,882 HITS",
+    "1\nBECOME A FAN",
+    "6.61\"\n720x1604 pixels",
+    "50MP\n1080p",
+    "6GB RAM\nHelio G81 Ultra",
+    "7500mAh\n45W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+      "4G bands": "LTE",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2026, May 19",
+      "Status": "Coming soon. Exp. release 2026, May"
+    },
+    "BODY": {
+      "Dimensions": "163.9 x 75.9 x 8.3 mm (6.45 x 2.99 x 0.33 in)",
+      "Weight": "200 g (7.05 oz)",
+      "Build": "Glass front, plastic frame, plastic back",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP64 dust tight and water resistant (water splashes)\nDrop resistant up to 1.8m"
+    },
+    "DISPLAY": {
+      "Type": "TFT LCD, 120Hz, 1010 nits (peak)",
+      "Size": "6.61 inches, 105.3 cm2 (~84.7% screen-to-body ratio)",
+      "Resolution": "720 x 1604 pixels, 20:9 ratio (~266 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, MagicOS 10",
+      "Chipset": "Mediatek Helio G81 Ultra (12 nm)",
+      "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.7 GHz Cortex-A55)",
+      "GPU": "Mali-G52 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "128GB 6GB RAM, 256GB 6GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "50 MP, f/1.8, (wide), AF",
+      "Features": "LED flash, panorama, HDR",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "5 MP, f/2.2, (wide)",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+      "Bluetooth": "5.1, A2DP, LE",
+      "Positioning": "GPS, GALILEO, GLONASS, BDS",
+      "NFC": "Yes (market/region dependent)",
+      "Radio": "FM radio",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, proximity"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Po 7500 mAh",
+      "Charging": "45W wired\n7.5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Black, Blue, Orange",
+      "Models": "LAB-LX1, LAB-LX3",
+      "Price": "About 200 EUR"
+    }
+  }
+}
