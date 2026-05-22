@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "",
+    "Flash:": "",
+    "Front:": "",
+    "Folded:": "",
+    "Main camera:": "",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": ""
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Rock Grey, Sand White",
+    "Folded:": "",
+    "Weight:": "49.6 g (1.76 oz)",
+    "Materials:": "",
+    "Biometrics:": "Accelerometer, heart rate, SpO2, compass",
+    "Dimensions:": "45.6 x 45.6 x 13.5 mm (1.80 x 1.80 x 0.53 in)",
+    "Resistance:": "Waterproof (5ATM)"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "460 mAh",
+    "Charging:": "",
+    "Max charge speed:": ""
+  },
+  "Display": {
+    "Size:": "1.43 inches",
+    "Features:": "Accelerometer, heart rate, SpO2, compass",
+    "Resolution:": "466 x 466 pixels (~302 ppi density)",
+    "Technology:": "AMOLED",
+    "Refresh rate:": "",
+    "Screen-to-body:": "",
+    "Peak brightness:": "1500 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "N/A",
+    "4G bands:": "N/A",
+    "5G bands:": "",
+    "SIM type:": "No"
+  },
+  "Hardware": {
+    "OS:": "Proprietary OS",
+    "GPU:": "",
+    "RAM:": "",
+    "Processor:": "",
+    "Device type:": "Smartphone",
+    "Internal storage:": " (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "No",
+    "Other:": "NFC",
+    "Wi-Fi:": "No",
+    "Sensors:": "Accelerometer, heart rate, SpO2, compass",
+    "Features:": "No",
+    "Location:": "GPS, GALILEO, GLONASS, BDS, QZSS",
+    "Bluetooth:": "5.3, A2DP, LE"
+  }
+}

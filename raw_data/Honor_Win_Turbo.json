@@ -1,0 +1,84 @@
+{
+  "url": "https://www.gsmarena.com/honor_win_turbo_5g-14684.php",
+  "name": "Honor Win Turbo",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-win-turbo-.jpg",
+  "highlights": [
+    "Not announced yet\n8mm thickness\nAndroid 16, MagicOS 10\n256GB/512GB storage, no card slot",
+    "18%\n4,519 HITS",
+    "11\nBECOME A FAN",
+    "6.79\"\n1200x2640 pixels",
+    "50MP\n2160p",
+    "12/16GB RAM\nDimensity 8500 Elite",
+    "10080mAh\n80W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 6m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 120Hz, HDR Vivid, 3840Hz PWM, 1800 nits (HBM), 8000 nits (peak)",
+      "Size": "6.79 inches, 112.1 cm2 (~90.6% screen-to-body ratio)",
+      "Resolution": "1200 x 2640 pixels (~427 ppi density)",
+      "Protection": "Aluminosilicate glass"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, MagicOS 10",
+      "Chipset": "Mediatek Dimensity 8500 Elite (4 nm)",
+      "CPU": "Octa-core (1x3.4 GHz Cortex-A725 & 3x3.2 GHz Cortex-A725 & 4x2.2 GHz Cortex-A725)",
+      "GPU": "Mali-G720 MC8"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM",
+      "": "UFS 4.1"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.9, (wide), PDAF, OIS\n5 MP, (ultrawide)",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "4K@30fps, 1080p@30fps, gyro-EIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "16 MP, f/2.5, (wide)",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+      "Bluetooth": "6.0, A2DP, LE, aptX HD, LHDC 5, Auracast, ASHA",
+      "Positioning": "GPS (L1+L5), GLONASS, BDS (B1I+B1c+B2a), GALILEO (E1 + E5a), QZSS (L1+L5), NavIC (L5)",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity (ultrasonic)"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Po 10080 mAh",
+      "Charging": "80W wired\n27W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Black, White, Blue",
+      "Price": "About 330 EUR"
+    }
+  }
+}

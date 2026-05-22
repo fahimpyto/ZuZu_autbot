@@ -1,0 +1,70 @@
+{
+  "url": "https://www.gsmarena.com/realme_watch_s5-14686.php",
+  "name": "Realme Watch S5",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/realme-watch-s5.jpg",
+  "highlights": [
+    "Exp. release 2026, June 05\n49.6g, 13.5mm thickness\nProprietary OS\nNo card slot",
+    "4.3%\n1,102 HITS",
+    "2\nBECOME A FAN",
+    "1.43\"\n466x466 pixels",
+    "NO",
+    "",
+    "460mAh"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2026, May 22",
+      "Status": "Coming soon. Exp. release 2026, June 05"
+    },
+    "BODY": {
+      "Dimensions": "45.6 x 45.6 x 13.5 mm (1.80 x 1.80 x 0.53 in)",
+      "Weight": "49.6 g (1.76 oz)",
+      "SIM": "No",
+      "": "Waterproof (5ATM)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 600 nits (typ), 1500 nits (peak)",
+      "Size": "1.43 inches",
+      "Resolution": "466 x 466 pixels (~302 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Proprietary OS"
+    },
+    "MEMORY": {
+      "Card slot": "No"
+    },
+    "CAMERA": {
+      "": "No"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "No",
+      "Bluetooth": "5.3, A2DP, LE",
+      "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "No"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, heart rate, SpO2, compass"
+    },
+    "BATTERY": {
+      "Type": "460 mAh"
+    },
+    "MISC": {
+      "Colors": "Rock Grey, Sand White",
+      "Price": "About 70 EUR"
+    }
+  }
+}
