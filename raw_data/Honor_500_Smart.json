@@ -1,0 +1,83 @@
+{
+  "url": "https://www.gsmarena.com/honor_500_smart_5g-14689.php",
+  "name": "Honor 500 Smart",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play-60a.jpg",
+  "highlights": [
+    "Released 2026, April\n186g, 7.9mm thickness\nAndroid 16, MagicOS 10\n256GB storage, microSDXC",
+    "8.0%\n1,639 HITS",
+    "2\nBECOME A FAN",
+    "6.75\"\n720x1600 pixels",
+    "50MP\n1080p",
+    "8GB RAM\nDimensity 6300",
+    "5260mAh\n15W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, April 09",
+      "Status": "Available. Released 2026, April"
+    },
+    "BODY": {
+      "Dimensions": "167 x 77 x 7.9 mm (6.57 x 3.03 x 0.31 in)",
+      "Weight": "186 g (6.56 oz)",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP54 dust protected and water resistant (water splashes)"
+    },
+    "DISPLAY": {
+      "Type": "TFT LCD, 90Hz, 450 nits",
+      "Size": "6.75 inches, 110.0 cm2 (~85.5% screen-to-body ratio)",
+      "Resolution": "720 x 1600 pixels, 20:9 ratio (~260 ppi density)",
+      "Protection": "Aluminosilicate glass"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, MagicOS 10",
+      "Chipset": "Mediatek Dimensity 6300 (6 nm)",
+      "CPU": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC",
+      "Internal": "256GB 8GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.8, (wide)\nAuxiliary lens",
+      "Features": "LED flash",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "5 MP, f/2.2, (wide)",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+      "Bluetooth": "5.3, A2DP, LE, aptX HD",
+      "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 5260 mAh",
+      "Charging": "15W wired\n2.5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Midnight Black, Ocean Cyan",
+      "Models": "LNA-NX1",
+      "Price": "About 240 EUR"
+    }
+  }
+}
