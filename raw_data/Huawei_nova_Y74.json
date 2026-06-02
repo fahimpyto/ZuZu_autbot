@@ -1,0 +1,78 @@
+{
+  "url": "https://www.gsmarena.com/huawei_nova_y74-14703.php",
+  "name": "Huawei nova Y74",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-enjoy-90.jpg",
+  "highlights": [
+    "Released 2026, May\n210g, 8.3mm thickness\nEMUI 12\n128GB/256GB storage, no card slot",
+    "N/A\n126 HITS",
+    "1\nBECOME A FAN",
+    "6.67\"\n720x1604 pixels",
+    "50MP\n1080p",
+    "8GB RAM",
+    "6620mAh\n40W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "1, 2, 3, 4, 5, 7, 8, 13, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41, 66",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2026, May",
+      "Status": "Available. Released 2026, May"
+    },
+    "BODY": {
+      "Dimensions": "166.1 x 76.6 x 8.3 mm (6.54 x 3.02 x 0.33 in)",
+      "Weight": "210 g (7.41 oz)",
+      "Build": "Glass front, plastic frame, plastic back",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "Drop resistant up to 1.8m"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 90Hz, 850 nits (peak)",
+      "Size": "6.67 inches, 107.2 cm2 (~84.3% screen-to-body ratio)",
+      "Resolution": "720 x 1604 pixels, 20:9 ratio (~264 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "EMUI 12"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "128GB 8GB RAM, 256GB 8GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "50 MP, f/1.8, (wide), PDAF",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP, f/2.0, (wide)",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 b/g/n",
+      "Bluetooth": "5.1, A2DP",
+      "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+      "NFC": "Yes (market/region dependent)",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 6620 mAh",
+      "Charging": "40W wired, 53% in 30 min\n5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Black, Blue",
+      "Models": "MGA-LX3"
+    }
+  }
+}
