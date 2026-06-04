@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "13 MP, (wide), AF",
+    "Flash:": "LED flash",
+    "Front:": "5 MP",
+    "Folded:": "",
+    "Main camera:": "13 MP, (wide), AF",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Gray",
+    "Folded:": "",
+    "Weight:": "560 g (1.23 lb)",
+    "Materials:": "Glass front, aluminum frame, aluminum back",
+    "Biometrics:": "Accelerometer, proximity (accessories only)",
+    "Dimensions:": "6.5 mm thickness",
+    "Resistance:": "Stylus support"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "8000 mAh",
+    "Charging:": "",
+    "Max charge speed:": ""
+  },
+  "Display": {
+    "Size:": "12.2 inches",
+    "Features:": "Accelerometer, proximity (accessories only)",
+    "Resolution:": "1840 x 2880 pixels (~280 ppi density)",
+    "Technology:": "OLED",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "N/A",
+    "4G bands:": "N/A",
+    "5G bands:": "",
+    "SIM type:": "No"
+  },
+  "Hardware": {
+    "OS:": "Android 16",
+    "GPU:": "Mali-G615 MC2",
+    "RAM:": "8GB",
+    "Processor:": "Mediatek Dimensity 7400 (4 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "Unspecified",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0",
+    "Other:": "NFC",
+    "Wi-Fi:": "Yes",
+    "Sensors:": "Accelerometer, proximity (accessories only)",
+    "Features:": "USB Type-C 2.0",
+    "Location:": "Unspecified",
+    "Bluetooth:": "Yes"
+  }
+}

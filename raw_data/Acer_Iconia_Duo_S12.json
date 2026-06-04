@@ -1,0 +1,82 @@
+{
+  "url": "https://www.gsmarena.com/acer_iconia_duo_s12-14708.php",
+  "name": "Acer Iconia Duo S12",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/acer-iconia-duo-s12.jpg",
+  "highlights": [
+    "Exp. release 2026, August\n560 g\nAndroid 16\n256GB storage, microSDXC",
+    "5.3%\n1,841 HITS",
+    "1\nBECOME A FAN",
+    "12.2\"\n1840x2880 pixels",
+    "13MP\n1080p",
+    "8GB RAM\nDimensity 7400",
+    "8000mAh"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2026, June 03",
+      "Status": "Coming soon. Exp. release 2026, August"
+    },
+    "BODY": {
+      "Dimensions": "6.5 mm thickness",
+      "Weight": "560 g (1.23 lb)",
+      "Build": "Glass front, aluminum frame, aluminum back",
+      "SIM": "No",
+      "": "Stylus support"
+    },
+    "DISPLAY": {
+      "Type": "OLED, 120Hz, 600 nits",
+      "Size": "12.2 inches, 435.7 cm2",
+      "Resolution": "1840 x 2880 pixels (~280 ppi density)",
+      "": "Anti-glare screen"
+    },
+    "PLATFORM": {
+      "OS": "Android 16",
+      "Chipset": "Mediatek Dimensity 7400 (4 nm)",
+      "CPU": "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G615 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (dedicated slot)",
+      "Internal": "256GB 8GB RAM",
+      "": "UFS"
+    },
+    "MAIN CAMERA": {
+      "Single": "13 MP, (wide), AF",
+      "Features": "LED flash",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "5 MP",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "Unspecified"
+    },
+    "COMMS": {
+      "WLAN": "Yes",
+      "Bluetooth": "Yes",
+      "Positioning": "Unspecified",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, proximity (accessories only)"
+    },
+    "BATTERY": {
+      "Type": "8000 mAh"
+    },
+    "MISC": {
+      "Colors": "Gray"
+    }
+  }
+}
