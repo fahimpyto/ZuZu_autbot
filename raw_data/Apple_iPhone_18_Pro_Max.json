@@ -1,0 +1,87 @@
+{
+  "url": "https://www.gsmarena.com/apple_iphone_18_pro_max_5g-14716.php",
+  "name": "Apple iPhone 18 Pro Max",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-18-pro-max-r1.jpg",
+  "highlights": [
+    "Not announced yet\n8.8mm thickness\niOS 27\n256GB/512GB/2TB storage, no card slot",
+    "94%\n38,326 HITS",
+    "12\nBECOME A FAN",
+    "6.9\"\n1320x2868 pixels",
+    "48MP\n2160p",
+    "12GB RAM\nApple A20 Pro",
+    "5100mAh\nPD3.225W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA/Sub6 - International",
+      "": "SA/NSA/Sub6/mmWave - USA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "Build": "Glass front (Ceramic Shield 2), aluminum frame, aluminum back/ glass back (Ceramic Shield)",
+      "SIM": "· Nano-SIM + eSIM + eSIM (max 2 at a time; International)\n· eSIM + eSIM (8 or more, max 2 at a time; USA)\n· Nano-SIM + Nano-SIM (China)",
+      "": "IP68 dust tight and water resistant (immersible up to 6m for 30 min)\nApple Pay (Visa, MasterCard, AMEX certified)"
+    },
+    "DISPLAY": {
+      "Type": "LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision",
+      "Size": "6.9 inches, 115.6 cm2 (~90.7% screen-to-body ratio)",
+      "Resolution": "1320 x 2868 pixels, 19.5:9 ratio (~460 ppi density)",
+      "Protection": "Ceramic Shield 2",
+      "": "Anti-reflective coating"
+    },
+    "PLATFORM": {
+      "OS": "iOS 27",
+      "Chipset": "Apple A20 Pro (2 nm)",
+      "CPU": "Hexa-core (2x GHz + 4x GHz)",
+      "GPU": "Apple GPU (8-core graphics)"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 1TB 12GB RAM, 2TB 12GB RAM",
+      "": "NVMe"
+    },
+    "MAIN CAMERA": {
+      "Triple": "48 MP, f/1.6-4.0, 24mm (wide), 1/1.28\", 1.22µm, dual pixel PDAF, sensor-shift OIS\n48 MP, f/2.8, 100mm (periscope telephoto), 1/2.55\", 0.7µm, PDAF, 3D sensor‑shift OIS, 4x optical zoom\n48 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\", 0.7µm, PDAF\nTOF 3D LiDAR scanner (depth)",
+      "Features": "Dual-LED dual-tone flash, HDR (photo/panorama)",
+      "Video": "4K@24/25/30/60/100/120fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 120fps), ProRes, ProRes RAW (up to 120fps), Apple Log 2, 3D (spatial) video/audio, stereo sound rec."
+    },
+    "SELFIE CAMERA": {
+      "Single": "18 MP multi-aspect, f/1.9, 20mm (ultrawide), PDAF\nSL 3D, (depth/biometrics sensor)",
+      "Features": "HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec., ProRes RAW, Apple Log 2",
+      "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, hotspot",
+      "Bluetooth": "6.0, A2DP, LE",
+      "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2 Gen 2, DisplayPort"
+    },
+    "FEATURES": {
+      "Sensors": "Face ID, accelerometer, gyro, proximity, compass, barometer",
+      "": "Ultra Wideband (UWB) support (gen2 chip)\nEmergency SOS, Messages and Find My via satellite"
+    },
+    "BATTERY": {
+      "Type": "5100 mAh",
+      "Charging": "Wired, PD3.2, AVS, 50% in 20 min\n25W wireless MagSafe/Qi2, 50% in 30 min (15W - China)\n4.5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Coffee Brown, Pruple, Burgundy"
+    }
+  }
+}
