@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50.3 MP, f/1.9, 23mm (wide), 1/1.55\", dual pixel PDAF, OIS",
+    "Flash:": "Color spectrum sensor, Leica lens, LED flash, HDR, panorama",
+    "Front:": "50.3 MP, f/2.2, 23mm (wide), 1/2.88\", PDAF",
+    "Folded:": "",
+    "Main camera:": "50.3 MP, f/1.9, 23mm (wide), 1/1.55\", dual pixel PDAF, OIS",
+    "Second camera:": "38.5 MP, f/2.4, 68mm (telephoto), 1/2.88\", PDAF, OIS, 3x optical zoom",
+    "Third camera:": "50.3 MP, f/2.2, 13mm, 122˚ (ultrawide), 1/2.55\", PDAF",
+    "Specifications:": "Aperture size: F/1.9 Focal Length: 23mm",
+    "Video recording:": "4K@30fps, 1080p@30/60fps, gyro-EIS, Dolby Vision HDR"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Navy, Ivory, Terracotta",
+    "Folded:": "",
+    "Weight:": "195 g (6.88 oz)",
+    "Materials:": "Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame",
+    "Biometrics:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+    "Dimensions:": "156 x 74 x 8.9 mm (6.14 x 2.91 x 0.35 in)",
+    "Resistance:": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nMIL-STD-810H compliant\nRGB strip (on the back)"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "5100 mAh",
+    "Charging:": "36W wired, PD3.0",
+    "Max charge speed:": "Wired: 36W"
+  },
+  "Display": {
+    "Size:": "6.5 inches",
+    "Features:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+    "Resolution:": "1080 x 2340 pixels, 19.5:9 ratio (~396 ppi density)",
+    "Technology:": "PRO IGZO LTPO OLED",
+    "Refresh rate:": "240Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "3600 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "SIM type:": "Nano-SIM + eSIM"
+  },
+  "Hardware": {
+    "OS:": "Android 16, up to 3 major Android upgrades",
+    "GPU:": "Adreno 825",
+    "RAM:": "12GB",
+    "Processor:": "Qualcomm SM8735 Snapdragon 8s Gen 4 (4 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers (with Dolby Atmos)",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 3.2, Display Port 1.4",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6/7",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+    "Features:": "USB Type-C 3.2, Display Port 1.4",
+    "Location:": "GPS (L1+L5), BDS, GALILEO, QZSS, GLONASS",
+    "Bluetooth:": "6.0, A2DP, LE, aptX HD, aptX Adaptive, Auracast"
+  }
+}

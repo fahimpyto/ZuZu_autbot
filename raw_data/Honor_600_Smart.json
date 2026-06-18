@@ -1,0 +1,90 @@
+{
+  "url": "https://www.gsmarena.com/honor_600_smart_5g-14738.php",
+  "name": "Honor 600 Smart",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-600-smart-5g.jpg",
+  "highlights": [
+    "Exp. release 2026, June\n8.3mm thickness\nAndroid 16, MagicOS 10\n128GB storage, Unspecified",
+    "21%\n4,674 HITS",
+    "3\nBECOME A FAN",
+    "6.87\"\n720x1592 pixels",
+    "50MP\n1080p",
+    "4GB RAM\nSnapdragon 4 Gen 4",
+    "7700mAh\n45W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, June 18",
+      "Status": "Coming soon. Exp. release 2026, June"
+    },
+    "BODY": {
+      "Dimensions": "168.3 x 78.5 x 8.3 mm (6.63 x 3.09 x 0.33 in)",
+      "Weight": "-",
+      "Build": "Glass front, plastic frame, plastic back",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP64 dust tight and water resistant (water splashes)\nDrop resistant up to 2.5m"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 120Hz, 1020 nits (peak)",
+      "Size": "6.87 inches, 114.3 cm2 (~86.5% screen-to-body ratio)",
+      "Resolution": "720 x 1592 pixels (~254 ppi density)",
+      "Protection": "Mohs level 5"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, MagicOS 10",
+      "Chipset": "Qualcomm SM4450-AF Snapdragon 4 Gen 4",
+      "CPU": "Octa-core (2x2.3 GHz Cortex-A78 & 6x1.95 GHz Cortex-A55)",
+      "GPU": "Adreno 613"
+    },
+    "MEMORY": {
+      "Card slot": "Unspecified",
+      "Internal": "128GB 4GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "50 MP, PDAF",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "Yes",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+      "Bluetooth": "Yes",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS",
+      "NFC": "Unspecified",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "7700 mAh",
+      "Charging": "45W wired\nReverse wired"
+    },
+    "MISC": {
+      "Colors": "Meteor Silver, Black",
+      "Models": "MRK-NX1",
+      "Price": "About 300 EUR"
+    },
+    "EU LABEL": {
+      "Energy": "Class A",
+      "Battery": "93:22h endurance, 1600 cycles",
+      "Free fall": "Class A (270 falls)",
+      "Repairability": "Class C"
+    }
+  }
+}

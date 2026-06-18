@@ -1,0 +1,85 @@
+{
+  "url": "https://www.gsmarena.com/sharp_aquos_r11_5g-14740.php",
+  "name": "Sharp Aquos R11",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/sharp-aquos-r11.jpg",
+  "highlights": [
+    "Exp. release 2026, July 09\n195g, 8.9mm thickness\nAndroid 16, up to 3 major Android upgrades\n256GB/512GB storage, microSDXC",
+    "23%\n5,205 HITS",
+    "12\nBECOME A FAN",
+    "6.5\"\n1080x2340 pixels",
+    "50MP\n2160p",
+    "12GB RAM\nSnapdragon 8s Gen 4",
+    "5100mAh\n36W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, June 16",
+      "Status": "Coming soon. Exp. release 2026, July 09"
+    },
+    "BODY": {
+      "Dimensions": "156 x 74 x 8.9 mm (6.14 x 2.91 x 0.35 in)",
+      "Weight": "195 g (6.88 oz)",
+      "Build": "Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame",
+      "SIM": "Nano-SIM + eSIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nMIL-STD-810H compliant\nRGB strip (on the back)"
+    },
+    "DISPLAY": {
+      "Type": "PRO IGZO LTPO OLED, 240Hz, Dolby Vision, HDR, 1800 nits (HBM), 3600 nits (peak)",
+      "Size": "6.5 inches, 103.7 cm2 (~89.8% screen-to-body ratio)",
+      "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~396 ppi density)",
+      "Protection": "Corning Gorilla Glass Victus 2"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, up to 3 major Android upgrades",
+      "Chipset": "Qualcomm SM8735 Snapdragon 8s Gen 4 (4 nm)",
+      "CPU": "Octa-core (1x3.21 GHz Cortex-X4 & 3x3.0 GHz Cortex-A720 & 2x2.8 GHz Cortex-A720 & 2x2.0 GHz Cortex-A720)",
+      "GPU": "Adreno 825"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM",
+      "": "UFS 4.1"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50.3 MP, f/1.9, 23mm (wide), 1/1.55\", dual pixel PDAF, OIS\n38.5 MP, f/2.4, 68mm (telephoto), 1/2.88\", PDAF, OIS, 3x optical zoom\n50.3 MP, f/2.2, 13mm, 122˚ (ultrawide), 1/2.55\", PDAF",
+      "Features": "Color spectrum sensor, Leica lens, LED flash, HDR, panorama",
+      "Video": "4K@30fps, 1080p@30/60fps, gyro-EIS, Dolby Vision HDR"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50.3 MP, f/2.2, 23mm (wide), 1/2.88\", PDAF",
+      "Video": "1080p@30/60fps, gyro-EIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers (with Dolby Atmos)",
+      "3.5mm jack": "No",
+      "": "Snapdragon Sound\n24-bit/192kHz Hi-Res & Hi-Res wireless audio"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7",
+      "Bluetooth": "6.0, A2DP, LE, aptX HD, aptX Adaptive, Auracast",
+      "Positioning": "GPS (L1+L5), BDS, GALILEO, QZSS, GLONASS",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2, Display Port 1.4"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "5100 mAh",
+      "Charging": "36W wired, PD3.0"
+    },
+    "MISC": {
+      "Colors": "Navy, Ivory, Terracotta",
+      "Models": "SH-51G, SH-M35"
+    }
+  }
+}
