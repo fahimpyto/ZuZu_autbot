@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "200 MP, f/1.9, (wide), 1/1.3\", PDAF, OIS",
+    "Flash:": "Color spectrum sensor, Laser AF, Zeiss optics, Zeiss T* lens coating, Dual-LED flash, panorama",
+    "Front:": "20 MP, f/2.4, 21mm (wide), 1/3.6\", 0.7µm\nCover camera:\n20 MP, f/2.4, 21mm (wide), 1/3.6\", 0.7µm",
+    "Folded:": "",
+    "Main camera:": "200 MP, f/1.9, (wide), 1/1.3\", PDAF, OIS",
+    "Second camera:": "50 MP, f/2.6, 70mm (periscope telephoto), 1/1.95\", 0.8µm, PDAF, OIS, 3x optical zoom",
+    "Third camera:": "50 MP, f/2.1, 15mm, 119˚ (ultrawide), 1/2.76\", 0.64µm, PDAF",
+    "Specifications:": "Aperture size: F/1.9",
+    "Video recording:": "8K@30fps, 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Gray, White, Azure",
+    "Folded:": "",
+    "Weight:": "-",
+    "Materials:": "Glass front (closed), aluminum frame, glass-fiber reinforced plastic back",
+    "Biometrics:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+    "Dimensions:": "Unfolded: 159.7 x 142.3 x 4.3 mm\nFolded: 159.7 x 72.6 x 9.2 mm",
+    "Resistance:": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+  },
+  "Battery": {
+    "Type:": "Si/C Li-Ion",
+    "Capacity:": "7000 mAh",
+    "Charging:": "80W wired\n40W wireless\nReverse wired\n5W reverse wireless",
+    "Max charge speed:": "Wired: 80WWireless: 40W"
+  },
+  "Display": {
+    "Size:": "8.03 inches",
+    "Features:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+    "Resolution:": "2200 x 2480 pixels (~413 ppi density)",
+    "Technology:": "Foldable LTPO AMOLED",
+    "Refresh rate:": "144Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 16, OriginOS 6 Fold",
+    "GPU:": "Mali-G1 Ultra MC12",
+    "RAM:": "12GB",
+    "Processor:": "Mediatek Dimensity 9500 Super (3 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 3.2, OTG, Display Port",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band or tri-band, Wi-Fi Direct",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+    "Features:": "USB Type-C 3.2, OTG, Display Port",
+    "Location:": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), GLONASS",
+    "Bluetooth:": "5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless"
+  }
+}
