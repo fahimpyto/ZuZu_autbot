@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "108 MP, (wide), PDAF",
+    "Flash:": "LED flash",
+    "Front:": "32 MP",
+    "Folded:": "",
+    "Main camera:": "108 MP, (wide), PDAF",
+    "Second camera:": "Auxiliary lenses",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "Yes"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Aero White, Prime Black",
+    "Folded:": "",
+    "Weight:": "172 g (6.07 oz)",
+    "Materials:": "Glass front, aluminum frame",
+    "Biometrics:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+    "Dimensions:": "6 mm thickness",
+    "Resistance:": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+  },
+  "Battery": {
+    "Type:": "Si/C Li-Ion",
+    "Capacity:": "5000 mAh",
+    "Charging:": "45W wired\n10W reverse wired\nBypass charging",
+    "Max charge speed:": "Wired: 45W"
+  },
+  "Display": {
+    "Size:": "6.77 inches",
+    "Features:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+    "Resolution:": "1224 x 2720 pixels, 20:9 ratio (~441 ppi density)",
+    "Technology:": "AMOLED",
+    "Refresh rate:": "144Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "4500 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1900 / 2100",
+    "4G bands:": "",
+    "5G bands:": "SA/NSA",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 16",
+    "GPU:": "Mali-G610 MC2",
+    "RAM:": "8GB",
+    "Processor:": "Mediatek Dimensity 7100 (6 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0",
+    "Other:": "NFC",
+    "Wi-Fi:": "Yes",
+    "Sensors:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+    "Features:": "USB Type-C 2.0",
+    "Location:": "GPS, GALILEO, GLONASS",
+    "Bluetooth:": "Yes"
+  }
+}
