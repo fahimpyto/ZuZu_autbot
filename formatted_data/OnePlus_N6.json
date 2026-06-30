@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.8, (wide), PDAF",
+    "Flash:": "LED flash, panorama",
+    "Front:": "8 MP, f/2.0, (wide)",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.8, (wide), PDAF",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "Aperture size: F/1.8",
+    "Video recording:": "1080p@30/60fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Fresh Mint, Midnight Green",
+    "Folded:": "",
+    "Weight:": "224 g (7.90 oz)",
+    "Materials:": "Glass front, plastic frame, plastic back",
+    "Biometrics:": "Unspecified",
+    "Dimensions:": "166.5 x 78.2 x 8.9 mm (6.56 x 3.08 x 0.35 in)",
+    "Resistance:": "IP65 dust tight and water resistant (low pressure water jets)\nMIL-STD-810H compliant*\n* does not guarantee ruggedness or use in extreme conditions"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "8000 mAh",
+    "Charging:": "45W wired, 50% in 47 min\n5W reverse wired\nBypass charging",
+    "Max charge speed:": "Wired: 45W"
+  },
+  "Display": {
+    "Size:": "6.8 inches",
+    "Features:": "Unspecified",
+    "Resolution:": "720 x 1570 pixels, 19.5:9 ratio (~254 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 16, OxygenOS 16, up to 2 major Android upgrades",
+    "GPU:": "Mali-G57 MC2",
+    "RAM:": "4GB",
+    "Processor:": "Mediatek Dimensity 6360 Apex (6 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "128GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0, OTG",
+    "Other:": "NFC",
+    "Wi-Fi:": "Yes",
+    "Sensors:": "Unspecified",
+    "Features:": "USB Type-C 2.0, OTG",
+    "Location:": "GPS",
+    "Bluetooth:": "Yes"
+  }
+}
