@@ -1,0 +1,83 @@
+{
+  "url": "https://www.gsmarena.com/lenovo_legion_y900_11-14779.php",
+  "name": "Lenovo Legion Y900 11",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-legion-y900-11.jpg",
+  "highlights": [
+    "Released 2026, May\n480 g\nAndroid 16\n128GB/256GB/512GB storage, microSDXC",
+    "5.9%\n1,773 HITS",
+    "3\nBECOME A FAN",
+    "11.1\"\n3840x2560 pixels",
+    "13MP",
+    "8/12GB RAM\nDimensity 9500s",
+    "11000mAh\n68W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2026, May 22",
+      "Status": "Available. Released 2026, May"
+    },
+    "BODY": {
+      "Dimensions": "6.0 mm thickness",
+      "Weight": "480 g (1.06 lb)",
+      "SIM": "No",
+      "": "Stylus support (magnetic)\nRGB notification light (on the back)"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 68B colors, 144Hz, Dolby Vision, 1100 nits (peak)",
+      "Size": "11.1 inches, 366.9 cm2",
+      "Resolution": "3840 x 2560 pixels, 3:2 ratio (~416 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16",
+      "Chipset": "Mediatek Dimensity 9500s (3 nm)",
+      "CPU": "Octa-core (1x3.73 GHz Cortex-X925 & 3x3.3 GHz Cortex-X4 & 4x2.4 GHz Cortex-A720)",
+      "GPU": "Immortalis-G925 MC12"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC",
+      "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",
+      "": "UFS 4.1 - 256/512GB only"
+    },
+    "MAIN CAMERA": {
+      "Single": "13 MP",
+      "Video": "Yes"
+    },
+    "SELFIE CAMERA": {
+      "Dual": "8 MP\nAuxiliary lens",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers, Dolby Atmos (4 speakers)",
+      "3.5mm jack": "No",
+      "": "Harman Kardon sound"
+    },
+    "COMMS": {
+      "WLAN": "Yes",
+      "Bluetooth": "Yes",
+      "Positioning": "Unspecified",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2, accessory connector pins"
+    },
+    "FEATURES": {
+      "Sensors": "Yes"
+    },
+    "BATTERY": {
+      "Type": "11000 mAh",
+      "Charging": "68W wired"
+    },
+    "MISC": {
+      "Colors": "Black, White, Purple",
+      "Models": "TB711FU",
+      "Price": "About 400 EUR"
+    }
+  }
+}

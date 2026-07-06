@@ -1,0 +1,83 @@
+{
+  "url": "https://www.gsmarena.com/lenovo_legion_y900_13-14778.php",
+  "name": "Lenovo Legion Y900 13",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-legion-y900-13.jpg",
+  "highlights": [
+    "Released 2026, May\n599 g\nAndroid 16\n256GB/512GB storage, microSDXC",
+    "12%\n3,568 HITS",
+    "9\nBECOME A FAN",
+    "13.0\"\n3840x2560 pixels",
+    "13MP",
+    "8-16GB RAM\nSnapdragon 8 Elite",
+    "12700mAh\n68W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2026, May 22",
+      "Status": "Available. Released 2026, May"
+    },
+    "BODY": {
+      "Dimensions": "6.0 mm thickness",
+      "Weight": "599 g (1.32 lb)",
+      "SIM": "No",
+      "": "Stylus support (magnetic)\nRGB notification light (on the back)"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 68B colors, 144Hz, Dolby Vision, 1100 nits (peak)",
+      "Size": "13.0 inches, 503.2 cm2",
+      "Resolution": "3840 x 2560 pixels, 3:2 ratio (~355 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16",
+      "Chipset": "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm)",
+      "CPU": "Octa-core (2x4.32 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)",
+      "GPU": "Adreno 830 (1200 MHz)"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC",
+      "Internal": "256GB 8GB RAM, 256GB 12GB RAM, 512GB 16GB RAM",
+      "": "UFS 4.1"
+    },
+    "MAIN CAMERA": {
+      "Dual": "13 MP\n2 MP",
+      "Video": "Yes"
+    },
+    "SELFIE CAMERA": {
+      "Dual": "8 MP\nAuxiliary lens",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers, Dolby Atmos (6 speakers)",
+      "3.5mm jack": "No",
+      "": "Harman Kardon sound"
+    },
+    "COMMS": {
+      "WLAN": "Yes",
+      "Bluetooth": "Yes",
+      "Positioning": "Unspecified",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2, accessory connector pins"
+    },
+    "FEATURES": {
+      "Sensors": "Yes"
+    },
+    "BATTERY": {
+      "Type": "12700 mAh",
+      "Charging": "68W wired"
+    },
+    "MISC": {
+      "Colors": "Black, White, Purple",
+      "Models": "TB522FU",
+      "Price": "About 500 EUR"
+    }
+  }
+}
