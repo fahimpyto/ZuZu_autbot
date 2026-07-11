@@ -1,0 +1,85 @@
+{
+  "url": "https://www.gsmarena.com/vivo_y600_pro_5g_(china)-14634.php",
+  "name": "vivo Y600 Pro",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-y600-pro-.jpg",
+  "highlights": [
+    "Released 2026, April 27\n221g or 223g, 8.2mm thickness\nAndroid 16, OriginOS 6\n128GB/256GB/512GB storage, no card slot",
+    "10%\n3,085 HITS",
+    "5\nBECOME A FAN",
+    "6.83\"\n1260x2800 pixels",
+    "50MP\n1080p",
+    "8/12GB RAM\nDimensity 7300e",
+    "10200mAh\n90W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, April 27",
+      "Status": "Available. Released 2026, April 27"
+    },
+    "BODY": {
+      "Dimensions": "163.9 x 76.5 x 8.2 mm (6.45 x 3.01 x 0.32 in)",
+      "Weight": "221 g or 223 g (7.80 oz)",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 24 hours)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 120Hz, 4320 PWM",
+      "Size": "6.83 inches, 112.6 cm2 (~89.8% screen-to-body ratio)",
+      "Resolution": "1260 x 2800 pixels, 20:9 ratio (~450 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, OriginOS 6",
+      "Chipset": "Mediatek Dimensity 7300e (6 nm)",
+      "CPU": "Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G610"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 8GB RAM, 512GB 12GB RAM",
+      "": "UFS 3.1"
+    },
+    "MAIN CAMERA": {
+      "Single": "50 MP, f/1.8, (wide), PDAF",
+      "Features": "LED flash, panorama, HDR",
+      "Video": "1080p, gyro-EIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "32 MP, f/2.5, (wide)",
+      "Features": "Panorama",
+      "Video": "1080p"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+      "Bluetooth": "5.4, A2DP, LE, aptX HD",
+      "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 10200 mAh",
+      "Charging": "90W wired\nReverse wired"
+    },
+    "MISC": {
+      "Colors": "Black, Blue, Gold, Violet",
+      "Models": "V2561A",
+      "Price": "About 250 EUR"
+    }
+  }
+}

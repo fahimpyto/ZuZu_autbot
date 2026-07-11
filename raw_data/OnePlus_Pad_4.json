@@ -1,0 +1,84 @@
+{
+  "url": "https://www.gsmarena.com/oneplus_pad_4-14630.php",
+  "name": "OnePlus Pad 4",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-pad-4.jpg",
+  "highlights": [
+    "Exp. release 2026, April 30\n672g, 5.9mm thickness\nAndroid 16, OxygenOS 16\n256GB/512GB storage, no card slot",
+    "23%\n6,512 HITS",
+    "9\nBECOME A FAN",
+    "13.2\"\n2400x3392 pixels",
+    "13MP\n2160p",
+    "8/12GB RAM\nSnapdragon 8 Elite Gen 5",
+    "13380mAh\n80W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2026, April 24",
+      "Status": "Coming soon. Exp. release 2026, April 30"
+    },
+    "BODY": {
+      "Dimensions": "289.7 x 209.8 x 5.9 mm (11.41 x 8.26 x 0.23 in)",
+      "Weight": "672 g (1.48 lb)",
+      "Build": "Glass front, aluminum frame, aluminum back",
+      "SIM": "No",
+      "": "Stylus support"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 68B colors, Dolby Vision, 144Hz, 700 nits (typ), 1000 nits (HBM)",
+      "Size": "13.2 inches, 530.0 cm2 (~87.2% screen-to-body ratio)",
+      "Resolution": "2400 x 3392 pixels (~315 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, OxygenOS 16",
+      "Chipset": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+      "CPU": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
+      "GPU": "Adreno 840"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 8GB RAM, 512GB 12GB RAM",
+      "": "UFS 4.1"
+    },
+    "MAIN CAMERA": {
+      "Single": "13 MP",
+      "Features": "Color spectrum sensor, LED flash",
+      "Video": "4K@30fps, 1080p@30ps, gyro-EIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers (8 speakers)",
+      "3.5mm jack": "No",
+      "": "24-bit/192kHz audio"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+      "Bluetooth": "6.0, A2DP, LE, aptX HD",
+      "Positioning": "No",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2, OTG, accessory connector"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, proximity (accessories only), gyro, compass"
+    },
+    "BATTERY": {
+      "Type": "13380 mAh",
+      "Charging": "80W wired"
+    },
+    "MISC": {
+      "Colors": "Dune Glow, Sage Mist",
+      "Price": "About 600 EUR"
+    }
+  }
+}

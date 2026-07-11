@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.9, 23mm (wide), 1/1.56\", Dual Pixel PDAF",
+    "Flash:": "LED flash, panorama, HDR",
+    "Front:": "8 MP, f/2.0, (wide)",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.9, 23mm (wide), 1/1.56\", Dual Pixel PDAF",
+    "Second camera:": "Auxiliary lens",
+    "Third camera:": "",
+    "Specifications:": "Aperture size: F/1.9 Focal Length: 23mm",
+    "Video recording:": "4K, 1080p, gyro-EIS"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Blush Gold, Lake Cyan, Golden Black",
+    "Folded:": "",
+    "Weight:": "232 g (8.18 oz)",
+    "Materials:": "Glass front, plastic frame, plastic back",
+    "Biometrics:": "Fingerprint (side-mounted), accelerometer, gyro, compass",
+    "Dimensions:": "163.3 x 78 x 8 mm (6.43 x 3.07 x 0.31 in)",
+    "Resistance:": ""
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "8500 mAh",
+    "Charging:": "40W wired\nReverse wired",
+    "Max charge speed:": "Wired: 40W"
+  },
+  "Display": {
+    "Size:": "6.84 inches",
+    "Features:": "Fingerprint (side-mounted), accelerometer, gyro, compass",
+    "Resolution:": "1272 x 2756 pixels, 19.5:9 ratio (~444 ppi density)",
+    "Technology:": "OLED",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "4000 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 38, 40, 41, 66",
+    "5G bands:": "",
+    "SIM type:": "· Nano-SIM\n· Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "EMUI 14.2",
+    "GPU:": "",
+    "RAM:": "",
+    "Processor:": "",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0, OTG",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, gyro, compass",
+    "Features:": "USB Type-C 2.0, OTG",
+    "Location:": "GPS, GALILEO, GLONASS, BDS, QZSS",
+    "Bluetooth:": "5.2, A2DP, LE, L2HC (320-960 kbps HD audio)"
+  }
+}

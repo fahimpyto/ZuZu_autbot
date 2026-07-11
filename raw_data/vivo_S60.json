@@ -1,0 +1,85 @@
+{
+  "url": "https://www.gsmarena.com/vivo_s60_5g-14692.php",
+  "name": "vivo S60",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-s60-.jpg",
+  "highlights": [
+    "Not announced yet\n207g, 7.9mm thickness\nAndroid 16, OriginOS 6\n256GB/512GB storage, no card slot",
+    "25%\n4,941 HITS",
+    "0\nBECOME A FAN",
+    "6.59\"\n1260x2750 pixels",
+    "50MP\n2160p",
+    "8-16GB RAM\nSnapdragon 8s Gen 3",
+    "7200mAh\n90W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "157.5 x 74.3 x 7.9 mm (6.20 x 2.93 x 0.31 in)",
+      "Weight": "207 g (7.30 oz)",
+      "Build": "Glass front, aluminum frame, glass back",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, HDR, 120Hz, 1800 nits (HBM), 5000 nits (peak)",
+      "Size": "6.59 inches, 106.1 cm2 (~90.7% screen-to-body ratio)",
+      "Resolution": "1260 x 2750 pixels, 19.5:9 ratio (~459 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, OriginOS 6",
+      "Chipset": "Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm)",
+      "CPU": "Octa-core (1x3.0 GHz Cortex-X4 & 4x2.8 GHz Cortex-A720 & 3x2.0 GHz Cortex-A520)",
+      "GPU": "Adreno 735"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM",
+      "": "UFS 4.1"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.9, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS\n50 MP, f/2.7, 73mm (periscope telephoto), 1/1.95\", 0.8µm, PDAF, OIS, 3x optical zoom\n8 MP, f/2.2, 15mm, 115˚ (ultrawide)",
+      "Features": "Ring-LED flash, panorama, HDR, color spectrum sensor",
+      "Video": "4K, 1080p, gyro-EIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, f/2.0, 21mm (wide), 1/2.76\", 0.64µm, AF",
+      "Features": "HDR",
+      "Video": "4K, 1080p"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+      "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless, LHDC 5",
+      "Positioning": "GPS, GALILEO, GLONASS, QZSS, BDS (B1I+B1c)",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, compass, proximity"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 7200 mAh",
+      "Charging": "90W wired, PD\nReverse wired"
+    },
+    "MISC": {
+      "Colors": "Gray, White, Green",
+      "Models": "V2571A"
+    }
+  }
+}

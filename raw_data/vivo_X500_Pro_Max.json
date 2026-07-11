@@ -1,0 +1,85 @@
+{
+  "url": "https://www.gsmarena.com/vivo_x500_pro_max_5g-14782.php",
+  "name": "vivo X500 Pro Max",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-x300-pro.jpg",
+  "highlights": [
+    "Not announced yet\n\nAndroid 16, up to 5 major upgrades\n256GB/512GB/1TB storage, no card slot",
+    "17%\n4,838 HITS",
+    "8\nBECOME A FAN",
+    "6.85\"\n1260x2800 pixels",
+    "200MP\n4320p",
+    "12/16GB RAM\nDimensity 9600",
+    "7000mAh\n100W40W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA/Sub6",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "LIPO LTPO AMOLED, 1B colors, 144Hz, PWM, HDR10+, HDR Vivid, Dolby Vision",
+      "Size": "6.85 inches, 113.3 cm2",
+      "Resolution": "1260 x 2800 pixels, 20:9 ratio (~448 ppi density)",
+      "": "Ultra HDR image support"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, up to 5 major Android upgrades, OriginOS 6",
+      "Chipset": "Mediatek Dimensity 9600 (3 nm)"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+      "": "Dual UFS 4.1"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.6, 24mm (wide), 1/1.28\", 1.22µm, PDAF, OIS\n200 MP, f/2.7, 85mm (periscope telephoto), 1/1.4\", 0.56µm, multi-directional PDAF, OIS, 3.7x optical zoom, macro 2.7:1\n50 MP, f/2.0, 15mm, 119˚ (ultrawide), AF",
+      "Features": "Laser AF, color spectrum sensor, Zeiss optics, Zeiss T* lens coating, LED flash, panorama, HDR, 3D LUT import",
+      "Video": "8K@30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, gyro-EIS, 4K@120fps 10-bit Log, Dolby Vision HDR"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, f/2.0, 20mm (wide), 1/2.76\", 0.64µm, AF",
+      "Features": "HDR",
+      "Video": "4K@30/60fps, 1080p@30/60fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No",
+      "": "24-bit/192kHz Hi-Res audio"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+      "Bluetooth": "6.0, A2DP, LE, aptX HD, LHDC 5",
+      "Positioning": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L5)",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+      "": "Satellite connectivity support (optional, market/region dependent)"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 7000 mAh",
+      "Charging": "100W wired\n40W wireless\nReverse wireless\nReverse wired"
+    },
+    "MISC": {
+      "Colors": "Black; other colors",
+      "Models": "V2610"
+    }
+  }
+}

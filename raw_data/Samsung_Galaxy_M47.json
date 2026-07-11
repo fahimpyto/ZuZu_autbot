@@ -1,0 +1,87 @@
+{
+  "url": "https://www.gsmarena.com/samsung_galaxy_m47_5g-14749.php",
+  "name": "Samsung Galaxy M47",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m47-1.jpg",
+  "highlights": [
+    "Not announced yet\n200g, 7.8mm thickness\nAndroid 16, up to 6 major upgrades\n128GB/256GB storage, microSDXC",
+    "21%\n5,791 HITS",
+    "4\nBECOME A FAN",
+    "6.7\"\n1080x2340 pixels",
+    "50MP\n2160p",
+    "6/8GB RAM\nSnapdragon 6 Gen 3",
+    "6000mAh\n45W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA/Sub6",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "162.4 x 78.2 x 7.8 mm (6.39 x 3.08 x 0.31 in)",
+      "Weight": "200 g (7.05 oz)",
+      "Build": "Glass front (Gorilla Glass Victus+), plastic frame, glass back (Gorilla Glass Victus+)",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP64 dust tight and water resistant (water splashes)\nDrop resistant up to 2m"
+    },
+    "DISPLAY": {
+      "Type": "Super AMOLED, 120Hz",
+      "Size": "6.7 inches, 110.2 cm2 (~86.8% screen-to-body ratio)",
+      "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density)",
+      "Protection": "Corning Gorilla Glass Victus+"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, up to 6 major Android upgrades, One UI 8.5",
+      "Chipset": "Qualcomm SM6475-AB Snapdragon 6 Gen 3 (4 nm)",
+      "CPU": "Octa-core (4x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55)",
+      "GPU": "Adreno 710"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (uses shared SIM slot)",
+      "Internal": "128GB 6GB RAM, 256GB 8GB RAM",
+      "": "UFS 3.1"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, PDAF, OIS\n5 MP, f/2.2, (ultrawide), 1/5.0\", 1.12µm\n2 MP (macro)",
+      "Features": "LED flash, panorama, HDR",
+      "Video": "4K@30fps, 1080p@30fps, 720p@480fps, gyro-EIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "12 MP, f/2.2, (wide), AF",
+      "Video": "1080p@30fps, HDR"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+      "Bluetooth": "5.1, A2DP, LE, ASHA",
+      "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+      "NFC": "No",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, compass",
+      "": "Virtual proximity sensing"
+    },
+    "BATTERY": {
+      "Type": "6000 mAh",
+      "Charging": "45W wired\nBypass charging"
+    },
+    "MISC": {
+      "Colors": "Blaze Blue, Rogue Red",
+      "Models": "SM-M476B/DS, SM-M476B",
+      "SAR": "0.87 W/kg (head)",
+      "SAR EU": "0.50 W/kg (head)     0.98 W/kg (body)"
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.7, 24mm (wide), 1/1.55\", 1.0µm, PDAF, OIS",
+    "Flash:": "LED flash, HDR, panorama",
+    "Front:": "20 MP (wide)",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.7, 24mm (wide), 1/1.55\", 1.0µm, PDAF, OIS",
+    "Second camera:": "8 MP, f/2.2, (ultrawide), 1/4.0\", 1.12µm",
+    "Third camera:": "",
+    "Specifications:": "Aperture size: F/1.7 Focal Length: 24mm",
+    "Video recording:": "8K@30fps, 4K@30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Silver, Blue, Black",
+    "Folded:": "",
+    "Weight:": "227 g (8.01 oz)",
+    "Materials:": "Glass front (Dragon Crystal Glass), aluminum frame, glass-fiber reinforced plastic back or silicone polymer back",
+    "Biometrics:": "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass",
+    "Dimensions:": "162.9 x 77.9 x 8.2 mm (6.41 x 3.07 x 0.32 in)",
+    "Resistance:": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nBuilt-in cooling fan"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "8550 mAh",
+    "Charging:": "100W wired, 100W PPS, PD3.0\n22.5W reverse wired",
+    "Max charge speed:": "Wired: 100W"
+  },
+  "Display": {
+    "Size:": "6.83 inches",
+    "Features:": "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass",
+    "Resolution:": "1280 x 2772 pixels, 19.5:9 ratio (~447 ppi density)",
+    "Technology:": "AMOLED",
+    "Refresh rate:": "165Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "3500 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "1, 3, 4, 5, 7, 8, 19, 28, 34, 38, 39, 40, 41, 42, 43, 48, 66",
+    "5G bands:": "1, 3, 5, 7, 8, 28, 34, 38, 39, 40, 41, 48, 77, 78 SA/NSA",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 16, HyperOS 3",
+    "GPU:": "Mali-G1 Ultra MC12",
+    "RAM:": "12GB",
+    "Processor:": "MediaTek Dimensity 9500 (3 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers (with Dolby Atmos)",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+    "Sensors:": "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass",
+    "Features:": "USB Type-C",
+    "Location:": "GPS (L1+L5), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), GLONASS, NavIC",
+    "Bluetooth:": "5.4, A2DP, LE, LHDC 5, Auracast, ASHA, MIHC"
+  }
+}

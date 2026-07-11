@@ -1,0 +1,79 @@
+{
+  "url": "https://www.gsmarena.com/ulefone_armor_mini_5-14694.php",
+  "name": "Ulefone Armor Mini 5",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-aromor-mini5.jpg",
+  "highlights": [
+    "Released 2026, May\n170g, 16.5mm thickness\nAndroid 11\n8GB storage, microSDHC",
+    "1.8%\n809 HITS",
+    "1\nBECOME A FAN",
+    "2.8\"\n240x320 pixels",
+    "0.3MP\n480p",
+    "1GB RAM\nMT6739",
+    "2500mAh\n5W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 28, 38, 41, 66",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2026, May",
+      "Status": "Available. Released 2026, May"
+    },
+    "BODY": {
+      "Dimensions": "142 x 62 x 16.5 mm (5.59 x 2.44 x 0.65 in)",
+      "Weight": "170 g (6.00 oz)",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)\nMIL-STD-810H compliant\nDrop resistant up to 2m\nFlashlight"
+    },
+    "DISPLAY": {
+      "Type": "TFT LCD",
+      "Size": "2.8 inches, 24.3 cm2 (~27.6% screen-to-body ratio)",
+      "Resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 11 (Go edition)",
+      "Chipset": "MT6739"
+    },
+    "MEMORY": {
+      "Card slot": "microSDHC (dedicated slot)",
+      "Internal": "8GB 1GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "0.3 MP",
+      "Features": "LED flash",
+      "Video": "Yes"
+    },
+    "SELFIE CAMERA": {
+      "": "0.3 MP",
+      "Video": ""
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "No",
+      "Bluetooth": "2.1",
+      "Positioning": "No",
+      "NFC": "No",
+      "Radio": "FM radio",
+      "USB": "USB Type-C"
+    },
+    "FEATURES": {
+      "Sensors": "No",
+      "": "MP3/MP4 player"
+    },
+    "BATTERY": {
+      "Type": "2500 mAh",
+      "Charging": "5W wired"
+    },
+    "MISC": {
+      "Colors": "Black",
+      "Price": "About 90 EUR"
+    }
+  }
+}

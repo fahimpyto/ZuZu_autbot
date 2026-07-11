@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, (wide), PDAF, OIS",
+    "Flash:": "LED flash, HDR, panorama",
+    "Front:": "10 MP, f/2.2, 18mm (ultrawide), 1/3.0\", 1.12µm\nCover camera:\n10 MP, f/2.2, 24mm (wide), 1/3.0\", 1.12µm",
+    "Folded:": "",
+    "Main camera:": "50 MP, (wide), PDAF, OIS",
+    "Second camera:": "50 MP, (ultrawide), AF",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "4K@30/60fps, 1080p@30/60fps, gyro-EIS, OIS"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black; other colors",
+    "Folded:": "",
+    "Weight:": "199 g (7.02 oz)",
+    "Materials:": "",
+    "Biometrics:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",
+    "Dimensions:": "Unfolded: 161.4 x 123.9 x 4.9 mm\nFolded: 82.2 x 123.9 x 9.8 mm",
+    "Resistance:": "IP48 dust and water resistant (dust > 1mm; immersible up to 1.5m for 30 min)\nAdvanced Armor aluminum frame"
+  },
+  "Battery": {
+    "Type:": "Li-Po",
+    "Capacity:": "4800 mAh",
+    "Charging:": "45W wired",
+    "Max charge speed:": "Wired: 45W"
+  },
+  "Display": {
+    "Size:": "7.6 inches",
+    "Features:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",
+    "Resolution:": "1828 x 2584 pixels (~416 ppi density)",
+    "Technology:": "Foldable Dynamic LTPO AMOLED 2X",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA/Sub6",
+    "SIM type:": "· Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time)"
+  },
+  "Hardware": {
+    "OS:": "Android 16, up to 7 major Android upgrades, One UI 8",
+    "GPU:": "Adreno 830 (1200 MHz)",
+    "RAM:": "12GB",
+    "Processor:": "Qualcomm SM8750-AC Snapdragon 8 Elite (3 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0, OTG",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, tri-band, Wi-Fi Direct",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",
+    "Features:": "USB Type-C 2.0, OTG",
+    "Location:": "GPS, GALILEO, GLONASS, BDS, QZSS",
+    "Bluetooth:": "5.4, A2DP, LE, aptX HD"
+  }
+}

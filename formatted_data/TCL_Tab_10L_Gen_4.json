@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "8 MP (10L LTE Gen 4)",
+    "Flash:": "LED flash",
+    "Front:": "5 MP (10L LTE Gen 4)\n2 MP (10L Gen 4)",
+    "Folded:": "",
+    "Main camera:": "8 MP (10L LTE Gen 4)",
+    "Second camera:": "5 MP (10L Gen 4)",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Future Dusk",
+    "Folded:": "",
+    "Weight:": "430 g (15.17 oz)",
+    "Materials:": "",
+    "Biometrics:": "Accelerometer, proximity",
+    "Dimensions:": "238.9 x 155.2 x 7.6 mm (9.41 x 6.11 x 0.30 in)",
+    "Resistance:": "IP54 dust protected and water resistant (water splashes)"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "6000 mAh",
+    "Charging:": "18W wired, PD",
+    "Max charge speed:": "Wired: 18W"
+  },
+  "Display": {
+    "Size:": "10.1 inches",
+    "Features:": "Accelerometer, proximity",
+    "Resolution:": "800 x 1280 pixels, 16:10 ratio (~149 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900 - cellular model only",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - cellular model only",
+    "4G bands:": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 26, 28, 38, 40, 41, 66 - cellular model only",
+    "5G bands:": "",
+    "SIM type:": "Nano-SIM (cellular model only)"
+  },
+  "Hardware": {
+    "OS:": "Android 15, planned upgrade to Android 16",
+    "GPU:": "",
+    "RAM:": "4GB",
+    "Processor:": "Mediatek MT8786",
+    "Device type:": "Smartphone",
+    "Internal storage:": "64GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with dual speakers",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+    "Sensors:": "Accelerometer, proximity",
+    "Features:": "USB Type-C 2.0",
+    "Location:": "Unspecified",
+    "Bluetooth:": "5.1, A2DP, LE"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "url": "https://www.gsmarena.com/ulefone_tab_a12_pro-14695.php",
+  "name": "Ulefone Tab A12 Pro",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-tab-a12-pro.jpg",
+  "highlights": [
+    "Exp. release 2026, June 01\n610g, 7.5mm thickness\nAndroid 16\n128GB storage, microSDXC",
+    "6.1%\n1,285 HITS",
+    "3\nBECOME A FAN",
+    "12.2\"\n2400x1600 pixels",
+    "13MP\n1440p",
+    "8GB RAM\nUnisoc T7300",
+    "9000mAh\n18W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 25, 26, 28, 34, 38, 39, 40, 41, 66",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2026, May",
+      "Status": "Coming soon. Exp. release 2026, June 01"
+    },
+    "BODY": {
+      "Dimensions": "277.8 x 191.5 x 7.5 mm (10.94 x 7.54 x 0.30 in)",
+      "Weight": "610 g (1.34 lb)",
+      "SIM": "Nano-SIM + Nano-SIM"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 90Hz, 450 nits",
+      "Size": "12.2 inches, 443.2 cm2 (~83.3% screen-to-body ratio)",
+      "Resolution": "2400 x 1600 pixels, 3:2 ratio (~236 ppi density)",
+      "Protection": "Mohs level 4"
+    },
+    "PLATFORM": {
+      "OS": "Android 16",
+      "Chipset": "Unisoc T7300 (6 nm)",
+      "CPU": "Octa-core (2x2.2 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MP2"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (uses shared SIM slot)",
+      "Internal": "128GB 8GB RAM",
+      "": "UFS 2.1"
+    },
+    "MAIN CAMERA": {
+      "Single": "13 MP, f/2.2, (wide), 1.12µm",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "1440p@30fps, 1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "5 MP, f/2.2, (wide), 1.12µm",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers (4 speakers), 103 dB",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.0, A2DP, LE",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS",
+      "NFC": "No",
+      "Radio": "FM radio",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, proximity (accessories only)"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 9000 mAh",
+      "Charging": "18W wired"
+    },
+    "MISC": {
+      "Colors": "Gray"
+    },
+    "EU LABEL": {
+      "Energy": "Class F",
+      "Battery": "91:09h endurance, 1000 cycles",
+      "Free fall": "Class C (108 falls)",
+      "Repairability": "Class B"
+    }
+  }
+}

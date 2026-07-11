@@ -1,0 +1,85 @@
+{
+  "url": "https://www.gsmarena.com/oneplus_ace_6_ultra_5g-14637.php",
+  "name": "OnePlus Ace 6 Ultra",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-ace6-ultra.jpg",
+  "highlights": [
+    "Released 2026, April 28\n217g or 219g (Metal Storm), 8.5mm thickness\nAndroid 16, ColorOS 16\n256GB/512GB/1TB storage, no card slot",
+    "18%\n4,944 HITS",
+    "6\nBECOME A FAN",
+    "6.78\"\n1272x2772 pixels",
+    "50MP\n2160p",
+    "12/16GB RAM\nDimensity 9500",
+    "8600mAh\n120W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 1800 / 1900 GSM 850 / 900 / 1800",
+      "3G bands": "HSDPA 850 / 900 / 2100",
+      "4G bands": "1/3/4/5/8/18/19/26/28A/34/38/39/40/41/42/43/48/66 LTE",
+      "5G bands": "1, 3, 5, 8, 18, 26, 28A, 34, 38, 39, 40, 41, 48, 66, 77, 78 SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, April 28",
+      "Status": "Available. Released 2026, April 28"
+    },
+    "BODY": {
+      "Dimensions": "162.5 x 77.5 x 8.5 mm (6.40 x 3.05 x 0.33 in)",
+      "Weight": "217 g or 219 g (Metal Storm) (7.65 oz)",
+      "Build": "Glass front (Crystal Shield Glass), glass back or silicone polymer back (eco leather), aluminum frame",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP66/IP68/IP69/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 165Hz, PWM, Dolby Vision, HDR10+, 800 nits (typ), 1800 nits (HBM)",
+      "Size": "6.78 inches, 112.4 cm2 (~89.3% screen-to-body ratio)",
+      "Resolution": "1272 x 2772 pixels, 19.5:9 ratio (~450 ppi density)",
+      "Protection": "Crystal Shield Glass"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, ColorOS 16",
+      "Chipset": "Mediatek Dimensity 9500 (3 nm)",
+      "CPU": "Octa-core (1x4.21 GHz C1-Ultra & 3x3.5 GHz C1-Premium & 4x2.7 GHz C1-Pro)",
+      "GPU": "Mali-G1 Ultra MC12"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 256GB 16GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+      "": "UFS 4.1"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.8, 23mm (wide), 1/1.55\", PDAF, OIS\n8 MP, f/2.2, 16mm, 112˚ (ultrawide)",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "4K@30/60fps, 1080p@30/60/240fps, gyro-EIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "16 MP, f/2.4, 23mm (wide), 1/3\"",
+      "Video": "1080p@30fps, gyro-EIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+      "Bluetooth": "6.0, A2DP, LE",
+      "Positioning": "GPS (L1+L5), GLONASS, BDS, GALILEO, QZSS, NavIC",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 8600 mAh",
+      "Charging": "120W wired, PPS(55W), PD(13.5W)"
+    },
+    "MISC": {
+      "Colors": "Ace Awakening, Metal Storm",
+      "Price": "About 440 EUR"
+    }
+  }
+}

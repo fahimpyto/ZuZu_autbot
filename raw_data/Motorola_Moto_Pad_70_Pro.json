@@ -1,0 +1,84 @@
+{
+  "url": "https://www.gsmarena.com/motorola_moto_pad_70_pro-14756.php",
+  "name": "Motorola Moto Pad 70 Pro",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-pad-70-pro-wi-fi.jpg",
+  "highlights": [
+    "Exp. release 2026, July 04\n598g, 6.2mm thickness\nAndroid 16, up to 2 major Android upgrades\n128GB/256GB storage, microSDXC",
+    "14%\n3,261 HITS",
+    "5\nBECOME A FAN",
+    "13.0\"\n3504x2190 pixels",
+    "13MP\n1080p",
+    "8GB RAM\nSnapdragon 8s Gen 4",
+    "10200mAh\n68W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2026, June 27",
+      "Status": "Coming soon. Exp. release 2026, July 04"
+    },
+    "BODY": {
+      "Dimensions": "296.5 x 191.9 x 6.2 mm (11.67 x 7.56 x 0.24 in)",
+      "Weight": "598 g (1.32 lb)",
+      "Build": "Glass front, aluminum frame, aluminum back",
+      "SIM": "No",
+      "": "Stylus support\nSplash resistant"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 68B colors, 144Hz, HDR, Dolby Vision, 800 nits (peak)",
+      "Size": "13.0 inches, 490.0 cm2 (~86.1% screen-to-body ratio)",
+      "Resolution": "3504 x 2190 pixels, 16:10 ratio (~318 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, up to 2 major Android upgrades",
+      "Chipset": "Qualcomm SM8735 Snapdragon 8s Gen 4 (4 nm)",
+      "CPU": "Octa-core (1x3.21 GHz Cortex-X4 & 3x3.0 GHz Cortex-A720 & 2x2.8 GHz Cortex-A720 & 2x2.0 GHz Cortex-A720)",
+      "GPU": "Adreno 825"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC",
+      "Internal": "128GB 8GB RAM, 256GB 8GB RAM",
+      "": "UFS 3.1 - 128GB\nUFS 4.0 - 256GB"
+    },
+    "MAIN CAMERA": {
+      "Single": "13 MP",
+      "Features": "LED flash",
+      "Video": "Yes"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers (4 speakers, with Dolby Atmos)",
+      "3.5mm jack": "No",
+      "": "JBL sound\n24-bit/192kHz Hi-Res audio"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, Wi-Fi Direct",
+      "Bluetooth": "6.0, A2DP, LE",
+      "Positioning": "No",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2, DisplayPort, OTG, accessory connector pins"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, gyro, proximity (accessories only)"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 10200 mAh",
+      "Charging": "68W wired\nReverse wired"
+    },
+    "MISC": {
+      "Colors": "Pantone Titan",
+      "Price": "About 380 EUR"
+    }
+  }
+}

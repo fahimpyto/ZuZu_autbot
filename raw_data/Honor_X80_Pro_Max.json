@@ -1,0 +1,82 @@
+{
+  "url": "https://www.gsmarena.com/honor_x80_pro_max_5g-14718.php",
+  "name": "Honor X80 Pro Max",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x70-refresh.jpg",
+  "highlights": [
+    "Not announced yet\n\nAndroid 16, MagicOS 10\n256GB/512GB storage, no card slot",
+    "4.3%\n4,219 HITS",
+    "10\nBECOME A FAN",
+    "6.79\"\n1280x2788 pixels",
+    "50MP\n2160p",
+    "8/12GB RAM\nSnapdragon 6 Gen 5",
+    "11000mAh\n90W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 6m)\nDrop resistant up to 2.5m"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 120Hz, 3840Hz PWM, HDR",
+      "Size": "6.79 inches, 112.8 cm2",
+      "Resolution": "1280 x 2788 pixels, 19.5:9 ratio (~452 ppi density)",
+      "Protection": "Aluminosilicate glass",
+      "": "Ultra HDR image support"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, MagicOS 10",
+      "Chipset": "Qualcomm SM6850 Snapdragon 6 Gen 5 (4 nm)",
+      "CPU": "Octa-core (4x2.6 GHz Cortex-A720 & 4x2.0 GHz Cortex-A520)"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "50 MP, f/1.9, (wide), PDAF, OIS",
+      "Features": "LED flash, panorama, HDR",
+      "Video": "4K@30fps, 1080p@30fps, gyro-EIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "Yes",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+      "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, ASHA",
+      "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, compass, gyro, proximity (ultrasound)"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 11000 mAh",
+      "Charging": "90W wired\n5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Black; other colors"
+    }
+  }
+}

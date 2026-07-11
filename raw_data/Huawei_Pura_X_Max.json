@@ -1,0 +1,85 @@
+{
+  "url": "https://www.gsmarena.com/huawei_pura_x_max_5g-14607.php",
+  "name": "Huawei Pura X Max",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-pura-x-max.jpg",
+  "highlights": [
+    "Exp. release 2026, May 31\n229g, 5.2mm thickness\nHarmonyOS 6.1\n256GB/512GB/1TB storage, no card slot",
+    "39%\n11,664 HITS",
+    "19\nBECOME A FAN",
+    "7.7\"\n1828x2584 pixels",
+    "50MP\n2160p",
+    "12/16GB RAM\nKirin 9030 Pro",
+    "5300mAh\n66W50W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, April 20",
+      "Status": "Coming soon. Exp. release 2026, May 31"
+    },
+    "BODY": {
+      "Dimensions": "Unfolded: 166.5 x 120 x 5.2 mm\nFolded: 85 x 120 x 11.2 mm",
+      "Weight": "229 g (8.08 oz)",
+      "Build": "Glass front (Kunlun Glass 2), aluminosilicate glass back, aluminum frame",
+      "SIM": "Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time)",
+      "": "IP58/IP59 dust protected and water resistant (high pressure water jets; immersible up to 1m for 30 min)\nStylus support"
+    },
+    "DISPLAY": {
+      "Type": "Foldable LTPO2 OLED, 1B colors, 120Hz, 1440Hz PWM, HDR Vivid",
+      "Size": "7.7 inches, 179.5 cm2 (~89.8% screen-to-body ratio)",
+      "Resolution": "1828 x 2584 pixels (~412 ppi density)",
+      "": "Cover display:\nLTPO2 OLED, 1B colors, 120Hz, 1440Hz PWM, 5.4 inches, 1264 x 1848 pixels, 412 PPI, Huawei Kunlun Glass 2"
+    },
+    "PLATFORM": {
+      "OS": "HarmonyOS 6.1",
+      "Chipset": "Kirin 9030 Pro (6 nm)",
+      "CPU": "9-core (1x2.75 GHz & 4x2.27 GHz & 4x1.72 GHz)",
+      "GPU": "Maleoon 935"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.4-4.0, 24mm (wide), PDAF, OIS\n50 MP, f/2.2, 81mm (periscope telephoto), PDAF, OIS, 3.5x optical zoom\n12.5 MP, f/2.2, 13mm (ultrawide), AF",
+      "Features": "Laser AF, color spectrum sensor, LED flash, panorama, HDR",
+      "Video": "4K, 1080p, gyro-EIS, HDR Vivid"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP, f/2.2, (wide)\nCover camera:\n8 MP, f/2.4, (wide)",
+      "Video": "4K, 1080p, HDR Vivid"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+      "Bluetooth": "6.0, A2DP, LE, L2HC",
+      "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), GLONASS, NavIC",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 3.1, OTG, DisplayPort 1.2"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+    },
+    "BATTERY": {
+      "Type": "5300 mAh",
+      "Charging": "66W wired\n50W wireless\n7.5W reverse wireless\n5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Black, Blue, White, Olive, Orange",
+      "Models": "HOP-AL00",
+      "Price": "About 1400 EUR"
+    }
+  }
+}

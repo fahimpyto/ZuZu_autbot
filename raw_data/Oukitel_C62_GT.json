@@ -1,0 +1,81 @@
+{
+  "url": "https://www.gsmarena.com/oukitel_c62_gt-14720.php",
+  "name": "Oukitel C62 GT",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-c62-gt.jpg",
+  "highlights": [
+    "Released 2026\n220g, 9.5mm thickness\nAndroid 16\n128GB/256GB storage, microSDXC",
+    "0.5%\n794 HITS",
+    "0\nBECOME A FAN",
+    "6.88\"\n720x1640 pixels",
+    "13MP\n1080p",
+    "4/8GB RAM\nUnisoc T615",
+    "5150mAh\n10W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 34, 38, 39, 40, 41, 66",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2026",
+      "Status": "Available. Released 2026"
+    },
+    "BODY": {
+      "Dimensions": "170.7 x 79.6 x 9.5 mm (6.72 x 3.13 x 0.37 in)",
+      "Weight": "220 g (7.76 oz)",
+      "SIM": "Nano-SIM + Nano-SIM"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 90Hz, 450 nits",
+      "Size": "6.88 inches, 112.4 cm2 (~82.7% screen-to-body ratio)",
+      "Resolution": "720 x 1640 pixels (~260 ppi density)",
+      "Protection": "Corning Gorilla Glass 5",
+      "": "Rear display: IPS LCD, 1.81\", 240 x 284 pixels, 205 PPI, 450 nits"
+    },
+    "PLATFORM": {
+      "OS": "Android 16",
+      "Chipset": "Unisoc T615 (12 nm)",
+      "CPU": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MP1"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (uses shared SIM slot)",
+      "Internal": "128GB 4GB RAM, 256GB 8GB RAM",
+      "": "UFS 2.2"
+    },
+    "MAIN CAMERA": {
+      "Single": "13 MP, f/2.2, (wide), 1/3.06\", AF",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "5 MP, f/2.2, (wide), 1/5.0\"",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.0, A2DP, LE",
+      "Positioning": "GPS, GALILEO, GLONASS, BDS",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 5150 mAh",
+      "Charging": "10W wired\n10W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Black, Silver, Orange"
+    }
+  }
+}

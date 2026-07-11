@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "13 MP",
+    "Flash:": "",
+    "Front:": "8 MP\nAuxiliary lens",
+    "Folded:": "",
+    "Main camera:": "13 MP",
+    "Second camera:": "2 MP",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "Yes"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black, White, Purple",
+    "Folded:": "",
+    "Weight:": "599 g (1.32 lb)",
+    "Materials:": "",
+    "Biometrics:": "Yes",
+    "Dimensions:": "6.0 mm thickness",
+    "Resistance:": "Stylus support (magnetic)\nRGB notification light (on the back)"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "12700 mAh",
+    "Charging:": "68W wired",
+    "Max charge speed:": "Wired: 68W"
+  },
+  "Display": {
+    "Size:": "13.0 inches",
+    "Features:": "Yes",
+    "Resolution:": "3840 x 2560 pixels, 3:2 ratio (~355 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "144Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "1100 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "N/A",
+    "4G bands:": "N/A",
+    "5G bands:": "",
+    "SIM type:": "No"
+  },
+  "Hardware": {
+    "OS:": "Android 16",
+    "GPU:": "Adreno 830 (1200 MHz)",
+    "RAM:": "8GB",
+    "Processor:": "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers, Dolby Atmos (6 speakers)",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 3.2, accessory connector pins",
+    "Other:": "NFC",
+    "Wi-Fi:": "Yes",
+    "Sensors:": "Yes",
+    "Features:": "USB Type-C 3.2, accessory connector pins",
+    "Location:": "Unspecified",
+    "Bluetooth:": "Yes"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "url": "https://www.gsmarena.com/honor_600e_5g-14688.php",
+  "name": "Honor 600e",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-600e.jpg",
+  "highlights": [
+    "Released 2026, May\n180g, 7.3mm thickness\nAndroid 16, MagicOS 10\n512GB storage, no card slot",
+    "20%\n4,046 HITS",
+    "3\nBECOME A FAN",
+    "6.6\"\n1200x2600 pixels",
+    "108MP\n1080p",
+    "8GB RAM\nDimensity 7100 Elite",
+    "6520mAh\n45W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, May",
+      "Status": "Available. Released 2026, May"
+    },
+    "BODY": {
+      "Dimensions": "157.4 x 75.4 x 7.3 mm (6.20 x 2.97 x 0.29 in)",
+      "Weight": "180 g (6.35 oz)",
+      "Build": "Glass front, aluminum frame, glass back",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP66 dust tight and water resistant (high pressure water jets)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 120Hz, 3840Hz PWM, 800 nits (typ), 2000 nits (HBM), 6500 nits (peak)",
+      "Size": "6.6 inches, 106.9 cm2 (~90.1% screen-to-body ratio)",
+      "Resolution": "1200 x 2600 pixels, 19.5:9 ratio (~434 ppi density)",
+      "Protection": "Aluminosilicate glass"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, MagicOS 10",
+      "Chipset": "Mediatek Dimensity 7100 Elite (6 nm)",
+      "CPU": "Octa-core (4x2.4 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G610 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "512GB 8GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Dual": "108 MP, f/1.8, (wide), 1/1.67\", PDAF\n5 MP, f/2.2, (ultrawide)",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "16 MP, f/2.5, (wide)",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+      "Bluetooth": "6.0, A2DP, LE, aptX HD, LHDC 5.0",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS",
+      "NFC": "Yes",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, compass, proximity (ultrasonic)"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 6520 mAh",
+      "Charging": "45W wired\n6W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Velvet Gray, Desert Gold, Vital Green",
+      "Models": "LNA-NX3",
+      "Price": "About 510 EUR"
+    }
+  }
+}

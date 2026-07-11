@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "48 MP, f/1.6-4.0, 24mm (wide), 1/1.28\", 1.22µm, dual pixel PDAF, sensor-shift OIS",
+    "Flash:": "Dual-LED dual-tone flash, HDR (photo/panorama)",
+    "Front:": "18 MP multi-aspect, f/1.9, 20mm (ultrawide), PDAF\nSL 3D, (depth/biometrics sensor)",
+    "Folded:": "",
+    "Main camera:": "48 MP, f/1.6-4.0, 24mm (wide), 1/1.28\", 1.22µm, dual pixel PDAF, sensor-shift OIS",
+    "Second camera:": "48 MP, f/2.8, 100mm (periscope telephoto), 1/2.55\", 0.7µm, PDAF, 3D sensor‑shift OIS, 4x optical zoom",
+    "Third camera:": "48 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\", 0.7µm, PDAF",
+    "Specifications:": "Aperture size: F/1.6 Focal Length: 24mm",
+    "Video recording:": "4K@24/25/30/60/100/120fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 120fps), ProRes, ProRes RAW (up to 120fps), Apple Log 2, 3D (spatial) video/audio, stereo sound rec."
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Coffee Brown, Pruple, Burgundy",
+    "Folded:": "",
+    "Weight:": "-",
+    "Materials:": "Glass front (Ceramic Shield 2), aluminum frame, aluminum back/ glass back (Ceramic Shield)",
+    "Biometrics:": "Face ID, accelerometer, gyro, proximity, compass, barometer",
+    "Dimensions:": "-",
+    "Resistance:": "IP68 dust tight and water resistant (immersible up to 6m for 30 min)\nApple Pay (Visa, MasterCard, AMEX certified)"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "5100 mAh",
+    "Charging:": "Wired, PD3.2, AVS, 50% in 20 min\n25W wireless MagSafe/Qi2, 50% in 30 min (15W - China)\n4.5W reverse wired",
+    "Max charge speed:": "Wireless: 25W"
+  },
+  "Display": {
+    "Size:": "6.9 inches",
+    "Features:": "Face ID, accelerometer, gyro, proximity, compass, barometer",
+    "Resolution:": "1320 x 2868 pixels, 19.5:9 ratio (~460 ppi density)",
+    "Technology:": "LTPO Super Retina XDR OLED",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA/Sub6 - International",
+    "SIM type:": "· Nano-SIM + eSIM + eSIM (max 2 at a time; International)\n· eSIM + eSIM (8 or more, max 2 at a time; USA)\n· Nano-SIM + Nano-SIM (China)"
+  },
+  "Hardware": {
+    "OS:": "iOS 27",
+    "GPU:": "Apple GPU (8-core graphics)",
+    "RAM:": "12GB",
+    "Processor:": "Apple A20 Pro (2 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 3.2 Gen 2, DisplayPort",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, hotspot",
+    "Sensors:": "Face ID, accelerometer, gyro, proximity, compass, barometer",
+    "Features:": "USB Type-C 3.2 Gen 2, DisplayPort",
+    "Location:": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+    "Bluetooth:": "6.0, A2DP, LE"
+  }
+}

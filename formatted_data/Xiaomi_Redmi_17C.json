@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "13 MP, f/2.2, 25mm (wide)",
+    "Flash:": "LED flash",
+    "Front:": "5 MP",
+    "Folded:": "",
+    "Main camera:": "13 MP, f/2.2, 25mm (wide)",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "Aperture size: F/2.2 Focal Length: 25mm",
+    "Video recording:": "1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black, Red, Light blue",
+    "Folded:": "",
+    "Weight:": "206 g (7.27 oz)",
+    "Materials:": "Glass front, plastic frame, plastic back or silicone polymer back (eco leather)",
+    "Biometrics:": "Fingerprint (side-mounted), accelerometer, compass",
+    "Dimensions:": "171.9 x 77.8 x 8.2 mm (6.77 x 3.06 x 0.32 in)",
+    "Resistance:": ""
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "5160 mAh",
+    "Charging:": "18W wired, PD",
+    "Max charge speed:": "Wired: 18W"
+  },
+  "Display": {
+    "Size:": "6.88 inches",
+    "Features:": "Fingerprint (side-mounted), accelerometer, compass",
+    "Resolution:": "720 x 1640 pixels (~260 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / CDMA / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 2100",
+    "4G bands:": "1, 3, 5, 8, 34, 38, 39, 40, 41",
+    "5G bands:": "",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 16, HyperOS 3",
+    "GPU:": "Mali-G52 MC2",
+    "RAM:": "4GB",
+    "Processor:": "Mediatek Helio G81 Ultra (12 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "64GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, compass",
+    "Features:": "USB Type-C 2.0",
+    "Location:": "GPS, GLONASS, GALILEO, BDS",
+    "Bluetooth:": "5.4, A2DP, LE"
+  }
+}

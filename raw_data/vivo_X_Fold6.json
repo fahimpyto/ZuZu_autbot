@@ -1,0 +1,87 @@
+{
+  "url": "https://www.gsmarena.com/vivo_x_fold6_5g-14748.php",
+  "name": "vivo X Fold6",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-x-fold6-1.jpg",
+  "highlights": [
+    "Expected announcement 2026, June 26\n4.3mm thickness\nAndroid 16, OriginOS 6 Fold\n256GB/512GB/1TB storage, no card slot",
+    "12%\n3,190 HITS",
+    "6\nBECOME A FAN",
+    "8.03\"\n2200x2480 pixels",
+    "200MP\n4320p",
+    "12/16GB RAM\nDimensity 9500 Super",
+    "7000mAh\n80W40W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Expected announcement 2026, June 26",
+      "Status": "Rumored. Exp. release 2026, July"
+    },
+    "BODY": {
+      "Dimensions": "Unfolded: 159.7 x 142.3 x 4.3 mm\nFolded: 159.7 x 72.6 x 9.2 mm",
+      "Weight": "-",
+      "Build": "Glass front (closed), aluminum frame, glass-fiber reinforced plastic back",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "Foldable LTPO AMOLED, 1B colors, 144Hz, PWM, HDR10+, Dolby Vision",
+      "Size": "8.03 inches, 206.5 cm2 (~90.9% screen-to-body ratio)",
+      "Resolution": "2200 x 2480 pixels (~413 ppi density)",
+      "": "Cover display:\nLTPO AMOLED, 120Hz, HDR10+, Dolby Vision, 5500 nits (peak)\n6.53 inches, 1172 x 2748 pixels, 21:9 ratio\nArmor Glass (2nd gen)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, OriginOS 6 Fold",
+      "Chipset": "Mediatek Dimensity 9500 Super (3 nm)",
+      "CPU": "Octa-core (1x4.21 GHz C1-Ultra & 3x3.5 GHz C1-Premium & 4x2.7 GHz C1-Pro)",
+      "GPU": "Mali-G1 Ultra MC12"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+      "": "UFS 4.1"
+    },
+    "MAIN CAMERA": {
+      "Triple": "200 MP, f/1.9, (wide), 1/1.3\", PDAF, OIS\n50 MP, f/2.6, 70mm (periscope telephoto), 1/1.95\", 0.8µm, PDAF, OIS, 3x optical zoom\n50 MP, f/2.1, 15mm, 119˚ (ultrawide), 1/2.76\", 0.64µm, PDAF",
+      "Features": "Color spectrum sensor, Laser AF, Zeiss optics, Zeiss T* lens coating, Dual-LED flash, panorama",
+      "Video": "8K@30fps, 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "20 MP, f/2.4, 21mm (wide), 1/3.6\", 0.7µm\nCover camera:\n20 MP, f/2.4, 21mm (wide), 1/3.6\", 0.7µm",
+      "Features": "HDR",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No",
+      "": "24-bit/192kHz Hi-Res audio\nSnapdragon Sound"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band or tri-band, Wi-Fi Direct",
+      "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless",
+      "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), GLONASS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2, OTG, Display Port"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 7000 mAh",
+      "Charging": "80W wired\n40W wireless\nReverse wired\n5W reverse wireless"
+    },
+    "MISC": {
+      "Colors": "Gray, White, Azure",
+      "Price": "About 1300 EUR"
+    }
+  }
+}

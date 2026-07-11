@@ -1,0 +1,90 @@
+{
+  "url": "https://www.gsmarena.com/zte_nubia_air_pro_5g-14754.php",
+  "name": "ZTE nubia Air Pro",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-air-pro.jpg",
+  "highlights": [
+    "Released 2026, June 26\n172 g\nAndroid 16\n256GB/512GB storage, no card slot",
+    "30%\n6,977 HITS",
+    "6\nBECOME A FAN",
+    "6.77\"\n1224x2720 pixels",
+    "108MP\n2160p",
+    "8GB RAM\nDimensity 7100",
+    "5000mAh\n45W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, June 26",
+      "Status": "Available. Released 2026, June 26"
+    },
+    "BODY": {
+      "Dimensions": "6 mm thickness",
+      "Weight": "172 g (6.07 oz)",
+      "Build": "Glass front, aluminum frame",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 144Hz, 3840Hz PWM, HDR, 4500 nits (peak)",
+      "Size": "6.77 inches, 110.7 cm2",
+      "Resolution": "1224 x 2720 pixels, 20:9 ratio (~441 ppi density)",
+      "Protection": "Reinforced glass, Mohs level 4"
+    },
+    "PLATFORM": {
+      "OS": "Android 16",
+      "Chipset": "Mediatek Dimensity 7100 (6 nm)",
+      "CPU": "Octa-core (4x2.4 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G610 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 8GB RAM, 512GB 8GB RAM",
+      "": "UGS 2.2"
+    },
+    "MAIN CAMERA": {
+      "Dual": "108 MP, (wide), PDAF\nAuxiliary lenses",
+      "Features": "LED flash",
+      "Video": "Yes"
+    },
+    "SELFIE CAMERA": {
+      "Single": "32 MP",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Yes",
+      "Bluetooth": "Yes",
+      "Positioning": "GPS, GALILEO, GLONASS",
+      "NFC": "Yes",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C 2.0"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 5000 mAh",
+      "Charging": "45W wired\n10W reverse wired\nBypass charging"
+    },
+    "MISC": {
+      "Colors": "Aero White, Prime Black",
+      "Models": "Z2587N",
+      "Price": "€ 432.89"
+    },
+    "EU LABEL": {
+      "Energy": "Class A",
+      "Battery": "55:44h endurance, 800 cycles",
+      "Free fall": "Class D (70 falls)",
+      "Repairability": "Class B"
+    }
+  }
+}

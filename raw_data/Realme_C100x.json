@@ -1,0 +1,85 @@
+{
+  "url": "https://www.gsmarena.com/realme_c100x-14628.php",
+  "name": "Realme C100x",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/realme-c100x.jpg",
+  "highlights": [
+    "Not announced yet\n\nAndroid 16\n128GB/256GB storage, Unspecified",
+    "9.8%\n2,850 HITS",
+    "3\nBECOME A FAN",
+    "6.8\"\n720x1640 pixels",
+    "50MP\n1080p",
+    "4GB RAM",
+    "7500mAh"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 2100",
+      "4G bands": "LTE",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "Build": "Glass front, plastic frame, plastic back",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP64 dust tight and water resistant (water splashes)"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 120Hz",
+      "Size": "6.8 inches, 109.8 cm2",
+      "Resolution": "720 x 1640 pixels (~263 ppi density)",
+      "Protection": "Mohs level 5"
+    },
+    "PLATFORM": {
+      "OS": "Android 16",
+      "CPU": "Octa-core 1.8 GHz"
+    },
+    "MEMORY": {
+      "Card slot": "Unspecified",
+      "Internal": "128GB 4GB RAM, 256GB 4GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.8, (wide), PDAF\nAuxiliary lens",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "Yes"
+    },
+    "SELFIE CAMERA": {
+      "Single": "5 MP, (wide)",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS, GALILEO, GLONASS, BDS",
+      "NFC": "Yes (market/region dependent)",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 7500 mAh"
+    },
+    "MISC": {
+      "Colors": "White",
+      "Models": "RMX5366"
+    },
+    "EU LABEL": {
+      "Energy": "Class A",
+      "Battery": "90:46h endurance, 1600 cycles",
+      "Free fall": "Class B (240 falls)",
+      "Repairability": "Class C"
+    }
+  }
+}

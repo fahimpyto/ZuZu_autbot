@@ -1,0 +1,79 @@
+{
+  "url": "https://www.gsmarena.com/ulefone_note_22-14685.php",
+  "name": "Ulefone Note 22",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-note-22.jpg",
+  "highlights": [
+    "Exp. release 2026, June 01\n161.6g, 11.1mm thickness\nAndroid 16\n32GB storage, microSDXC",
+    "13%\n3,175 HITS",
+    "3\nBECOME A FAN",
+    "5.0\"\n480x854 pixels",
+    "2MP\n720p",
+    "3GB RAM\nUnisoc T7100",
+    "3000mAh\n5W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 38, 40, 41, 66",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2026, May",
+      "Status": "Coming soon. Exp. release 2026, June 01"
+    },
+    "BODY": {
+      "Dimensions": "135.6 x 70.2 x 11.1 mm (5.34 x 2.76 x 0.44 in)",
+      "Weight": "161.6 g (5.71 oz)",
+      "SIM": "Nano-SIM + Nano-SIM"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 400 nits",
+      "Size": "5.0 inches, 68.9 cm2 (~72.4% screen-to-body ratio)",
+      "Resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16 (Go edition)",
+      "Chipset": "Unisoc T7100",
+      "CPU": "Octa-core 1.8 GHz",
+      "GPU": "PowerVR GE8322"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (dedicated slot)",
+      "Internal": "32GB 3GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "2 MP",
+      "Features": "LED flash",
+      "Video": "720p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "0.3 MP",
+      "Video": ""
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 b/g/n",
+      "Bluetooth": "4.2, A2DP",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS",
+      "NFC": "No",
+      "Radio": "FM radio",
+      "USB": "USB Type-C"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, proximity"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 3000 mAh, removable",
+      "Charging": "5W wired"
+    },
+    "MISC": {
+      "Colors": "Black, Blue, Orange",
+      "Price": "About 60 EUR"
+    }
+  }
+}

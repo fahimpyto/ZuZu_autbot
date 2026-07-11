@@ -1,0 +1,83 @@
+{
+  "url": "https://www.gsmarena.com/oppo_k15_pro+_5g-14572.php",
+  "name": "Oppo K15 Pro+",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/oppo-k15-pro-plus.jpg",
+  "highlights": [
+    "Not announced yet\n213 g\nAndroid 16, ColorOS 16\n256GB/512GB storage, no card slot",
+    "3.6%\n2,432 HITS",
+    "6\nBECOME A FAN",
+    "6.78\"\n1280x2800 pixels",
+    "50MP\n2160p",
+    "12GB RAM\nDimensity 9500s",
+    "8000mAh\n100W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "8.3 mm thickness",
+      "Weight": "213 g (7.51 oz)",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "Built-in cooling fan\nIP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nRGB LED lights (on the back)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 165Hz",
+      "Size": "6.78 inches, 112.1 cm2",
+      "Resolution": "1280 x 2800 pixels, 19.5:9 ratio (~454 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, ColorOS 16",
+      "Chipset": "Mediatek Dimensity 9500s (3 nm)",
+      "CPU": "Octa-core (1x3.73 GHz Cortex-X925 & 3x3.3 GHz Cortex-X4 & 4x2.4 GHz Cortex-A720)",
+      "GPU": "Immortalis-G925 MC12"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM",
+      "": "UFS 4.1"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.8, 27mm (wide), PDAF, OIS\n8 MP, (ultrawide)",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "4K@30/60fps, 1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "16 MP, f/2.4, 22mm (wide)",
+      "Features": "1080p@30fps",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+      "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC 5",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 8000 mAh",
+      "Charging": "100W wired, 44W UFCS, 33W PPS, 13.5W PD\nReverse wired\nBypass charging"
+    },
+    "MISC": {
+      "Colors": "Gray, Silver, Pink"
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, (wide), PDAF",
+    "Flash:": "LED flash",
+    "Front:": "50 MP, (wide)",
+    "Folded:": "",
+    "Main camera:": "50 MP, (wide), PDAF",
+    "Second camera:": "50 MP, (telephoto), PDAF, 2x optical zoom",
+    "Third camera:": "8 MP (ultrawide)",
+    "Specifications:": "",
+    "Video recording:": "4K@30fps, 1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Gold",
+    "Folded:": "",
+    "Weight:": "-",
+    "Materials:": "",
+    "Biometrics:": "Fingerprint (under display, optical), accelerometer, proximity, compass",
+    "Dimensions:": "-",
+    "Resistance:": ""
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "5000 mAh",
+    "Charging:": "30W wired\nReverse wired",
+    "Max charge speed:": "Wired: 30W"
+  },
+  "Display": {
+    "Size:": "6.78 inches",
+    "Features:": "Fingerprint (under display, optical), accelerometer, proximity, compass",
+    "Resolution:": "1080 x 2460 pixels (~396 ppi density)",
+    "Technology:": "AMOLED",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "SIM type:": "Nano-SIM + eSIM"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "GPU:": "Adreno",
+    "RAM:": "12GB",
+    "Processor:": "Snapdragon 7 series",
+    "Device type:": "Smartphone",
+    "Internal storage:": "512GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0, OTG",
+    "Other:": "NFC",
+    "Wi-Fi:": "Yes",
+    "Sensors:": "Fingerprint (under display, optical), accelerometer, proximity, compass",
+    "Features:": "USB Type-C 2.0, OTG",
+    "Location:": "GPS, GLONASS, BDS, GALILEO",
+    "Bluetooth:": "Yes"
+  }
+}

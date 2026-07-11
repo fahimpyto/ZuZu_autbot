@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "",
+    "Flash:": "",
+    "Front:": "",
+    "Folded:": "",
+    "Main camera:": "",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": ""
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Danxia orange, Glacier white, Yardang black",
+    "Folded:": "",
+    "Weight:": "30.4 g (1.06 oz)",
+    "Materials:": "Glass front (Sapphire Glass), titanium alloy bezel, aluminum mid-frame, polymer fiber back",
+    "Biometrics:": "Accelerometer, gyro, heart rate, compass, barometer, thermometer (skin temperature), depth",
+    "Dimensions:": "44.5 x 40.8 x 9.5 mm (1.75 x 1.61 x 0.37 in)",
+    "Resistance:": "5 ATM water resistant\nIP6X dust tight\nECG certified\n40m swimproof/diving (EN13319)"
+  },
+  "Battery": {
+    "Type:": "Li-Ion",
+    "Capacity:": "471 mAh",
+    "Charging:": "Wireless",
+    "Max charge speed:": ""
+  },
+  "Display": {
+    "Size:": "1.92 inches",
+    "Features:": "Accelerometer, gyro, heart rate, compass, barometer, thermometer (skin temperature), depth",
+    "Resolution:": "480 x 408 pixels (~328 ppi density)",
+    "Technology:": "AMOLED",
+    "Refresh rate:": "",
+    "Screen-to-body:": "",
+    "Peak brightness:": "3000 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "N/A",
+    "4G bands:": "N/A",
+    "5G bands:": "",
+    "SIM type:": "No"
+  },
+  "Hardware": {
+    "OS:": "",
+    "GPU:": "",
+    "RAM:": "",
+    "Processor:": "",
+    "Device type:": "Smartphone",
+    "Internal storage:": " (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "No",
+    "Other:": "NFC",
+    "Wi-Fi:": "No",
+    "Sensors:": "Accelerometer, gyro, heart rate, compass, barometer, thermometer (skin temperature), depth",
+    "Features:": "No",
+    "Location:": "GPS (L1+L5), GALILEO (E1+E5a), QZSS (L1+L5), BDS (B1l+B1C+ B2a), GLONASS, NavIC",
+    "Bluetooth:": "6.0, LE"
+  }
+}

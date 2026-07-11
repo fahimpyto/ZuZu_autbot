@@ -1,0 +1,82 @@
+{
+  "url": "https://www.gsmarena.com/oneplus_turbo_6x_pro_5g-14711.php",
+  "name": "OnePlus Turbo 6X Pro",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-turbo-6x-pro.jpg",
+  "highlights": [
+    "Not announced yet\n\nAndroid 16, ColorOS 16\n128GB/256GB storage, no card slot",
+    "10%\n3,837 HITS",
+    "4\nBECOME A FAN",
+    "6.72\"\n1200x2640 pixels",
+    "50MP\n2160p",
+    "8/12GB RAM\nDimensity 7400 Super",
+    "8000mAh\n60W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "Water-proof"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 144Hz",
+      "Size": "6.72 inches, 109.8 cm2",
+      "Resolution": "1200 x 2640 pixels (~432 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, ColorOS 16",
+      "Chipset": "Mediatek Dimensity 7400 Super (4 nm)",
+      "CPU": "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+      "GPU": "Mali G615"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",
+      "": "UFS"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.9, (wide), PDAF\nAuxiliary lens",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "4K@30/60fps, 1080p@30/60/240fps, gyro-EIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP, f/2.2, (wide)",
+      "Video": "1080p@30fps, gyro-EIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+      "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC 5",
+      "Positioning": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 8000 mAh",
+      "Charging": "60W wired\nReverse wired"
+    },
+    "MISC": {
+      "Colors": "Black, Orange"
+    }
+  }
+}
