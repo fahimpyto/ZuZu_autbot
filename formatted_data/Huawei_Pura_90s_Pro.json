@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.4-4.0, 24mm (wide), 1/1.28\", PDAF, OIS",
+    "Flash:": "Laser AF, color spectrum sensor, LED flash, panorama, HDR",
+    "Front:": "13 MP, f/2.0, (ultrawide), AF",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.4-4.0, 24mm (wide), 1/1.28\", PDAF, OIS",
+    "Second camera:": "50 MP, f/2.1, 91mm (telephoto), PDAF (5cm - ∞), OIS, 4x optical zoom",
+    "Third camera:": "12.5 MP, f/2.2, 13mm (ultrawide), AF",
+    "Specifications:": "Aperture size: F/1.4 Focal Length: 24mm",
+    "Video recording:": "4K@30fps, 1080p@30fps, HDR, gyro-EIS, OIS"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Guava Soda, Orange Soda, Coconut White, Mulberry Black",
+    "Folded:": "",
+    "Weight:": "213.5 g (7.55 oz)",
+    "Materials:": "Glass front, aluminum frame, glass back",
+    "Biometrics:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+    "Dimensions:": "157.8 x 74.5 x 8.2 mm (6.21 x 2.93 x 0.32 in)",
+    "Resistance:": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)"
+  },
+  "Battery": {
+    "Type:": "(International) or 5500 mAh (Europe)",
+    "Capacity:": "6000 mAh",
+    "Charging:": "66W wired\n50W wireless\nReverse wired\n5W reverse wireless",
+    "Max charge speed:": "Wired: 66WWireless: 50W"
+  },
+  "Display": {
+    "Size:": "6.6 inches",
+    "Features:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+    "Resolution:": "1256 x 2760 pixels (~460 ppi density)",
+    "Technology:": "LTPO OLED",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "1, 2, 3, 4, 5, 6, 7, 8, 9, 12, 13, 17, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41, 42, 48, 66",
+    "5G bands:": "1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 48, 66, 71, 77, 78, 79, 80, 81, 83, 84 SA/NSA",
+    "SIM type:": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time)"
+  },
+  "Hardware": {
+    "OS:": "Android 16, EMUI 16",
+    "GPU:": "Maleoon 935F",
+    "RAM:": "12GB",
+    "Processor:": "Kirin 9030S (5 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+    "Features:": "USB Type-C",
+    "Location:": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC",
+    "Bluetooth:": "6.0, A2DP, LE, L2HC"
+  }
+}

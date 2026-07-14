@@ -1,0 +1,85 @@
+{
+  "url": "https://www.gsmarena.com/google_pixel_11_pro_xl_5g-14800.php",
+  "name": "Google Pixel 11 Pro XL",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-11-pro-xl-r1.jpg",
+  "highlights": [
+    "Not announced yet\n226g, 8.5mm thickness\nAndroid 17, up to 7 major Android upgrades\n256GB/512GB/1TB storage, no card slot",
+    "17%\n4,567 HITS",
+    "4\nBECOME A FAN",
+    "6.8\"\n1344x2992 pixels",
+    "50MP\n4320p",
+    "12/16GB RAM\nGoogle Tensor G6",
+    "5115mAh\n45W25W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA/Sub6",
+      "": "SA/NSA/Sub6/mmWave - USA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "226 g (7.97 oz)",
+      "Build": "Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame",
+      "SIM": "· Nano-SIM + eSIM\n· eSIM + eSIM (8 or more, max 2 at a time; USA)",
+      "": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "LTPO OLED, 120Hz, HDR10+",
+      "Size": "6.8 inches, 111.5 cm2 (~89.4% screen-to-body ratio)",
+      "Resolution": "1344 x 2992 pixels, 20:9 ratio (~482 ppi density)",
+      "Protection": "Corning Gorilla Glass Victus 2"
+    },
+    "PLATFORM": {
+      "OS": "Android 17, up to 7 major Android upgrades",
+      "Chipset": "Google Tensor G6 (3 nm)"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+      "": "UFS 4.x"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.7, 25mm (wide), 1/1.31\", 1.2µm, dual pixel PDAF, OIS\n48 MP, f/2.8, 113mm (periscope telephoto), 1/2.55\", dual pixel PDAF, OIS, 5x optical zoom\n48 MP, f/1.7, 123˚ (ultrawide), 1/2.55\", dual pixel PDAF,",
+      "Features": "Multi-zone Laser AF, LED flash, Pixel Shift, Ultra-HDR, panorama, Best Take, Zoom Enhance",
+      "Video": "8K@30fps (via cloud-based upscaling), 4K@24/30/60fps, 1080p@24/30/60/120/240fps; gyro-EIS, OIS, 10-bit HDR"
+    },
+    "SELFIE CAMERA": {
+      "Single": "13 MP, (ultrawide), PDAF",
+      "Features": "HDR, panorama",
+      "Video": "4K@30/60fps, 1080p@30/60fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band",
+      "Bluetooth": "6.0, A2DP, LE, aptX HD",
+      "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer, thermometer (skin temperature)",
+      "": "Ultra Wideband (UWB) support\nSatellite SOS service"
+    },
+    "BATTERY": {
+      "Type": "Li-Ion 5115 mAh",
+      "Charging": "45W wired, PD3.0, PPS, 70% in 30 min\n25W wireless (magnetic), Qi2\nReverse wired\nBypass charging"
+    },
+    "MISC": {
+      "Colors": "Canyon; other colors",
+      "Models": "PKK4"
+    }
+  }
+}

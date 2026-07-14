@@ -1,0 +1,87 @@
+{
+  "url": "https://www.gsmarena.com/huawei_pura_90s_pro_max_5g-14794.php",
+  "name": "Huawei Pura 90s Pro Max",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-pura-90s-pro-max.jpg",
+  "highlights": [
+    "Exp. release 2026, August 01\n230.5g, 8.1mm thickness\nAndroid 16, EMUI 16\n256GB/512GB storage, no card slot",
+    "60%\n13,505 HITS",
+    "21\nBECOME A FAN",
+    "6.9\"\n1308x2880 pixels",
+    "200MP\n2160p",
+    "12GB RAM\nKirin 9030S",
+    "6000mAh\n100W80W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "1, 2, 3, 4, 5, 6, 7, 8, 9, 12, 13, 17, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41, 42, 48, 66",
+      "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 48, 66, 71, 77, 78, 79, 80, 81, 83, 84 SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, July 14",
+      "Status": "Coming soon. Exp. release 2026, August 01"
+    },
+    "BODY": {
+      "Dimensions": "164 x 77.1 x 8.1 mm (6.46 x 3.04 x 0.32 in)",
+      "Weight": "230.5 g (8.15 oz)",
+      "Build": "Glass front, aluminum frame, glass back",
+      "SIM": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time)",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "LTPO OLED, 1B colors, 120Hz, PWM, HDR",
+      "Size": "6.9 inches, 114.6 cm2 (~90.7% screen-to-body ratio)",
+      "Resolution": "1308 x 2880 pixels (~460 ppi density)",
+      "Protection": "Kunlun Glass",
+      "": "Anti-reflective coating"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, EMUI 16",
+      "Chipset": "Kirin 9030S (5 nm)",
+      "CPU": "Octa-core (1x2.7 GHz Taishan Big & 3x2.15 GHz Taishan Mid & 4x1.62 GHz Taishan Little)",
+      "GPU": "Maleoon 935F"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.4-4.0, 24mm (wide), 1/1.28\", PDAF, OIS\n200 MP, f/2.6, 89mm (telephoto), 1/1.28\", PDAF, OIS, 4x optical zoom\n40 MP, f/2.2, 13mm (ultrawide), AF",
+      "Features": "Laser AF, color spectrum sensor, LED flash, panorama, HDR",
+      "Video": "4K@30fps, 1080p@30fps, HDR, gyro-EIS, OIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "13 MP, f/2.0, (ultrawide), AF",
+      "Features": "HDR, panorama",
+      "Video": "4K@30fps, 1080p@30fps, HDR, gyro-EIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+      "Bluetooth": "6.0, A2DP, LE, L2HC",
+      "Positioning": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+    },
+    "BATTERY": {
+      "Type": "6000 mAh (International) or 5500 mAh (Europe)",
+      "Charging": "100W wired\n80W wireless\n18W reverse wired\nReverse wireless"
+    },
+    "MISC": {
+      "Colors": "Blush Gold, Orange Ocean, Blaze Purple, Graphite Black",
+      "Models": "SCA-LX9",
+      "Price": "About 1150 EUR"
+    }
+  }
+}

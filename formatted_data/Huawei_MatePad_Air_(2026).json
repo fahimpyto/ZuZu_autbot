@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.8, (wide), PDAF",
+    "Flash:": "LED flash",
+    "Front:": "12 MP, f/2.4",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.8, (wide), PDAF",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "Aperture size: F/1.8",
+    "Video recording:": "4K@30fps, 1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Sakura Pink, Airy Blue, White",
+    "Folded:": "",
+    "Weight:": "509 g (1.12 lb)",
+    "Materials:": "Glass front, aluminum frame, aluminum back",
+    "Biometrics:": "Accelerometer, gyro, proximity (accessories only)",
+    "Dimensions:": "270 x 183 x 5.3 mm (10.63 x 7.20 x 0.21 in)",
+    "Resistance:": "Stylus support (magnetic)\nPaperMatte Display (optional)"
+  },
+  "Battery": {
+    "Type:": "Li-Po",
+    "Capacity:": "10100 mAh",
+    "Charging:": "66W wired, UFCS, 100% in 85 min",
+    "Max charge speed:": "Wired: 66W"
+  },
+  "Display": {
+    "Size:": "12.0 inches",
+    "Features:": "Accelerometer, gyro, proximity (accessories only)",
+    "Resolution:": "2800 x 1840 pixels, 3:2 ratio (~279 ppi density)",
+    "Technology:": "OLED",
+    "Refresh rate:": "144Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "1200 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "N/A",
+    "4G bands:": "N/A",
+    "5G bands:": "",
+    "SIM type:": "No"
+  },
+  "Hardware": {
+    "OS:": "HarmonyOS 4.3",
+    "GPU:": "",
+    "RAM:": "8GB",
+    "Processor:": "Kirin T93C",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers (6 speakers)",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 3.1, OTG, magnetic accessory connector",
+    "Other:": "NFC",
+    "Wi-Fi:": "Yes",
+    "Sensors:": "Accelerometer, gyro, proximity (accessories only)",
+    "Features:": "USB Type-C 3.1, OTG, magnetic accessory connector",
+    "Location:": "No",
+    "Bluetooth:": "5.2, A2DP, LE, L2HC"
+  }
+}
