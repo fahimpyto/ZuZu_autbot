@@ -1,0 +1,83 @@
+{
+  "url": "https://www.gsmarena.com/xiaomi_redmi_17-14807.php",
+  "name": "Xiaomi Redmi 17 4G",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi17-4g-.jpg",
+  "highlights": [
+    "Not announced yet\n232g, 8.8mm thickness\nAndroid 16, HyperOS 3\n128GB/256GB storage, microSDXC",
+    "14%\n4,345 HITS",
+    "3\nBECOME A FAN",
+    "6.9\"\n720x1600 pixels",
+    "50MP\n1080p",
+    "4/6GB RAM\nHelio G91 Ultra",
+    "7500mAh\n45W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+      "4G bands": "LTE",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "170.1 x 78.4 x 8.8 mm (6.70 x 3.09 x 0.35 in)",
+      "Weight": "232 g (8.18 oz)",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP65 dust tight and water resistant (low pressure water jets)"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 120Hz",
+      "Size": "6.9 inches, 114.9 cm2 (~86.2% screen-to-body ratio)",
+      "Resolution": "720 x 1600 pixels, 20:9 ratio (~254 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, HyperOS 3",
+      "Chipset": "Mediatek Helio G91 Ultra (12 nm)",
+      "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+      "GPU": "Mali-G52 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (uses shared SIM slot)",
+      "Internal": "128GB 4GB RAM, 256GB 6GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.8, (wide), PDAF\nAuxiliary lens",
+      "Features": "LED flash, HDR",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP, f/2.0, (wide)",
+      "Features": "HDR",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS",
+      "NFC": "Yes (market/region dependent)",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, compass",
+      "": "Virtual proximity sensing"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 7500 mAh",
+      "Charging": "45W wired"
+    },
+    "MISC": {
+      "Colors": "Black, Deep Blue, Lotus Purple, Oak Green",
+      "Price": "About 250 EUR"
+    }
+  }
+}

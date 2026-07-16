@@ -1,0 +1,89 @@
+{
+  "url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_ultra_5g-14802.php",
+  "name": "Samsung Galaxy Z Fold8 Ultra",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-fold8-ultra-r1.jpg",
+  "highlights": [
+    "Not announced yet\n215g, 4.1mm thickness\nAndroid 16, up to 7 major upgrades\n256GB/512GB/1TB storage, no card slot",
+    "16%\n4,645 HITS",
+    "7\nBECOME A FAN",
+    "8.0\"\n1968x2184 pixels",
+    "200MP\n4320p",
+    "12/16GB RAM\nSnapdragon 8 Elite Gen 5",
+    "5000mAh\n60W25W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA/Sub6 - International",
+      "": "SA/NSA/Sub6/mmWave - USA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "4.1 mm thickness",
+      "Weight": "215 g (7.58 oz)",
+      "Build": "Glass front (Gorilla Glass Victus Ceramic 2) (folded), plastic front (unfolded), glass back (Gorilla Glass Victus 2), aluminum frame",
+      "SIM": "· Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time)\n· Nano-SIM + Nano-SIM + multiple eSIM (max 2 at a time)",
+      "": "IP48 dust and water resistant (dust > 1mm; immersible up to 1.5m for 30 min)\nAdvanced Armor aluminum frame"
+    },
+    "DISPLAY": {
+      "Type": "Foldable Dynamic LTPO AMOLED 2X, 120Hz, HDR10+",
+      "Size": "8.0 inches, 205.3 cm2 (~90.5% screen-to-body ratio)",
+      "Resolution": "1968 x 2184 pixels (~367 ppi density)",
+      "": "Titanium plate layer for display support\nCover display:\nDynamic LTPO AMOLED 2X, 120Hz, Corning Gorilla Glass Ceramic 2\n6.5 inches, 1080 x 2520 pixels, 422 ppi"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, up to 7 major Android upgrades, One UI 8.5",
+      "Chipset": "Qualcomm SM8850-1-AD Snapdragon 8 Elite Gen 5 (3 nm)",
+      "CPU": "Octa-core (2x4.74 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
+      "GPU": "Adreno 840 (1.3GHz)"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 1TB 12GB RAM, 1TB 16GB RAM",
+      "": "UFS 4.x"
+    },
+    "MAIN CAMERA": {
+      "Triple": "200 MP, f/1.7, 24mm (wide), 1/1.3\", 0.6µm, multi-directional PDAF, OIS\n10 MP, f/2.4, 67mm (telephoto), 1/3.94\", 1.0µm, PDAF, OIS, 3x optical zoom\n50 MP, f/1.9, 120˚ (ultrawide), 1/2.5\", 0.7µm, dual pixel PDAF",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "8K@30fps, 4K@60fps, 1080p@60/120/240fps (gyro-EIS), 10-bit HDR, HDR10+"
+    },
+    "SELFIE CAMERA": {
+      "Single": "10 MP, f/2.2, 18mm (ultrawide), 1/3.0\", 1.12µm\nCover camera:\n10 MP, f/2.2, 24mm (wide), 1/3.0\", 1.12µm",
+      "Features": "HDR",
+      "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No",
+      "": "High-bitrate audio support"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+      "Bluetooth": "5.4, A2DP, LE, aptX HD",
+      "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",
+      "": "Samsung DeX (desktop experience support)\nUltra Wideband (UWB) support"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 5000 mAh",
+      "Charging": "60W wired, PD3.0, 75% in 30 min\n25W wireless (Qi2.2)\n4.5W reverse wireless"
+    },
+    "MISC": {
+      "Colors": "Graphite, Violet Shadow, Cream",
+      "Models": "SM-F976B, SM-F976B/DS, SM-F976U, SM-F976U1",
+      "Price": "About 2200 EUR"
+    }
+  }
+}
