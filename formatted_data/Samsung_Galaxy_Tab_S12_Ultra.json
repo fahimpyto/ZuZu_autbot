@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "13 MP, f/2.0, 26mm (wide), 1/3.4\", 1.0µm, AF",
+    "Flash:": "LED flash, HDR, panorama",
+    "Front:": "12 MP, f/2.4, 120˚ (ultrawide)",
+    "Folded:": "",
+    "Main camera:": "13 MP, f/2.0, 26mm (wide), 1/3.4\", 1.0µm, AF",
+    "Second camera:": "8 MP, f/2.2, (ultrawide)",
+    "Third camera:": "",
+    "Specifications:": "Aperture size: F/2.0 Focal Length: 26mm",
+    "Video recording:": "4K@30fps, 1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Gray; other colors",
+    "Folded:": "",
+    "Weight:": "-",
+    "Materials:": "Glass front, aluminum frame, aluminum back",
+    "Biometrics:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+    "Dimensions:": "326.3 x 208.5 x 5.1 mm (12.85 x 8.21 x 0.20 in)",
+    "Resistance:": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\nStylus support\nEnhanced Armor aluminum"
+  },
+  "Battery": {
+    "Type:": "Li-Po",
+    "Capacity:": "11600 mAh",
+    "Charging:": "45W wired",
+    "Max charge speed:": "Wired: 45W"
+  },
+  "Display": {
+    "Size:": "14.6 inches",
+    "Features:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+    "Resolution:": "1848 x 2960 pixels, 16:10 ratio (~239 ppi density)",
+    "Technology:": "Dynamic AMOLED 2X",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA/Sub6",
+    "SIM type:": "Nano-SIM + eSIM (cellular model only)"
+  },
+  "Hardware": {
+    "OS:": "Android 16, One UI 8.5",
+    "GPU:": "Mali-G1 Ultra MC12",
+    "RAM:": "12GB",
+    "Processor:": "MediaTek Dimensity 9500 (3 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "128GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers (4 speakers)",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 3.2, magnetic connector",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+    "Sensors:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+    "Features:": "USB Type-C 3.2, magnetic connector",
+    "Location:": "GPS, GLONASS, BDS, GALILEO",
+    "Bluetooth:": "5.4, A2DP, LE"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "url": "https://www.gsmarena.com/asus_pad_(t3201)-14812.php",
+  "name": "Asus Pad (T3201)",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/asus-pad-t3201.jpg",
+  "highlights": [
+    "Exp. release 2026, August 06\n523g, 6.5mm thickness\nAndroid 16\n128GB/256GB storage, microSDXC",
+    "5.8%\n2,033 HITS",
+    "4\nBECOME A FAN",
+    "12.2\"\n2800x1840 pixels",
+    "13MP\n1080p",
+    "8GB RAM\nDimensity 8300",
+    "9000mAh\n45W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2026, July 17",
+      "Status": "Coming soon. Exp. release 2026, August 06"
+    },
+    "BODY": {
+      "Dimensions": "271.1 x 182.4 x 6.5 mm (10.67 x 7.18 x 0.26 in)",
+      "Weight": "523 g (1.15 lb)",
+      "SIM": "No",
+      "": "Stylus support"
+    },
+    "DISPLAY": {
+      "Type": "OLED, 144Hz, 2000 nits (peak), Dolby Vision",
+      "Size": "12.2 inches, 440.7 cm2 (~89.1% screen-to-body ratio)",
+      "Resolution": "2800 x 1840 pixels, 3:2 ratio (~275 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16",
+      "Chipset": "Mediatek Dimensity 8300 (4 nm)",
+      "CPU": "Octa-core (1x3.35 GHz Cortex-A715 & 3x3.20 GHz Cortex-A715 & 4x2.20 GHz Cortex-A510)",
+      "GPU": "Mali G615-MC6"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC",
+      "Internal": "128GB 8GB RAM, 256GB 8GB RAM",
+      "": "UFS 3.1"
+    },
+    "MAIN CAMERA": {
+      "Single": "13 MP, (wide), AF",
+      "Features": "LED flash",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "5 MP",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers (4 speakers, with Dolby Atmos)",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct",
+      "Bluetooth": "5.3, A2DP, LE",
+      "Positioning": "Unspecified",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "USB Type-C 3.0, DisplayPort 1.4, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, gyro, proximity (accessories only)"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 9000 mAh",
+      "Charging": "45W wired, 50% in 30 min\nReverse wired"
+    },
+    "MISC": {
+      "Colors": "Pure White",
+      "Models": "T3201M5A"
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "url": "https://www.gsmarena.com/samsung_galaxy_tab_s12_ultra_5g-14811.php",
+  "name": "Samsung Galaxy Tab S12 Ultra",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-s11-ultra.jpg",
+  "highlights": [
+    "Not announced yet\n5.1mm thickness\nAndroid 16, One UI 8.5\n128GB/512GB/1TB storage, microSDXC",
+    "6.8%\n2,330 HITS",
+    "2\nBECOME A FAN",
+    "14.6\"\n1848x2960 pixels",
+    "13MP\n2160p",
+    "12/16GB RAM\nDimensity 9500",
+    "11600mAh\n45W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA/Sub6",
+      "Speed": "HSPA, LTE, 5G - cellular model only"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "326.3 x 208.5 x 5.1 mm (12.85 x 8.21 x 0.20 in)",
+      "Weight": "-",
+      "Build": "Glass front, aluminum frame, aluminum back",
+      "SIM": "Nano-SIM + eSIM (cellular model only)",
+      "": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\nStylus support\nEnhanced Armor aluminum"
+    },
+    "DISPLAY": {
+      "Type": "Dynamic AMOLED 2X, 120Hz, HDR10+",
+      "Size": "14.6 inches, 617.8 cm2 (~90.8% screen-to-body ratio)",
+      "Resolution": "1848 x 2960 pixels, 16:10 ratio (~239 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, One UI 8.5",
+      "Chipset": "MediaTek Dimensity 9500 (3 nm)",
+      "CPU": "Octa-core (1x4.21 GHz C1-Ultra & 3x3.5 GHz C1-Premium & 4x2.7 GHz C1-Pro)",
+      "GPU": "Mali-G1 Ultra MC12"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (dedicated slot)",
+      "Internal": "128GB 12GB RAM, 256GB 12GB RAM, 512GB 12GB RAM, 1TB 16GB RAM",
+      "": "UFS"
+    },
+    "MAIN CAMERA": {
+      "Dual": "13 MP, f/2.0, 26mm (wide), 1/3.4\", 1.0µm, AF\n8 MP, f/2.2, (ultrawide)",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "4K@30fps, 1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "12 MP, f/2.4, 120˚ (ultrawide)",
+      "Features": "HDR",
+      "Video": "4K@30fps, 1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS, GLONASS, BDS, GALILEO",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2, magnetic connector"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+      "": "Wireless Samsung DeX (desktop experience support)"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 11600 mAh",
+      "Charging": "45W wired"
+    },
+    "MISC": {
+      "Colors": "Gray; other colors",
+      "SAR EU": "0.80 W/kg (body)",
+      "Price": "About 1400 EUR"
+    }
+  }
+}
