@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP",
+    "Flash:": "LED flash",
+    "Front:": "8 MP",
+    "Folded:": "",
+    "Main camera:": "50 MP",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black, Green, Orange",
+    "Folded:": "",
+    "Weight:": "-",
+    "Materials:": "",
+    "Biometrics:": "Fingerprint (side-mounted), accelerometer, proximity",
+    "Dimensions:": "-",
+    "Resistance:": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nDrop resistant up to 2m\nMIL-STD-810H compliant*\n* does not guarantee ruggedness or use in extreme conditions"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "7000 mAh",
+    "Charging:": "18W wired\nReverse wired",
+    "Max charge speed:": "Wired: 18W"
+  },
+  "Display": {
+    "Size:": "6.78 inches",
+    "Features:": "Fingerprint (side-mounted), accelerometer, proximity",
+    "Resolution:": "720 x 1576 pixels, 19.5:9 ratio (~256 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 16, itel OS 16",
+    "GPU:": "Mali-G57 MP1",
+    "RAM:": "4GB",
+    "Processor:": "Unisoc T7250 (12 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "64GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C, OTG",
+    "Other:": "NFC",
+    "Wi-Fi:": "Yes",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, proximity",
+    "Features:": "USB Type-C, OTG",
+    "Location:": "GPS",
+    "Bluetooth:": "Yes"
+  }
+}

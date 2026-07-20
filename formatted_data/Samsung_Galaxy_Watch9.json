@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "",
+    "Flash:": "",
+    "Front:": "",
+    "Folded:": "",
+    "Main camera:": "",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": ""
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Silver; other colors",
+    "Folded:": "",
+    "Weight:": "-",
+    "Materials:": "Glass front (Sapphire crystal), aluminum frame",
+    "Biometrics:": "Accelerometer, gyro, heart rate, barometer, altimeter, compass, SpO2, temperature (skin), BioActive, antioxidant index",
+    "Dimensions:": "-",
+    "Resistance:": "MIL-STD-810H compliant*\nIP68 dust tight and water resistant (immersible up to 50m/5ATM)\nECG certified\nBlood pressure monitor\nArmor aluminum 2 frame\n*does not guarantee ruggedness or use in extreme conditions"
+  },
+  "Battery": {
+    "Type:": "Li-Ion",
+    "Capacity:": "445 mAh",
+    "Charging:": "10W wireless",
+    "Max charge speed:": "Wireless: 10W"
+  },
+  "Display": {
+    "Size:": "1.47 inches",
+    "Features:": "Accelerometer, gyro, heart rate, barometer, altimeter, compass, SpO2, temperature (skin), BioActive, antioxidant index",
+    "Resolution:": "480 x 480 pixels (~327 ppi density)",
+    "Technology:": "Super AMOLED",
+    "Refresh rate:": "",
+    "Screen-to-body:": "",
+    "Peak brightness:": "3000 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "",
+    "SIM type:": "eSIM"
+  },
+  "Hardware": {
+    "OS:": "Android Wear OS 6, One UI Watch 9",
+    "GPU:": "",
+    "RAM:": "2GB",
+    "Processor:": "Snapdragon SW6100 Wear Elite (3 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "32GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "No",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Sensors:": "Accelerometer, gyro, heart rate, barometer, altimeter, compass, SpO2, temperature (skin), BioActive, antioxidant index",
+    "Features:": "No",
+    "Location:": "GPS (L1+L5), GLONASS, GALILEO, BDS",
+    "Bluetooth:": "6.0, A2DP, LE"
+  }
+}
