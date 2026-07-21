@@ -1,0 +1,74 @@
+{
+  "url": "https://www.gsmarena.com/honor_watch_6_plus-14817.php",
+  "name": "Honor Watch 6 Plus",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-watch-6-plus.jpg",
+  "highlights": [
+    "Exp. release 2026, July 22\n41g or 50g, 10.8mm thickness\nMagicOS 10\n4GB storage, no card slot",
+    "6.0%\n2,439 HITS",
+    "2\nBECOME A FAN",
+    "1.46\"\n464x464 pixels",
+    "NO",
+    "",
+    "1000mAh"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "Speed": "No",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2026, July 10",
+      "Status": "Coming soon. Exp. release 2026, July 22"
+    },
+    "BODY": {
+      "Dimensions": "46.5 x 46.5 x 10.8 mm (1.83 x 1.83 x 0.43 in)",
+      "Weight": "41 g or 50 g (1.45 oz)",
+      "Build": "Glass front, stainless steel bezel (316L), aluminum frame, fiber reinforced plastic back",
+      "SIM": "No",
+      "": "P68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\n5 ATM water resistant"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 3000 nits (peak)",
+      "Size": "1.46 inches",
+      "Resolution": "464 x 464 pixels (~317 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "MagicOS 10"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "4GB"
+    },
+    "CAMERA": {
+      "": "No"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "No",
+      "Bluetooth": "5.4, LE, EDR",
+      "Positioning": "GPS (L1+L5), BDS, GALILEO, QZSS, GLONASS, NavIC",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "No"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, gyro, compass, barometer, heart rate, SpO2"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Po 1000 mAh"
+    },
+    "MISC": {
+      "Colors": "Black, Silver",
+      "Models": "ROM-B19",
+      "Price": "About 170 EUR"
+    }
+  }
+}
