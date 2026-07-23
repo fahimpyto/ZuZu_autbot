@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "",
+    "Flash:": "LED flash",
+    "Front:": "",
+    "Folded:": "",
+    "Main camera:": "",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "No"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Green, Purple",
+    "Folded:": "",
+    "Weight:": "108 g (3.81 oz)",
+    "Materials:": "",
+    "Biometrics:": "",
+    "Dimensions:": "132.7 x 57 x 15 mm (5.22 x 2.24 x 0.59 in)",
+    "Resistance:": "IP65 dust tight and water resistant (low pressure water jets)"
+  },
+  "Battery": {
+    "Type:": "removable",
+    "Capacity:": "1750 mAh",
+    "Charging:": "",
+    "Max charge speed:": ""
+  },
+  "Display": {
+    "Size:": "2.4 inches",
+    "Features:": "",
+    "Resolution:": "240 x 320 pixels, 4:3 ratio (~167 ppi density)",
+    "Technology:": "TFT",
+    "Refresh rate:": "",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM",
+    "2G bands:": "GSM 900 / 1800",
+    "3G bands:": "",
+    "4G bands:": "",
+    "5G bands:": "",
+    "SIM type:": "Dual SIM (Mini-SIM, dual stand-by)"
+  },
+  "Hardware": {
+    "OS:": "",
+    "GPU:": "",
+    "RAM:": "",
+    "Processor:": "Unisoc SC6531E",
+    "Device type:": "Smartphone",
+    "Internal storage:": " (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C",
+    "Other:": "NFC",
+    "Wi-Fi:": "No",
+    "Sensors:": "",
+    "Features:": "USB Type-C",
+    "Location:": "No",
+    "Bluetooth:": "Unspecified"
+  }
+}

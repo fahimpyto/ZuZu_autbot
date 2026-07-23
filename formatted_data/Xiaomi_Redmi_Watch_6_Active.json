@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "",
+    "Flash:": "",
+    "Front:": "",
+    "Folded:": "",
+    "Main camera:": "",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": ""
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black, Silver, Rose Gold",
+    "Folded:": "",
+    "Weight:": "-",
+    "Materials:": "",
+    "Biometrics:": "Accelerometer, heart rate, SpO2",
+    "Dimensions:": "-",
+    "Resistance:": "IPX8 water resistant"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "470 mAh",
+    "Charging:": "",
+    "Max charge speed:": ""
+  },
+  "Display": {
+    "Size:": "1.85 inches",
+    "Features:": "Accelerometer, heart rate, SpO2",
+    "Resolution:": "390 x 450 pixels (~322 ppi density)",
+    "Technology:": "AMOLED",
+    "Refresh rate:": "",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "N/A",
+    "4G bands:": "N/A",
+    "5G bands:": "",
+    "SIM type:": "No"
+  },
+  "Hardware": {
+    "OS:": "HyperOS",
+    "GPU:": "",
+    "RAM:": "",
+    "Processor:": "",
+    "Device type:": "Smartphone",
+    "Internal storage:": " (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "No",
+    "Other:": "NFC",
+    "Wi-Fi:": "No",
+    "Sensors:": "Accelerometer, heart rate, SpO2",
+    "Features:": "No",
+    "Location:": "No",
+    "Bluetooth:": "5.3, A2DP, LE"
+  }
+}

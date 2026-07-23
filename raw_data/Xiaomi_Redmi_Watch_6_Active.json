@@ -1,0 +1,72 @@
+{
+  "url": "https://www.gsmarena.com/xiaomi_redmi_watch_6_active-14820.php",
+  "name": "Xiaomi Redmi Watch 6 Active",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-watch-5-active.jpg",
+  "highlights": [
+    "Not announced yet\n11.4mm thickness\nHyperOS\nUnspecified storage, no card slot",
+    "1.6%\n637 HITS",
+    "1\nBECOME A FAN",
+    "1.85\"\n390x450 pixels",
+    "NO",
+    "",
+    "470mAh"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "Speed": "No",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "SIM": "No",
+      "": "IPX8 water resistant"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED",
+      "Size": "1.85 inches",
+      "Resolution": "390 x 450 pixels (~322 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "HyperOS"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "Unspecified"
+    },
+    "CAMERA": {
+      "": "No"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "No",
+      "Bluetooth": "5.3, A2DP, LE",
+      "Positioning": "No",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "No"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, heart rate, SpO2"
+    },
+    "BATTERY": {
+      "Type": "470 mAh"
+    },
+    "MISC": {
+      "Colors": "Black, Silver, Rose Gold",
+      "Price": "About 50 EUR"
+    }
+  }
+}
