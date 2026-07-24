@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "8 MP, f/2.0, (wide), 1/4.0\"",
+    "Flash:": "LED flash",
+    "Front:": "5 MP, f/2.0, (wide), 1/5.0\"",
+    "Folded:": "",
+    "Main camera:": "8 MP, f/2.0, (wide), 1/4.0\"",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "Aperture size: F/2.0",
+    "Video recording:": "1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black, Blue, Orange",
+    "Folded:": "",
+    "Weight:": "191.5 g (6.77 oz)",
+    "Materials:": "",
+    "Biometrics:": "Accelerometer, proximity",
+    "Dimensions:": "165 x 76.5 x 8.8 mm (6.50 x 3.01 x 0.35 in)",
+    "Resistance:": ""
+  },
+  "Battery": {
+    "Type:": "Li-Po",
+    "Capacity:": "5000 mAh",
+    "Charging:": "10W wired",
+    "Max charge speed:": "Wired: 10W"
+  },
+  "Display": {
+    "Size:": "6.56 inches",
+    "Features:": "Accelerometer, proximity",
+    "Resolution:": "540 x 1210 pixels, 20:9 ratio (~202 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "90Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 38, 40, 41, 66",
+    "5G bands:": "",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 16 (Go edition)",
+    "GPU:": "PowerVR GE8322",
+    "RAM:": "3GB",
+    "Processor:": "Unisoc T7100",
+    "Device type:": "Smartphone",
+    "Internal storage:": "32GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0, OTG",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 b/g/n",
+    "Sensors:": "Accelerometer, proximity",
+    "Features:": "USB Type-C 2.0, OTG",
+    "Location:": "GPS, GLONASS, GALILEO, BDS",
+    "Bluetooth:": "4.2, A2DP"
+  }
+}

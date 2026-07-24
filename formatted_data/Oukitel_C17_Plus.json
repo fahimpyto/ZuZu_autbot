@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "64 MP, f/1.8, (wide), 1/2.0\", AF",
+    "Flash:": "LED flash, HDR, panorama",
+    "Front:": "8 MP, f/2.0, (wide), 1/4.0\"",
+    "Folded:": "",
+    "Main camera:": "64 MP, f/1.8, (wide), 1/2.0\", AF",
+    "Second camera:": "Auxiliary lens",
+    "Third camera:": "",
+    "Specifications:": "Aperture size: F/1.8",
+    "Video recording:": "1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Orange, White, Blue, Black",
+    "Folded:": "",
+    "Weight:": "205 g (7.23 oz)",
+    "Materials:": "",
+    "Biometrics:": "Fingerprint (side-mounted), accelerometer, proximity, compass",
+    "Dimensions:": "163.8 x 78.3 x 8.8 mm (6.45 x 3.08 x 0.35 in)",
+    "Resistance:": ""
+  },
+  "Battery": {
+    "Type:": "Li-Po",
+    "Capacity:": "5000 mAh",
+    "Charging:": "18W wired\nReverse wired",
+    "Max charge speed:": "Wired: 18W"
+  },
+  "Display": {
+    "Size:": "6.9 inches",
+    "Features:": "Fingerprint (side-mounted), accelerometer, proximity, compass",
+    "Resolution:": "720 x 1560 pixels, 19.5:9 ratio (~249 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 34, 38, 39, 40, 41, 66",
+    "5G bands:": "",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 16",
+    "GPU:": "Mali-G57 MP1",
+    "RAM:": "3GB",
+    "Processor:": "Unisoc T615 (12 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "128GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C, OTG",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, proximity, compass",
+    "Features:": "USB Type-C, OTG",
+    "Location:": "GPS, GALILEO, GLONASS, BDS",
+    "Bluetooth:": "5.2, A2DP, LE"
+  }
+}

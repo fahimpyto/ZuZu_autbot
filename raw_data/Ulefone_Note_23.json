@@ -1,0 +1,86 @@
+{
+  "url": "https://www.gsmarena.com/ulefone_note_23-14825.php",
+  "name": "Ulefone Note 23",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-note-23.jpg",
+  "highlights": [
+    "Exp. release 2026, August\n191.5g, 8.8mm thickness\nAndroid 16\n32GB storage, microSDXC",
+    "3.9%\n1,518 HITS",
+    "2\nBECOME A FAN",
+    "6.56\"\n540x1210 pixels",
+    "8MP\n1080p",
+    "3GB RAM\nUnisoc T7100",
+    "5000mAh\n10W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 38, 40, 41, 66",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2026, July",
+      "Status": "Coming soon. Exp. release 2026, August"
+    },
+    "BODY": {
+      "Dimensions": "165 x 76.5 x 8.8 mm (6.50 x 3.01 x 0.35 in)",
+      "Weight": "191.5 g (6.77 oz)",
+      "SIM": "Nano-SIM + Nano-SIM"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 90Hz, 400 nits",
+      "Size": "6.56 inches, 103.3 cm2 (~81.9% screen-to-body ratio)",
+      "Resolution": "540 x 1210 pixels, 20:9 ratio (~202 ppi density)",
+      "Protection": "Mohs level 8"
+    },
+    "PLATFORM": {
+      "OS": "Android 16 (Go edition)",
+      "Chipset": "Unisoc T7100",
+      "CPU": "Octa-core 1.8 GHz",
+      "GPU": "PowerVR GE8322"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (dedicated slot)",
+      "Internal": "32GB 3GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "8 MP, f/2.0, (wide), 1/4.0\"",
+      "Features": "LED flash",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "5 MP, f/2.0, (wide), 1/5.0\"",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 b/g/n",
+      "Bluetooth": "4.2, A2DP",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS",
+      "NFC": "No",
+      "Radio": "FM radio",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, proximity"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 5000 mAh",
+      "Charging": "10W wired"
+    },
+    "MISC": {
+      "Colors": "Black, Blue, Orange",
+      "Price": "About 110 EUR"
+    },
+    "EU LABEL": {
+      "Energy": "Class A",
+      "Battery": "62:00h endurance, 1000 cycles",
+      "Free fall": "Class D (46 falls)",
+      "Repairability": "Class B"
+    }
+  }
+}

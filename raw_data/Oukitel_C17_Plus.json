@@ -1,0 +1,85 @@
+{
+  "url": "https://www.gsmarena.com/oukitel_c17_plus-14823.php",
+  "name": "Oukitel C17 Plus",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-c17-plus.jpg",
+  "highlights": [
+    "Released 2026, June\n205g, 8.8mm thickness\nAndroid 16\n128GB/256GB storage, microSDXC",
+    "8.0%\n3,052 HITS",
+    "3\nBECOME A FAN",
+    "6.9\"\n720x1560 pixels",
+    "64MP\n1080p",
+    "3-6GB RAM\nUnisoc T615",
+    "5000mAh\n10W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 34, 38, 39, 40, 41, 66",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2026, March",
+      "Status": "Available. Released 2026, June"
+    },
+    "BODY": {
+      "Dimensions": "163.8 x 78.3 x 8.8 mm (6.45 x 3.08 x 0.35 in)",
+      "Weight": "205 g (7.23 oz)",
+      "SIM": "Nano-SIM + Nano-SIM"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 120Hz, 500 nits",
+      "Size": "6.9 inches, 116.9 cm2 (~91.1% screen-to-body ratio)",
+      "Resolution": "720 x 1560 pixels, 19.5:9 ratio (~249 ppi density)",
+      "Protection": "Panda Glass, Mohs level 5"
+    },
+    "PLATFORM": {
+      "OS": "Android 16",
+      "Chipset": "Unisoc T615 (12 nm)",
+      "CPU": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MP1"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (uses shared SIM slot)",
+      "Internal": "128GB 3GB RAM, 128GB 4GB RAM, 256GB 6GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Dual": "64 MP, f/1.8, (wide), 1/2.0\", AF\nAuxiliary lens",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP, f/2.0, (wide), 1/4.0\"",
+      "Video": "720p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.2, A2DP, LE",
+      "Positioning": "GPS, GALILEO, GLONASS, BDS",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 5000 mAh",
+      "Charging": "18W wired\nReverse wired"
+    },
+    "MISC": {
+      "Colors": "Orange, White, Blue, Black"
+    },
+    "EU LABEL": {
+      "Energy": "Class A",
+      "Battery": "53:47h endurance, 1000 cycles",
+      "Free fall": "Class B (215 falls)",
+      "Repairability": "Class B"
+    }
+  }
+}
