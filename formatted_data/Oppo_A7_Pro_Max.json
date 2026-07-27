@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.8, (wide), PDAF",
+    "Flash:": "Color spectrum sensor, LED flash, HDR, panorama",
+    "Front:": "50 MP, f/2.0, 18mm (ultrawide)",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.8, (wide), PDAF",
+    "Second camera:": "Auxiliary lens",
+    "Third camera:": "",
+    "Specifications:": "Aperture size: F/1.8",
+    "Video recording:": "1080p@30/60fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Blue; other colors",
+    "Folded:": "",
+    "Weight:": "226 g (7.97 oz)",
+    "Materials:": "Glass front, plastic frame, plastic back",
+    "Biometrics:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+    "Dimensions:": "8.5 mm thickness",
+    "Resistance:": "Water resistant"
+  },
+  "Battery": {
+    "Type:": "Si/C Li-Ion",
+    "Capacity:": "10000 mAh",
+    "Charging:": "80W wired, 55W PPS, 13.5W PD\nReverse wired",
+    "Max charge speed:": "Wired: 80W"
+  },
+  "Display": {
+    "Size:": "6.78 inches",
+    "Features:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+    "Resolution:": "1256 x 2760 pixels (~447 ppi density)",
+    "Technology:": "AMOLED",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 16, ColorOS 16",
+    "GPU:": "Adreno",
+    "RAM:": "12GB",
+    "Processor:": "Qualcomm Snapdragon 4 Gen 5",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0, OTG",
+    "Other:": "NFC",
+    "Wi-Fi:": "Yes",
+    "Sensors:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+    "Features:": "USB Type-C 2.0, OTG",
+    "Location:": "GPS, GALILEO, GLONASS, BDS, QZSS",
+    "Bluetooth:": "Yes"
+  }
+}

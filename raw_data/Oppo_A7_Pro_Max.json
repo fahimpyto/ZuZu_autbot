@@ -1,0 +1,82 @@
+{
+  "url": "https://www.gsmarena.com/oppo_a7_pro_max_5g-14828.php",
+  "name": "Oppo A7 Pro Max",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/oppo-a7-pro-max-1.jpg",
+  "highlights": [
+    "Not announced yet\n226 g\nAndroid 16, ColorOS 16\n128GB/256GB storage, Unspecified",
+    "4.0%\n1,614 HITS",
+    "2\nBECOME A FAN",
+    "6.78\"\n1256x2760 pixels",
+    "50MP\n1080p",
+    "8/12GB RAM\nSnapdragon 4 Gen 5",
+    "10000mAh\n80W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "8.5 mm thickness",
+      "Weight": "226 g (7.97 oz)",
+      "Build": "Glass front, plastic frame, plastic back",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "Water resistant"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 120Hz",
+      "Size": "6.78 inches, 111.8 cm2",
+      "Resolution": "1256 x 2760 pixels (~447 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, ColorOS 16",
+      "Chipset": "Qualcomm Snapdragon 4 Gen 5",
+      "GPU": "Adreno"
+    },
+    "MEMORY": {
+      "Card slot": "Unspecified",
+      "Internal": "Up to 256GB 12GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.8, (wide), PDAF\nAuxiliary lens",
+      "Features": "Color spectrum sensor, LED flash, HDR, panorama",
+      "Video": "1080p@30/60fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, f/2.0, 18mm (ultrawide)",
+      "Features": "Panorama",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Yes",
+      "Bluetooth": "Yes",
+      "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+      "NFC": "Unspecified",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 10000 mAh",
+      "Charging": "80W wired, 55W PPS, 13.5W PD\nReverse wired"
+    },
+    "MISC": {
+      "Colors": "Blue; other colors",
+      "Models": "PYC110"
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "url": "https://www.gsmarena.com/honor_robot_phone_5g-14827.php",
+  "name": "Honor Robot Phone",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-robot-phone-1.jpg",
+  "highlights": [
+    "Not announced yet\n\nAndroid 16, MagicOS 10\n256GB/512GB storage, no card slot",
+    "21%\n7,960 HITS",
+    "21\nBECOME A FAN",
+    "6.8\"\n1280x2788 pixels",
+    "200MP\n2160p",
+    "8/12GB RAM\nSnapdragon 8 Elite Gen 5",
+    "6000mAh\n120W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "Build": "Glass front, aluminum frame",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "LTPO AMOLED, 1B colors, 120Hz, HDR",
+      "Size": "6.8 inches, 113.1 cm2",
+      "Resolution": "1280 x 2788 pixels, 19.5:9 ratio (~451 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, MagicOS 10",
+      "Chipset": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+      "CPU": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
+      "GPU": "Adreno 840"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "Up to 512GB"
+    },
+    "MAIN CAMERA": {
+      "Triple": "200 MP, (wide), PDAF, retractable motorized gimbal OIS\n200 MP, (periscope telephoto), PDAF, OIS, 3x optical zoom\n50 MP, (ultrawide)",
+      "Features": "3D automated subject tracking, LED flash, panorama, HDR",
+      "Video": "4K, 1080p, gyro-EIS, OIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP",
+      "Video": "4K, 1080p, gyro-EIS, OIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+      "Bluetooth": "6.0, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless, LHDC 5, Auracast, ASHA",
+      "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display), accelerometer, compass, gyro, proximity"
+    },
+    "BATTERY": {
+      "Type": "6000 mAh",
+      "Charging": "120W wired"
+    },
+    "MISC": {
+      "Colors": "Silver; other colors"
+    }
+  }
+}
