@@ -1,0 +1,78 @@
+{
+  "url": "https://www.gsmarena.com/hmd_asha_305_lite-14832.php",
+  "name": "HMD Asha 305 Lite",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/hmd-asha-305.jpg",
+  "highlights": [
+    "Released 2026, July\n10.2mm thickness\nAndroid Open Source Project\n16GB storage, Unspecified",
+    "12%\n4,957 HITS",
+    "7\nBECOME A FAN",
+    "5.0\"\n480x854 pixels",
+    "2MP",
+    "2GB RAM\nUnisoc SC9832E",
+    "2500mAh"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 2100",
+      "4G bands": "LTE",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2026, July",
+      "Status": "Available. Released 2026, July"
+    },
+    "BODY": {
+      "Dimensions": "147 x 71.5 x 10.2 mm (5.79 x 2.81 x 0.40 in)",
+      "Weight": "-",
+      "SIM": "Yes"
+    },
+    "DISPLAY": {
+      "Type": "TFT",
+      "Size": "5.0 inches, 68.9 cm2 (~65.5% screen-to-body ratio)",
+      "Resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android Open Source Project",
+      "Chipset": "Unisoc SC9832E (28 nm)",
+      "CPU": "Quad-core 1.4 GHz",
+      "GPU": "Mali-T820 MP1"
+    },
+    "MEMORY": {
+      "Card slot": "Unspecified",
+      "Internal": "16GB 2GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "2 MP",
+      "Features": "LED flash",
+      "Video": "Yes"
+    },
+    "SELFIE CAMERA": {
+      "Single": "2 MP",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "Unspecified"
+    },
+    "COMMS": {
+      "WLAN": "Yes",
+      "Bluetooth": "Yes",
+      "Positioning": "GPS",
+      "NFC": "No",
+      "Radio": "Unspecified",
+      "USB": "Yes"
+    },
+    "FEATURES": {
+      "Sensors": "No"
+    },
+    "BATTERY": {
+      "Type": "Li-Ion 2500 mAh"
+    },
+    "MISC": {
+      "Colors": "Gray, Green",
+      "Price": "About 60 EUR"
+    }
+  }
+}

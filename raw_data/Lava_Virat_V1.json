@@ -1,0 +1,82 @@
+{
+  "url": "https://www.gsmarena.com/lava_virat_v1_5g-14831.php",
+  "name": "Lava Virat V1",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/lava-virat-v1-5g.jpg",
+  "highlights": [
+    "Exp. release 2026, July 31\n210g, 8.8mm thickness\nAndroid 16\n64GB storage, microSDXC",
+    "4.5%\n1,822 HITS",
+    "3\nBECOME A FAN",
+    "6.75\"\n720x1600 pixels",
+    "13MP\n1080p",
+    "4GB RAM\nUnisoc T8200",
+    "6000mAh\n10W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, July 24",
+      "Status": "Coming soon. Exp. release 2026, July 31"
+    },
+    "BODY": {
+      "Dimensions": "165.9 x 76.8 x 8.8 mm (6.53 x 3.02 x 0.35 in)",
+      "Weight": "210 g (7.41 oz)",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP64 dust tight and water resistant (water splashes)"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 120Hz",
+      "Size": "6.75 inches, 110.0 cm2 (~86.3% screen-to-body ratio)",
+      "Resolution": "720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16",
+      "Chipset": "Unisoc T8200 (6 nm)",
+      "CPU": "Octa-core (2x2.3 GHz Cortex-A76 & 6x2.1 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (dedicated slot)",
+      "Internal": "64GB 4GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "13 MP",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "5 MP",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 b/g/n/ac",
+      "Bluetooth": "5.0, A2DP, LE",
+      "Positioning": "GPS, GLONASS",
+      "NFC": "No",
+      "Infrared port": "Yes",
+      "Radio": "FM radio",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer"
+    },
+    "BATTERY": {
+      "Type": "Li-Ion 6000 mAh",
+      "Charging": "10W wired"
+    },
+    "MISC": {
+      "Colors": "Arya Blue, Sonar Gold",
+      "Price": "About 110 EUR"
+    }
+  }
+}

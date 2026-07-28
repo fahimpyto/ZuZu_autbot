@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "13 MP",
+    "Flash:": "LED flash, HDR, panorama",
+    "Front:": "5 MP",
+    "Folded:": "",
+    "Main camera:": "13 MP",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Arya Blue, Sonar Gold",
+    "Folded:": "",
+    "Weight:": "210 g (7.41 oz)",
+    "Materials:": "",
+    "Biometrics:": "Fingerprint (side-mounted), accelerometer",
+    "Dimensions:": "165.9 x 76.8 x 8.8 mm (6.53 x 3.02 x 0.35 in)",
+    "Resistance:": "IP64 dust tight and water resistant (water splashes)"
+  },
+  "Battery": {
+    "Type:": "Li-Ion",
+    "Capacity:": "6000 mAh",
+    "Charging:": "10W wired",
+    "Max charge speed:": "Wired: 10W"
+  },
+  "Display": {
+    "Size:": "6.75 inches",
+    "Features:": "Fingerprint (side-mounted), accelerometer",
+    "Resolution:": "720 x 1600 pixels, 20:9 ratio (~260 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 16",
+    "GPU:": "Mali-G57 MC2",
+    "RAM:": "4GB",
+    "Processor:": "Unisoc T8200 (6 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "64GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0, OTG",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Wi-Fi 802.11 b/g/n/ac",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer",
+    "Features:": "USB Type-C 2.0, OTG",
+    "Location:": "GPS, GLONASS",
+    "Bluetooth:": "5.0, A2DP, LE"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "url": "https://www.gsmarena.com/vivo_t5e-14829.php",
+  "name": "vivo T5e",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-t5e.jpg",
+  "highlights": [
+    "Released 2026, July 28\n199g, 8.2mm thickness\nAndroid 16, OriginOS 6\n64GB storage, microSDXC",
+    "6.4%\n2,569 HITS",
+    "3\nBECOME A FAN",
+    "6.74\"\n720x1600 pixels",
+    "8MP\n1080p",
+    "4GB RAM\nUnisoc T7225",
+    "5500mAh\n15W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 2100",
+      "4G bands": "1, 3, 5, 8, 38, 40, 41",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2026, July 28",
+      "Status": "Available. Released 2026, July 28"
+    },
+    "BODY": {
+      "Dimensions": "167.3 x 77 x 8.2 mm (6.59 x 3.03 x 0.32 in)",
+      "Weight": "199 g (7.02 oz)",
+      "Build": "Glass front, plastic frame, plastic back",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP64 dust tight and water resistant (water splashes)\nMIL-STD-810H compliant*\n* does not guarantee ruggedness or use in extreme conditions"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 90Hz, 570 nits (HBM)",
+      "Size": "6.74 inches, 109.7 cm2 (~85.1% screen-to-body ratio)",
+      "Resolution": "720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, OriginOS 6",
+      "Chipset": "Unisoc T7225 (12 nm)",
+      "CPU": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+      "GPU": "Mali-G52 MP1"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (dedicated slot)",
+      "Internal": "64GB 4GB RAM",
+      "": "eMMC 5.1"
+    },
+    "MAIN CAMERA": {
+      "Single": "8 MP, f/2.0 (wide)",
+      "Features": "LED flash, panorama",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "5 MP, f/2.2, (wide)",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.2, A2DP, LE",
+      "Positioning": "GPS",
+      "NFC": "No",
+      "Radio": "FM radio",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Li-Ion 5500 mAh",
+      "Charging": "15W wired\nReverse wired"
+    },
+    "MISC": {
+      "Colors": "Shadow Grey, Aero Blue",
+      "SAR": "1.14 W/kg (head)     1.12 W/kg (body)",
+      "Price": "About 130 EUR"
+    }
+  }
+}
