@@ -1,0 +1,83 @@
+{
+  "url": "https://www.gsmarena.com/motorola_moto_pad_70_groove-14853.php",
+  "name": "Motorola Moto Pad 70 Groove",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-pad-70-groove.jpg",
+  "highlights": [
+    "Exp. release 2026, August 07\n775g, 22.7mm thickness\nAndroid 16, up to 2 major Android upgrades\n256GB storage, microSDXC",
+    "9.1%\n2,917 HITS",
+    "1\nBECOME A FAN",
+    "12.1\"\n2560x1600 pixels",
+    "13MP\n1080p",
+    "8GB RAM\nDimensity 7400",
+    "10200mAh\n45W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2026, July 31",
+      "Status": "Coming soon. Exp. release 2026, August 07"
+    },
+    "BODY": {
+      "Dimensions": "278.8 x 181.1 x 6.8 - 22.7 mm",
+      "Weight": "775 g (1.71 lb)",
+      "Build": "Glass front, aluminum frame, aluminum back",
+      "SIM": "No",
+      "": "Splash resistant\nStylus support\nBuilt-in kickstand"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 120Hz, HDR10, Dolby Vision, 800 nits",
+      "Size": "12.1 inches, 424.5 cm2 (~84.1% screen-to-body ratio)",
+      "Resolution": "2560 x 1600 pixels, 16:10 ratio (~249 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, up to 2 major Android upgrades",
+      "Chipset": "Mediatek Dimensity 7400 (4 nm)",
+      "CPU": "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G615 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (dedicated slot)",
+      "Internal": "256GB 8GB RAM",
+      "": "UFS 3.1"
+    },
+    "MAIN CAMERA": {
+      "Single": "13 MP, AF",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers (9 JBL Hi-Fi speakers), 48W",
+      "3.5mm jack": "No",
+      "": "24-bit/192kHz Hi-Res & Hi-Res wireless audio"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "Unspecified",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, gyro"
+    },
+    "BATTERY": {
+      "Type": "Li-Ion 10200 mAh",
+      "Charging": "45W wired"
+    },
+    "MISC": {
+      "Colors": "Pantone Blue Surf",
+      "Price": "About 340 EUR"
+    }
+  }
+}
