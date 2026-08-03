@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, PDAF, OIS",
+    "Flash:": "LED flash, panorama, HDR",
+    "Front:": "12 MP, f/2.2, (wide)",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, PDAF, OIS",
+    "Second camera:": "5 MP, f/2.2, (ultrawide), 1/5.0\", 1.12µm",
+    "Third camera:": "2 MP (macro)",
+    "Specifications:": "Aperture size: F/1.8",
+    "Video recording:": "4K@30fps, 1080p@30fps, gyro-EIS"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Aurora Green, Alpha Black",
+    "Folded:": "",
+    "Weight:": "206 g (7.27 oz)",
+    "Materials:": "Glass front (Gorilla Glass Victus+), plastic frame, glass back (Gorilla Glass Victus+)",
+    "Biometrics:": "Fingerprint (side-mounted), accelerometer, gyro, compass",
+    "Dimensions:": "162.4 x 78.2 x 8.1 mm (6.39 x 3.08 x 0.32 in)",
+    "Resistance:": "IP64 dust tight and water resistant (water splashes)\nDrop resistant up to 2m"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "6000 mAh",
+    "Charging:": "45W wired\nBypass charging",
+    "Max charge speed:": "Wired: 45W"
+  },
+  "Display": {
+    "Size:": "6.7 inches",
+    "Features:": "Fingerprint (side-mounted), accelerometer, gyro, compass",
+    "Resolution:": "1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density)",
+    "Technology:": "Super AMOLED",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA/Sub6",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 16, up to 6 major OS updates, One UI 8.5",
+    "GPU:": "Adreno 710",
+    "RAM:": "6GB",
+    "Processor:": "Qualcomm SM6475-AB Snapdragon 6 Gen 3 (4 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "128GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0, OTG",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, gyro, compass",
+    "Features:": "USB Type-C 2.0, OTG",
+    "Location:": "GPS, GALILEO, GLONASS, BDS, QZSS",
+    "Bluetooth:": "5.1, A2DP, LE, ASHA"
+  }
+}
