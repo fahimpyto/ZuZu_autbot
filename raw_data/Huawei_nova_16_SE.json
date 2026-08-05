@@ -1,0 +1,86 @@
+{
+  "url": "https://www.gsmarena.com/huawei_nova_16_se-14861.php",
+  "name": "Huawei nova 16 SE",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-nova16-fe.jpg",
+  "highlights": [
+    "Exp. release 2026, August 13\n229g, 8mm thickness\nHarmonyOS 6.1\n128GB/256GB/512GB storage, no card slot",
+    "11%\n3,137 HITS",
+    "3\nBECOME A FAN",
+    "6.84\"\n1272x2756 pixels",
+    "50MP\n2160p",
+    "8GB RAM\nKirin 8020",
+    "8500mAh\n66W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+      "4G bands": "LTE",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2026, August 05",
+      "Status": "Coming soon. Exp. release 2026, August 13"
+    },
+    "BODY": {
+      "Dimensions": "163.3 x 78 x 8 mm (6.43 x 3.07 x 0.31 in)",
+      "Weight": "229 g (8.08 oz)",
+      "Build": "Glass front, plastic frame, aluminum back",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP65 dust tight and water resistant (low pressure water jets)"
+    },
+    "DISPLAY": {
+      "Type": "OLED, 1B colors, 120Hz, 2160Hz PWM, 8000 nits (peak)*",
+      "Size": "6.84 inches, 114.8 cm2 (~90.2% screen-to-body ratio)",
+      "Resolution": "1272 x 2756 pixels, 19.5:9 ratio (~444 ppi density)",
+      "Protection": "Aluminosilicate glass",
+      "": "* Measured at an isolated spot during video playback only"
+    },
+    "PLATFORM": {
+      "OS": "HarmonyOS 6.1",
+      "Chipset": "Kirin 8020",
+      "CPU": "Octa-core (1x2.29 GHz & 3x2.05 GHz & 4x1.3 GHz)",
+      "GPU": "Maleoon 920 2cu"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 512GB 8GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.9, (wide), 1/1.56\", dual-pixel PDAF\nAuxiliary lens",
+      "Features": "LED flash, panorama, HDR",
+      "Video": "4K@30fps, 1080p@30fps, gyro-EIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "32 MP, f/2.2, (wide)",
+      "Video": "4K@30fps, 1080p@30fps, gyro-EIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+      "Bluetooth": "6.0, A2DP, LE, L2HC (320-960 kbps HD audio)",
+      "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC, GLONASS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, compass",
+      "": "Virtual proximity sensing"
+    },
+    "BATTERY": {
+      "Type": "8500 mAh",
+      "Charging": "66W wired\n5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Black, White, Orange, Blue",
+      "Models": "CAS-AL50",
+      "Price": "About 320 EUR"
+    }
+  }
+}
