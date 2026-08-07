@@ -1,0 +1,83 @@
+{
+  "url": "https://www.gsmarena.com/huawei_matepad_pro_12_(2026)-14864.php",
+  "name": "Huawei MatePad Pro 12 (2026)",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-matepad-pro-12-2026.jpg",
+  "highlights": [
+    "Exp. release 2026, August 21\n439g, 4.7mm thickness\nHarmonyOS 6.1\n256GB/512GB storage, no card slot",
+    "15%\n4,036 HITS",
+    "8\nBECOME A FAN",
+    "12.2\"\n3036x1952 pixels",
+    "50MP\n1080p",
+    "12/16GB RAM\nKirin T93",
+    "10400mAh\n66W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2026, August 05",
+      "Status": "Coming soon. Exp. release 2026, August 21"
+    },
+    "BODY": {
+      "Dimensions": "264.2 x 172.9 x 4.7 mm (10.40 x 6.81 x 0.19 in)",
+      "Weight": "439 g (15.49 oz)",
+      "Build": "Glass front, aluminum frame, aluminum back",
+      "SIM": "No",
+      "": "Stylus support"
+    },
+    "DISPLAY": {
+      "Type": "OLED, 1B colors, 144Hz, HDR, 1600 nits (peak)",
+      "Size": "12.2 inches, 436.8 cm2 (~95.6% screen-to-body ratio)",
+      "Resolution": "3036 x 1952 pixels (~296 ppi density)",
+      "": "PaperMatte display"
+    },
+    "PLATFORM": {
+      "OS": "HarmonyOS 6.1",
+      "Chipset": "Kirin T93 / Kirin T93A",
+      "CPU": "Octa-core"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "50 MP, f/1.8, (wide), PDAF",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "12 MP, f/2.4",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+      "Bluetooth": "6.0, A2DP, LE, L2HC",
+      "Positioning": "GPS, GLONASS, BDS, GALILEO, QZSS",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "USB Type-C 3.1, OTG, Display Port 1.2"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity (accessories only), compass"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 10400 mAh",
+      "Charging": "66W wired, 100% in 53 min\n40W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Black, Silver, White, Blue, Gold",
+      "Models": "DAL-W20",
+      "Price": "About 770 EUR"
+    }
+  }
+}
