@@ -1,0 +1,86 @@
+{
+  "url": "https://www.gsmarena.com/samsung_galaxy_s26_fe_5g-14870.php",
+  "name": "Samsung Galaxy S26 FE",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s26-fe-1.jpg",
+  "highlights": [
+    "Not announced yet\n193g, 7.4mm thickness\nAndroid 17, up to 7 major OS updates\n128GB/256GB/512GB storage, no card slot",
+    "10%\n3,668 HITS",
+    "5\nBECOME A FAN",
+    "6.7\"\n1080x2340 pixels",
+    "50MP\n4320p",
+    "8GB RAM\nExynos 2500",
+    "4900mAh\n45W15W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA/Sub6",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored. Exp. release 2026, September"
+    },
+    "BODY": {
+      "Dimensions": "161.3 x 76.6 x 7.4 mm (6.35 x 3.02 x 0.29 in)",
+      "Weight": "193 g (6.81 oz)",
+      "Build": "Glass front (Gorilla Glass Victus+), glass back (Gorilla Glass Victus+), aluminum frame",
+      "SIM": "Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time)",
+      "": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\nEnhanced Armor Aluminum"
+    },
+    "DISPLAY": {
+      "Type": "Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 1900 nits (HBM)",
+      "Size": "6.7 inches, 110.2 cm2 (~89.2% screen-to-body ratio)",
+      "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density)",
+      "Protection": "Corning Gorilla Glass Victus+"
+    },
+    "PLATFORM": {
+      "OS": "Android 17, up to 7 major OS updates, One UI 9",
+      "Chipset": "Exynos 2500 (3 nm)",
+      "CPU": "10-core (1x3.3GHz Cortex-X925 & 2x2.74GHz Cortex-A725 & 5x2.36GHz Cortex-A725 & 2x1.8GHz Cortex-A520)",
+      "GPU": "Xclipse 950"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 512GB 8GB RAM",
+      "": "UFS 4.0"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.8, 24mm (wide), 1/1.57\", 1.0µm, dual pixel PDAF, OIS\n8 MP, f/2.4, 75mm (telephoto), 1/4.4\", 1.0µm, PDAF, OIS, 3x optical zoom\n12 MP, f/2.2, (ultrawide)",
+      "Features": "LED flash, HDR, panorama, Best Face",
+      "Video": "8K@24/30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps; gyro-EIS, HDR10+"
+    },
+    "SELFIE CAMERA": {
+      "Single": "12 MP, f/2.2, 26mm (wide), 1/3.2\", 1.12µm",
+      "Video": "4K@30/60fps, 1080p@30/60fps; gyro-EIS, HDR10+"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band or tri-band (market/region dependent), Wi-Fi Direct",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer",
+      "": "Samsung DeX, Samsung Wireless DeX (desktop experience support)"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 4900 mAh",
+      "Charging": "45W wired, PD, QC2, 65% in 30 min\n15W wireless, Qi2 compatible\nReverse wireless"
+    },
+    "MISC": {
+      "Colors": "Black, Blue, Light Green",
+      "Models": "SM-S741B, SM-S741B/DS",
+      "Price": "About 800 EUR"
+    }
+  }
+}
