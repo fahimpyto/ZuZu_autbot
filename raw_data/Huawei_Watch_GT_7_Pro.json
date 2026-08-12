@@ -1,0 +1,74 @@
+{
+  "url": "https://www.gsmarena.com/huawei_watch_gt_7_pro-14872.php",
+  "name": "Huawei Watch GT 7 Pro",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-watch-gt7-pro.jpg",
+  "highlights": [
+    "Released 2026, August 05\n55.5g, 11.3mm thickness\nHarmonyOS 6.1\n64GB storage, no card slot",
+    "5.5%\n1,881 HITS",
+    "2\nBECOME A FAN",
+    "1.47\"\n466x466 pixels",
+    "NO",
+    "",
+    "867mAh\n10W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2026, August 05",
+      "Status": "Available. Released 2026, August 05"
+    },
+    "BODY": {
+      "Dimensions": "45.6 x 45.6 x 11.3 mm (1.80 x 1.80 x 0.44 in)",
+      "Weight": "55.5 g (1.98 oz)",
+      "Build": "Glass front, titanium alloy frame, ceramic back",
+      "SIM": "No",
+      "": "40m swimproof/diving (EN13319)\nIP69 dust tight and water resistant (high pressure water jets; immersible up to 50m/5ATM for 10 min)\nECG certified"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 3000 nits (peak)",
+      "Size": "1.47 inches",
+      "Resolution": "466 x 466 pixels (~317 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "HarmonyOS 6.1"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "64GB"
+    },
+    "CAMERA": {
+      "": "No"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "No",
+      "Bluetooth": "6.0, A2DP, LE",
+      "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B1a), GALILEO (E1+E5a), QZSS (L1+L5), GLONASS, NavIC",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "No"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, gyro, heart rate, barometer, compass, SpO2, thermometer (body temperature)"
+    },
+    "BATTERY": {
+      "Type": "Li-Ion 867 mAh",
+      "Charging": "10W wireless"
+    },
+    "MISC": {
+      "Colors": "Silver, Black",
+      "Models": "TUM-B49",
+      "Price": "About 350 EUR"
+    }
+  }
+}

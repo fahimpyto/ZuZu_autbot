@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "",
+    "Flash:": "",
+    "Front:": "",
+    "Folded:": "",
+    "Main camera:": "",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": ""
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Silver, Gold, Gray",
+    "Folded:": "",
+    "Weight:": "51.3 g or 36.5 g (1.34 oz)",
+    "Materials:": "Glass front, stainless steel frame, fiber reinforced plastic back",
+    "Biometrics:": "Accelerometer, gyro, heart rate, barometer, compass, SpO2, thermometer (body temperature)",
+    "Dimensions:": "46 x 46 x 11 mm (1.81 x 1.81 x 0.43 in)",
+    "Resistance:": "IP69 dust tight and water resistant (high pressure water jets; immersible up to 50m/5ATM for 10 min)"
+  },
+  "Battery": {
+    "Type:": "Li-Ion",
+    "Capacity:": "867 mAh",
+    "Charging:": "10W wireless",
+    "Max charge speed:": "Wireless: 10W"
+  },
+  "Display": {
+    "Size:": "1.47 inches",
+    "Features:": "Accelerometer, gyro, heart rate, barometer, compass, SpO2, thermometer (body temperature)",
+    "Resolution:": "466 x 466 pixels (~448 ppi density)",
+    "Technology:": "AMOLED",
+    "Refresh rate:": "",
+    "Screen-to-body:": "",
+    "Peak brightness:": "3000 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "N/A",
+    "4G bands:": "N/A",
+    "5G bands:": "",
+    "SIM type:": "No"
+  },
+  "Hardware": {
+    "OS:": "HarmonyOS 6.1",
+    "GPU:": "",
+    "RAM:": "",
+    "Processor:": "",
+    "Device type:": "Smartphone",
+    "Internal storage:": " (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "No",
+    "Other:": "NFC",
+    "Wi-Fi:": "No",
+    "Sensors:": "Accelerometer, gyro, heart rate, barometer, compass, SpO2, thermometer (body temperature)",
+    "Features:": "No",
+    "Location:": "GPS (L1+L5), BDS (B1I+B1c+B1a), GALILEO (E1+E5a), QZSS (L1+L5), GLONASS, NavIC",
+    "Bluetooth:": "6.0, A2DP, LE"
+  }
+}
