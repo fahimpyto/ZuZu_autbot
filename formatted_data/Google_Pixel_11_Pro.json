@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.7, 25mm (wide), 1/1.3\", 1.2µm, multi-directional PDAF, OIS",
+    "Flash:": "Multi-zone Laser AF, LED flash, Pixel Shift, Ultra-HDR, panorama, Best Take, Zoom Enhance",
+    "Front:": "42 MP, f/2.2, 103˚ (ultrawide), PDAF",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.7, 25mm (wide), 1/1.3\", 1.2µm, multi-directional PDAF, OIS",
+    "Second camera:": "48 MP, f/2.8, 106mm (periscope telephoto), 1/1.95\", dual pixel PDAF, OIS, 5x optical zoom",
+    "Third camera:": "48 MP, f/1.7, 123˚ (ultrawide), 1/2.51\", dual pixel PDAF",
+    "Specifications:": "Aperture size: F/1.7 Focal Length: 25mm",
+    "Video recording:": "8K@24/30fps, 4K@24/30/60fps, 1080p@24/30/60/120/240fps; gyro-EIS, OIS, 10-bit HDR"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Canyon, Olive, Fog, Obsidian",
+    "Folded:": "",
+    "Weight:": "204 g (7.20 oz)",
+    "Materials:": "Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame",
+    "Biometrics:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer, thermometer (skin temperature)",
+    "Dimensions:": "152.7 x 71.9 x 8.4 mm (6.01 x 2.83 x 0.33 in)",
+    "Resistance:": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+  },
+  "Battery": {
+    "Type:": "Li-Ion",
+    "Capacity:": "4850 mAh",
+    "Charging:": "30W wired, PD3.0, PPS, 55% in 30 min\n25W wireless (magnetic), Qi2.2\nReverse wired\nBypass charging",
+    "Max charge speed:": "Wired: 30WWireless: 25W"
+  },
+  "Display": {
+    "Size:": "6.3 inches",
+    "Features:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer, thermometer (skin temperature)",
+    "Resolution:": "1280 x 2856 pixels, 20:9 ratio (~497 ppi density)",
+    "Technology:": "LTPO OLED",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "3600 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 28, 29, 30, 32, 38, 39, 40, 41, 42, 48, 66, 71, 75 - International",
+    "5G bands:": "1, 2, 3, 5, 7, 8, 12, 13, 14, 20, 25, 26, 28, 30, 38, 40, 41, 66, 71, 75, 77, 78, 79 SA/NSA/Sub6 - International",
+    "SIM type:": "· Nano-SIM + eSIM\n· eSIM + eSIM (8 or more, max 2 at a time; USA)"
+  },
+  "Hardware": {
+    "OS:": "Android 17, up to 7 major OS updates",
+    "GPU:": "PowerVR C-Series CXTP-48-1536",
+    "RAM:": "12GB",
+    "Processor:": "Google Tensor G6 (2 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 3.2",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band",
+    "Sensors:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer, thermometer (skin temperature)",
+    "Features:": "USB Type-C 3.2",
+    "Location:": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+    "Bluetooth:": "6.0, A2DP, LE, aptX HD"
+  }
+}

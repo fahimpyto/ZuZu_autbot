@@ -1,0 +1,94 @@
+{
+  "url": "https://www.gsmarena.com/google_pixel_11_pro_5g-14801.php",
+  "name": "Google Pixel 11 Pro",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-11-pro.jpg",
+  "highlights": [
+    "Exp. release 2026, August 20\n204g, 8.4mm thickness\nAndroid 17, up to 7 major OS updates\n256GB/512GB/1TB storage, no card slot",
+    "35%\n139,996 HITS",
+    "29\nBECOME A FAN",
+    "6.3\"\n1280x2856 pixels",
+    "50MP\n4320p",
+    "12/16GB RAM\nGoogle Tensor G6",
+    "4850mAh\n30W25W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 28, 29, 30, 32, 38, 39, 40, 41, 42, 48, 66, 71, 75 - International",
+      "": "1, 2, 3, 5, 7, 8, 12, 13, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 66, 70, 71, 77, 78, 258, 260, 261 SA/NSA/Sub6/mmWave - USA",
+      "5G bands": "1, 2, 3, 5, 7, 8, 12, 13, 14, 20, 25, 26, 28, 30, 38, 40, 41, 66, 71, 75, 77, 78, 79 SA/NSA/Sub6 - International",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, August 12",
+      "Status": "Coming soon. Exp. release 2026, August 20"
+    },
+    "BODY": {
+      "Dimensions": "152.7 x 71.9 x 8.4 mm (6.01 x 2.83 x 0.33 in)",
+      "Weight": "204 g (7.20 oz)",
+      "Build": "Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame",
+      "SIM": "· Nano-SIM + eSIM\n· eSIM + eSIM (8 or more, max 2 at a time; USA)",
+      "": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "LTPO OLED, 120Hz, HDR10+, 2400 nits (HBM), 3600 nits (peak)",
+      "Size": "6.3 inches, 95.6 cm2 (~87.0% screen-to-body ratio)",
+      "Resolution": "1280 x 2856 pixels, 20:9 ratio (~497 ppi density)",
+      "Protection": "Corning Gorilla Glass Victus 2, Mohs level 4"
+    },
+    "PLATFORM": {
+      "OS": "Android 17, up to 7 major OS updates",
+      "Chipset": "Google Tensor G6 (2 nm)",
+      "CPU": "7-core (1x4.1 GHz ARM C1-Ultra & 4x3.4 GHz ARM C1-Pro & 2x2.65 GHz ARM C1-Pro)",
+      "GPU": "PowerVR C-Series CXTP-48-1536"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+      "": "UFS 4.x"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.7, 25mm (wide), 1/1.3\", 1.2µm, multi-directional PDAF, OIS\n48 MP, f/2.8, 106mm (periscope telephoto), 1/1.95\", dual pixel PDAF, OIS, 5x optical zoom\n48 MP, f/1.7, 123˚ (ultrawide), 1/2.51\", dual pixel PDAF",
+      "Features": "Multi-zone Laser AF, LED flash, Pixel Shift, Ultra-HDR, panorama, Best Take, Zoom Enhance",
+      "Video": "8K@24/30fps, 4K@24/30/60fps, 1080p@24/30/60/120/240fps; gyro-EIS, OIS, 10-bit HDR"
+    },
+    "SELFIE CAMERA": {
+      "Single": "42 MP, f/2.2, 103˚ (ultrawide), PDAF",
+      "Features": "HDR, panorama",
+      "Video": "4K@30/60fps, 1080p@30/60fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band",
+      "Bluetooth": "6.0, A2DP, LE, aptX HD",
+      "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer, thermometer (skin temperature)",
+      "": "Ultra Wideband (UWB) support\nSatellite SOS service"
+    },
+    "BATTERY": {
+      "Type": "Li-Ion 4850 mAh",
+      "Charging": "30W wired, PD3.0, PPS, 55% in 30 min\n25W wireless (magnetic), Qi2.2\nReverse wired\nBypass charging"
+    },
+    "MISC": {
+      "Colors": "Canyon, Olive, Fog, Obsidian",
+      "Models": "GM45K, G7SWN",
+      "Price": "$ 1,099.00 / C$ 1,499.00 / £ 1,079.00 / € 1,199.00"
+    },
+    "EU LABEL": {
+      "Energy": "Class B",
+      "Battery": "47:36h endurance, 1000 cycles",
+      "Free fall": "Class B (180 falls)",
+      "Repairability": "Class B"
+    }
+  }
+}
