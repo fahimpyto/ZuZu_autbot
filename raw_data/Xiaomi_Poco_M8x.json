@@ -1,0 +1,83 @@
+{
+  "url": "https://www.gsmarena.com/xiaomi_poco_m8x_5g-14879.php",
+  "name": "Xiaomi Poco M8x",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m8x-1.jpg",
+  "highlights": [
+    "Not announced yet\n8.2mm thickness\nAndroid 16\n128GB storage, microSDXC",
+    "11%\n3,606 HITS",
+    "4\nBECOME A FAN",
+    "6.9\"\n720x1600 pixels",
+    "50MP\n1080p",
+    "4GB RAM\nSnapdragon 4 Gen 5",
+    "6000mAh\n33W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored. Exp. release 2026, August"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP64 dust tight and water resistant (water splashes)"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 120Hz",
+      "Size": "6.9 inches, 114.9 cm2 (~84.3% screen-to-body ratio)",
+      "Resolution": "720 x 1600 pixels, 20:9 ratio (~254 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16",
+      "Chipset": "Qualcomm Snapdragon 4 Gen 5",
+      "CPU": "Octa-core 2.4 GHz",
+      "GPU": "Adreno"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (dedicated slot)",
+      "Internal": "128GB 4GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.8, 28mm (wide), 1/2.76\", 0.64µm, PDAF\nAuxiliary lens",
+      "Features": "LED flash, HDR",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP, f/2.0, (wide), 1/4.0\", 1.12µm",
+      "Features": "HDR",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "Yes",
+      "": "24-bit/192kHz Hi-Res audio"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS",
+      "NFC": "No",
+      "Radio": "FM radio",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, compass",
+      "": "Virtual proximity sensing"
+    },
+    "BATTERY": {
+      "Type": "6000 mAh",
+      "Charging": "33W wired, PD\nReverse wired"
+    },
+    "MISC": {
+      "Colors": "Green"
+    }
+  }
+}

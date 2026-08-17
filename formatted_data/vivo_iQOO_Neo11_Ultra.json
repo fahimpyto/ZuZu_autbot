@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.8, (wide), PDAF, OIS",
+    "Flash:": "LED flash, panorama, HDR",
+    "Front:": "16 MP, f/2.0, (wide)",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.8, (wide), PDAF, OIS",
+    "Second camera:": "8 MP (ultrawide)",
+    "Third camera:": "",
+    "Specifications:": "Aperture size: F/1.8",
+    "Video recording:": "4K@30fps, 1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black, White, Blue",
+    "Folded:": "",
+    "Weight:": "225 g (7.94 oz)",
+    "Materials:": "Glass front, aluminum frame",
+    "Biometrics:": "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass",
+    "Dimensions:": "8.0 mm thickness",
+    "Resistance:": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+  },
+  "Battery": {
+    "Type:": "Si/C Li-Ion",
+    "Capacity:": "9100 mAh",
+    "Charging:": "100W wired\nReverse wired",
+    "Max charge speed:": "Wired: 100W"
+  },
+  "Display": {
+    "Size:": "6.83 inches",
+    "Features:": "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass",
+    "Resolution:": "1260 x 2800 pixels, 20:9 ratio (~450 ppi density)",
+    "Technology:": "AMOLED",
+    "Refresh rate:": "144Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 16, Origin OS 6.0",
+    "GPU:": "",
+    "RAM:": "",
+    "Processor:": "MediaTek Dimensity 9500M (3 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0, OTG",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+    "Sensors:": "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass",
+    "Features:": "USB Type-C 2.0, OTG",
+    "Location:": "GPS (L1+L5), GLONASS, GALILEO, BDS",
+    "Bluetooth:": "5.4, A2DP, LE"
+  }
+}

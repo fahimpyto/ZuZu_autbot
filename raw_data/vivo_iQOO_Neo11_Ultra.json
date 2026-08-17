@@ -1,0 +1,81 @@
+{
+  "url": "https://www.gsmarena.com/vivo_iqoo_neo11_ultra_5g-14878.php",
+  "name": "vivo iQOO Neo11 Ultra",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-iqoo-neo11-ultra.jpg",
+  "highlights": [
+    "Not announced yet\n225 g\nAndroid 16, Origin OS 6.0\n128GB/256GB storage, no card slot",
+    "17%\n5,551 HITS",
+    "7\nBECOME A FAN",
+    "6.83\"\n1260x2800 pixels",
+    "50MP\n2160p",
+    "8/12GB RAM\nDimensity 9500M",
+    "9100mAh\n100W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "8.0 mm thickness",
+      "Weight": "225 g (7.94 oz)",
+      "Build": "Glass front, aluminum frame",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 144Hz, 1100 nits (HBM)",
+      "Size": "6.83 inches, 112.6 cm2",
+      "Resolution": "1260 x 2800 pixels, 20:9 ratio (~450 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, Origin OS 6.0",
+      "Chipset": "MediaTek Dimensity 9500M (3 nm)",
+      "CPU": "11-core"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "Up to 256GB",
+      "": "UFS"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.8, (wide), PDAF, OIS\n8 MP (ultrawide)",
+      "Features": "LED flash, panorama, HDR",
+      "Video": "4K@30fps, 1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "16 MP, f/2.0, (wide)",
+      "Video": "4K@30fps, 1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 9100 mAh",
+      "Charging": "100W wired\nReverse wired"
+    },
+    "MISC": {
+      "Colors": "Black, White, Blue"
+    }
+  }
+}
