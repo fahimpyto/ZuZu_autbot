@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.6, 23mm (wide), PDAF, OIS",
+    "Flash:": "Laser AF, color spectrum sensor, LED flash, panorama, HDR",
+    "Front:": "10.7 MP, f/2.2, (wide)",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.6, 23mm (wide), PDAF, OIS",
+    "Second camera:": "50 MP (telephoto)",
+    "Third camera:": "50 MP (ultrawide)",
+    "Specifications:": "Aperture size: F/1.6 Focal Length: 23mm",
+    "Video recording:": "4K, 1080p, gyro-EIS, HDR Vivid"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Red, Gray, White, Black",
+    "Folded:": "",
+    "Weight:": "201 g (7.09 oz)",
+    "Materials:": "",
+    "Biometrics:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+    "Dimensions:": "6.7 mm thickness",
+    "Resistance:": "Dust/water resistant"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "7000 mAh",
+    "Charging:": "66W wired",
+    "Max charge speed:": "Wired: 66W"
+  },
+  "Display": {
+    "Size:": "6.39 inches",
+    "Features:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+    "Resolution:": "1320 x 2232 pixels, 5:3 ratio (~406 ppi density)",
+    "Technology:": "LTPO2 OLED",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "6500 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "HarmonyOS 7.0",
+    "GPU:": "Maleoon 935F",
+    "RAM:": "12GB",
+    "Processor:": "Kirin 9030S (5 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 3.1, OTG, DisplayPort 1.2",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Yes",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+    "Features:": "USB Type-C 3.1, OTG, DisplayPort 1.2",
+    "Location:": "GPS (L1+L5), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), GLONASS, NavIC",
+    "Bluetooth:": "Yes"
+  }
+}

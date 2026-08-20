@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "13 MP, f/2.0, (wide), AF",
+    "Flash:": "",
+    "Front:": "8 MP, f/2.0, (wide)",
+    "Folded:": "",
+    "Main camera:": "13 MP, f/2.0, (wide), AF",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "Aperture size: F/2.0",
+    "Video recording:": "1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Gray",
+    "Folded:": "",
+    "Weight:": "537 g (1.18 lb)",
+    "Materials:": "Glass front, aluminum frame, aluminum back",
+    "Biometrics:": "Accelerometer, proximity (accessories only), gyro",
+    "Dimensions:": "277.1 x 179.3 x 6.3 mm (10.91 x 7.06 x 0.25 in)",
+    "Resistance:": "Stylus support"
+  },
+  "Battery": {
+    "Type:": "Li-Po",
+    "Capacity:": "10100 mAh",
+    "Charging:": "66W wired\nReverse wired",
+    "Max charge speed:": "Wired: 66W"
+  },
+  "Display": {
+    "Size:": "12.1 inches",
+    "Features:": "Accelerometer, proximity (accessories only), gyro",
+    "Resolution:": "1872 x 3000 pixels, 16:10 ratio (~292 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "165Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "N/A",
+    "4G bands:": "N/A",
+    "5G bands:": "",
+    "SIM type:": "No"
+  },
+  "Hardware": {
+    "OS:": "Android 16, MagicOS 10",
+    "GPU:": "Adreno 825",
+    "RAM:": "8GB",
+    "Processor:": "Qualcomm SM8735 Snapdragon 8s Gen 4 (4 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers (6 speakers)",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+    "Sensors:": "Accelerometer, proximity (accessories only), gyro",
+    "Features:": "USB Type-C",
+    "Location:": "No",
+    "Bluetooth:": "6.0, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless, LHDC 5, Auracast, ASHA"
+  }
+}

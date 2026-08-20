@@ -1,0 +1,81 @@
+{
+  "url": "https://www.gsmarena.com/huawei_pura_x_view-14887.php",
+  "name": "Huawei Pura X View",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-pura-x-view.jpg",
+  "highlights": [
+    "Expected announcement 2026, August 28\n201 g\nHarmonyOS 7.0\n256GB/512GB/1TB storage, no card slot",
+    "22%\n7,696 HITS",
+    "14\nBECOME A FAN",
+    "6.39\"\n1320x2232 pixels",
+    "50MP\n2160p",
+    "12GB RAM\nKirin 9030S",
+    "7000mAh\n66W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Expected announcement 2026, August 28",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "6.7 mm thickness",
+      "Weight": "201 g (7.09 oz)",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "Dust/water resistant"
+    },
+    "DISPLAY": {
+      "Type": "LTPO2 OLED, 1B colors, 120Hz, 2160Hz PWM, HDR Vivid, 6500 nits (peak)",
+      "Size": "6.39 inches, 115.4 cm2",
+      "Resolution": "1320 x 2232 pixels, 5:3 ratio (~406 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "HarmonyOS 7.0",
+      "Chipset": "Kirin 9030S (5 nm)",
+      "CPU": "Octa-core (1x2.7 GHz Taishan Big & 3x2.15 GHz Taishan Mid & 4x1.62 GHz Taishan Little)",
+      "GPU": "Maleoon 935F"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 1TB 12GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.6, 23mm (wide), PDAF, OIS\n50 MP (telephoto)\n50 MP (ultrawide)",
+      "Features": "Laser AF, color spectrum sensor, LED flash, panorama, HDR",
+      "Video": "4K, 1080p, gyro-EIS, HDR Vivid"
+    },
+    "SELFIE CAMERA": {
+      "Single": "10.7 MP, f/2.2, (wide)",
+      "Video": "1080p, HDR Vivid"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Yes",
+      "Bluetooth": "Yes",
+      "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), GLONASS, NavIC",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 3.1, OTG, DisplayPort 1.2"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "7000 mAh",
+      "Charging": "66W wired"
+    },
+    "MISC": {
+      "Colors": "Red, Gray, White, Black"
+    }
+  }
+}
