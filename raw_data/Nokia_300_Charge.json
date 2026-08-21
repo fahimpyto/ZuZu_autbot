@@ -1,0 +1,80 @@
+{
+  "url": "https://www.gsmarena.com/nokia_300_charge-14895.php",
+  "name": "Nokia 300 Charge",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-300-charge.jpg",
+  "highlights": [
+    "Exp. release 2026, August\n138g, 15mm thickness\nFeature phone\n4MB 4MB RAM storage, microSDHC slot",
+    "2.5%\n1,080 HITS",
+    "1\nBECOME A FAN",
+    "2.4\"\n240x320 pixels",
+    "0.1MP",
+    "4MB RAM\nUnisoc SC6531E",
+    "3700mAh\n10W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM",
+      "2G bands": "GSM 900 / 1800",
+      "GPRS": "Yes",
+      "EDGE": "Yes"
+    },
+    "LAUNCH": {
+      "Announced": "2026, August 21",
+      "Status": "Coming soon. Exp. release 2026, August"
+    },
+    "BODY": {
+      "Dimensions": "136.6 x 55 x 15 mm (5.38 x 2.17 x 0.59 in)",
+      "Weight": "138 g (4.87 oz)",
+      "SIM": "Dual SIM (Mini-SIM, dual stand-by)",
+      "": "Dedicated LED flashlight (on top)"
+    },
+    "DISPLAY": {
+      "Type": "TFT",
+      "Size": "2.4 inches, 17.8 cm2 (~23.7% screen-to-body ratio)",
+      "Resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+    },
+    "PLATFORM": {
+      "Chipset": "Unisoc SC6531E"
+    },
+    "MEMORY": {
+      "Card slot": "microSDHC",
+      "Phonebook": "Yes",
+      "Call records": "Yes",
+      "Internal": "4 MB 4 MB RAM"
+    },
+    "MAIN CAMERA": {
+      "No": "QVGA",
+      "Video": ""
+    },
+    "SELFIE CAMERA": {
+      "": "No"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "No",
+      "Bluetooth": "Unspecified",
+      "Positioning": "No",
+      "NFC": "No",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C"
+    },
+    "FEATURES": {
+      "Sensors": "",
+      "Messaging": "SMS",
+      "Games": "Yes",
+      "Java": "No",
+      "": "MP3 player"
+    },
+    "BATTERY": {
+      "Type": "3700 mAh, removable",
+      "Charging": "10W wired\n10W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Green, Sandstone, Black",
+      "Price": "About 50 EUR"
+    }
+  }
+}

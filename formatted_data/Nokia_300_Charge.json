@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "",
+    "Flash:": "",
+    "Front:": "",
+    "Folded:": "",
+    "Main camera:": "",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": ""
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Green, Sandstone, Black",
+    "Folded:": "",
+    "Weight:": "138 g (4.87 oz)",
+    "Materials:": "",
+    "Biometrics:": "",
+    "Dimensions:": "136.6 x 55 x 15 mm (5.38 x 2.17 x 0.59 in)",
+    "Resistance:": "Dedicated LED flashlight (on top)"
+  },
+  "Battery": {
+    "Type:": "removable",
+    "Capacity:": "3700 mAh",
+    "Charging:": "10W wired\n10W reverse wired",
+    "Max charge speed:": "Wired: 10W"
+  },
+  "Display": {
+    "Size:": "2.4 inches",
+    "Features:": "",
+    "Resolution:": "240 x 320 pixels, 4:3 ratio (~167 ppi density)",
+    "Technology:": "TFT",
+    "Refresh rate:": "",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM",
+    "2G bands:": "GSM 900 / 1800",
+    "3G bands:": "",
+    "4G bands:": "",
+    "5G bands:": "",
+    "SIM type:": "Dual SIM (Mini-SIM, dual stand-by)"
+  },
+  "Hardware": {
+    "OS:": "",
+    "GPU:": "",
+    "RAM:": "",
+    "Processor:": "Unisoc SC6531E",
+    "Device type:": "Smartphone",
+    "Internal storage:": " (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C",
+    "Other:": "NFC",
+    "Wi-Fi:": "No",
+    "Sensors:": "",
+    "Features:": "USB Type-C",
+    "Location:": "No",
+    "Bluetooth:": "Unspecified"
+  }
+}
