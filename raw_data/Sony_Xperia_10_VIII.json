@@ -1,0 +1,99 @@
+{
+  "url": "https://www.gsmarena.com/sony_xperia_10_viii_5g-14894.php",
+  "name": "Sony Xperia 10 VIII",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-10-viii-1.jpg",
+  "highlights": [
+    "Exp. release 2026, mid-September\n168g, 8.3mm thickness\nAndroid 16, up to 4 major OS updates\n128GB storage, microSDXC",
+    "0.4%\n953 HITS",
+    "0\nBECOME A FAN",
+    "6.1\"\n1080x2340 pixels",
+    "50MP\n2160p",
+    "8GB RAM\nSnapdragon 6 Gen 3",
+    "5000mAh\nPD"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 2100",
+      "4G bands": "1, 3, 4, 5, 7, 8, 20, 28, 38, 39, 40, 41",
+      "5G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 77, 78, 79 SA/NSA/Sub6",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, August 25",
+      "Status": "Coming soon. Exp. release 2026, mid-September"
+    },
+    "BODY": {
+      "Dimensions": "153 x 72 x 8.3 mm (6.02 x 2.83 x 0.33 in)",
+      "Weight": "168 g (5.93 oz)",
+      "Build": "Glass front (Gorilla Glass Victus 2), plastic frame, plastic back",
+      "SIM": "· Nano-SIM + eSIM\n· Nano-SIM + Nano-SIM",
+      "": "IP65/IP68 dust tight and water resistant (low pressure water jets; immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "OLED, 1B colors, 120Hz, HDR",
+      "Size": "6.1 inches, 91.3 cm2 (~82.9% screen-to-body ratio)",
+      "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~422 ppi density)",
+      "Protection": "Corning Gorilla Glass Victus 2, Mohs level 5",
+      "": "Triluminos display"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, up to 4 major OS updates",
+      "Chipset": "Qualcomm SM6475-AB Snapdragon 6 Gen 3 (4 nm)",
+      "CPU": "Octa-core (4x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55)",
+      "GPU": "Adreno 710"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (uses shared SIM slot)",
+      "Internal": "128GB 8GB RAM",
+      "": "UFS"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.9, 24mm (wide), 1/1.56\", PDAF, OIS\n13 MP, f/2.4, 16mm, 123˚ (ultrawide), 1/3.0\"",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "4K@30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP, f/2.0, 26mm (wide), 1/4.0\", 1.12µm",
+      "Features": "HDR",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "Yes",
+      "": "Hi-Res & Hi-Res wireless audio"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "5000 mAh",
+      "Charging": "Wired, PD, QC"
+    },
+    "MISC": {
+      "Colors": "Frozen White, Frosted Grey, Misty Lilac",
+      "Models": "XQ-GH54, XQ-GE54",
+      "Price": "About 600 EUR"
+    },
+    "OUR TESTS": {
+      "Display": "1509 nits max brightness (measured)",
+      "Loudspeaker": "-27.9 LUFS (Good)",
+      "Battery": "Active use score 13:37h"
+    },
+    "EU LABEL": {
+      "Energy": "Class A",
+      "Battery": "51:07h endurance, 1400 cycles",
+      "Free fall": "Class A (270 falls)",
+      "Repairability": "Class D"
+    }
+  }
+}
