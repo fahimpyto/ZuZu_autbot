@@ -1,0 +1,82 @@
+{
+  "url": "https://www.gsmarena.com/lava_virat_v1_pro_5g-14901.php",
+  "name": "Lava Virat V1 Pro",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/lava-virat-v1-pro.jpg",
+  "highlights": [
+    "Released 2026, August 24\n207g, 8.7mm thickness\nAndroid 16\n128GB storage, microSDXC",
+    "4.6%\n1,654 HITS",
+    "2\nBECOME A FAN",
+    "6.75\"\n720x1600 pixels",
+    "50MP\n1080p",
+    "6GB RAM\nUnisoc T8200",
+    "6000mAh\n10W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, August 24",
+      "Status": "Available. Released 2026, August 24"
+    },
+    "BODY": {
+      "Dimensions": "168.3 x 77.6 x 8.7 mm (6.63 x 3.06 x 0.34 in)",
+      "Weight": "207 g (7.30 oz)",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP64 dust tight and water resistant (water splashes)"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 120Hz",
+      "Size": "6.75 inches, 110.0 cm2 (~84.2% screen-to-body ratio)",
+      "Resolution": "720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16",
+      "Chipset": "Unisoc T8200 (6 nm)",
+      "CPU": "Octa-core (2x2.3 GHz Cortex-A76 & 6x2.1 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (uses shared SIM slot)",
+      "Internal": "128GB 6GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "50 MP, AF",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "Yes",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 b/g/n/ac",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS, GLONASS",
+      "NFC": "No",
+      "Infrared port": "Yes",
+      "Radio": "FM radio",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Li-Ion 6000 mAh",
+      "Charging": "10W wired"
+    },
+    "MISC": {
+      "Colors": "Sikkim Midnight, Spiti Frost",
+      "Price": "About 140 EUR"
+    }
+  }
+}
