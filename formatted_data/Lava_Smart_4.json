@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "8 MP",
+    "Flash:": "LED flash, panorama",
+    "Front:": "5 MP",
+    "Folded:": "",
+    "Main camera:": "8 MP",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "Yes"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Ajanta Grey, Konark Gold",
+    "Folded:": "",
+    "Weight:": "197 g (6.95 oz)",
+    "Materials:": "",
+    "Biometrics:": "Fingerprint (side-mounted), accelerometer, proximity, compass",
+    "Dimensions:": "165 x 76.5 x 8.8 mm (6.50 x 3.01 x 0.35 in)",
+    "Resistance:": ""
+  },
+  "Battery": {
+    "Type:": "Li-Ion",
+    "Capacity:": "5000 mAh",
+    "Charging:": "10W wired",
+    "Max charge speed:": "Wired: 10W"
+  },
+  "Display": {
+    "Size:": "6.56 inches",
+    "Features:": "Fingerprint (side-mounted), accelerometer, proximity, compass",
+    "Resolution:": "540 x 1210 pixels, 20:9 ratio (~202 ppi density)",
+    "Technology:": "TFT",
+    "Refresh rate:": "",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 900 / 1800",
+    "3G bands:": "HSDPA 900 / 2100",
+    "4G bands:": "1, 3, 5, 8, 40, 41",
+    "5G bands:": "",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 16 (Go edition)",
+    "GPU:": "IMG8322",
+    "RAM:": "3GB",
+    "Processor:": "Unisoc SC9863A (28 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "32GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C, OTG",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 b/g/n",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, proximity, compass",
+    "Features:": "USB Type-C, OTG",
+    "Location:": "GPS",
+    "Bluetooth:": "4.2, A2DP"
+  }
+}
