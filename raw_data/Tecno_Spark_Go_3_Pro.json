@@ -1,0 +1,82 @@
+{
+  "url": "https://www.gsmarena.com/tecno_spark_go_3_pro-14905.php",
+  "name": "Tecno Spark Go 3 Pro",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-go3-pro.jpg",
+  "highlights": [
+    "Exp. release 2026, September 04\n8.1mm thickness\nAndroid 16, HIOS 16\n64GB/128GB storage, microSDXC",
+    "8.1%\n3,381 HITS",
+    "3\nBECOME A FAN",
+    "6.78\"\n720x1600 pixels",
+    "13MP\n1440p",
+    "4GB RAM\nUnisoc T7250",
+    "5200mAh\n15W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 900 / 2100",
+      "4G bands": "LTE",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2026, August 28",
+      "Status": "Coming soon. Exp. release 2026, September 04"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "Build": "Glass front, plastic back, plastic frame",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nDrop resistant up to 1.5m"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 120Hz",
+      "Size": "6.78 inches, 111.0 cm2 (~85.1% screen-to-body ratio)",
+      "Resolution": "720 x 1600 pixels, 20:9 ratio (~259 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, HIOS 16",
+      "Chipset": "Unisoc T7250 (12 nm)",
+      "CPU": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MP1"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (dedicated slot)",
+      "Internal": "64GB 4GB RAM, 128GB 4GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "13 MP",
+      "Features": "Dual-LED",
+      "Video": "Yes"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "Yes",
+      "Positioning": "GPS",
+      "NFC": "No",
+      "Infrared port": "Yes",
+      "Radio": "FM radio",
+      "USB": "USB Type-C, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 5200 mAh",
+      "Charging": "15W wired"
+    },
+    "MISC": {
+      "Colors": "Black, Gray, Orange, Burgundy Red",
+      "Price": "About 140 EUR"
+    }
+  }
+}
