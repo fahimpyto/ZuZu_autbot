@@ -1,0 +1,86 @@
+{
+  "url": "https://www.gsmarena.com/xiaomi_poco_x8_5g-14911.php",
+  "name": "Xiaomi Poco X8",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-17-pro.jpg",
+  "highlights": [
+    "Not announced yet\n223g, 8.6mm thickness\nAndroid 16, HyperOS 3\n128GB/256GB/512GB storage, no card slot",
+    "14%\n5,485 HITS",
+    "4\nBECOME A FAN",
+    "6.83\"\n1280x2772 pixels",
+    "50MP\n1080p",
+    "6-12GB RAM\nSnapdragon 6s Gen 4",
+    "9000mAh\n67W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "163.5 x 78.3 x 8.6 mm (6.44 x 3.08 x 0.34 in)",
+      "Weight": "223 g (7.87 oz)",
+      "Build": "Glass front (Gorilla Glass Victus 2), plastic back, plastic frame",
+      "SIM": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time)",
+      "": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nManufacturer-rated water-resistance (up to 2m for 72 hours)\nDrop resistant up to 3m"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 68B colors, 120Hz, 3840Hz PWM, 1060 nits (typ), 1800 nits (HBM), 3500 nits (peak)",
+      "Size": "6.83 inches, 114.5 cm2 (~89.5% screen-to-body ratio)",
+      "Resolution": "1280 x 2772 pixels, 19.5:9 ratio (~447 ppi density)",
+      "Protection": "Corning Gorilla Glass Victus 2"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, HyperOS 3",
+      "Chipset": "Qualcomm SM6435-AA Snapdragon 6s Gen 4 (4 nm)",
+      "CPU": "Octa-core (4x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55)",
+      "GPU": "Adreno 710"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "128GB 6GB RAM, 256GB 6GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 8GB RAM",
+      "": "UFS 2.2 - 128GB only\nUFS 3.1"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.8, 26mm (wide), 1/2.76\", 0.64µm, PDAF, OIS\n8 MP, f/2.2, 15mm, 120˚ (ultrawide), 1/4.0\", 1.12µm",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "1080p@30fps, gyro-EIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "16 MP, f/2.4, (wide), 1.0µm",
+      "Features": "HDR, panorama",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers (with Dolby Atmos)",
+      "3.5mm jack": "No",
+      "": "24-bit/192kHz Hi-Res & Hi-Res wireless audio"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+      "Bluetooth": "5.1, A2DP, LE",
+      "Positioning": "GPS, GALILEO, GLONASS, QZSS, BDS (B1I+B1c)",
+      "NFC": "Yes (market/region dependent)",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity (ultrasonic)"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 9000 mAh",
+      "Charging": "67W wired, PD3.0, 50% in just 34 min\n22.5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Sky Blue, Black, Satin Orange, Purple"
+    }
+  }
+}
