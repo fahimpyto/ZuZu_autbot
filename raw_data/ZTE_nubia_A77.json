@@ -1,0 +1,82 @@
+{
+  "url": "https://www.gsmarena.com/zte_nubia_a77_5g-14908.php",
+  "name": "ZTE nubia A77",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-a77.jpg",
+  "highlights": [
+    "Released 2026, August\n193g, 8.3mm thickness\nAndroid 16\n128GB storage, microSDXC",
+    "4.7%\n1,884 HITS",
+    "2\nBECOME A FAN",
+    "6.75\"\n720x1640 pixels",
+    "50MP\n1080p",
+    "6GB RAM\nUnisoc T8300",
+    "5000mAh\n23W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, August 14",
+      "Status": "Available. Released 2026, August"
+    },
+    "BODY": {
+      "Dimensions": "168 x 77 x 8.3 mm (6.61 x 3.03 x 0.33 in)",
+      "Weight": "193 g (6.81 oz)",
+      "Build": "Glass front, plastic frame, plastic back",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP64 dust tight and water resistant (water splashes)"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 120Hz",
+      "Size": "6.75 inches, 108.2 cm2 (~83.6% screen-to-body ratio)",
+      "Resolution": "720 x 1640 pixels (~265 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16",
+      "Chipset": "Unisoc T8300 (6 nm)",
+      "CPU": "Octa-core (2x2.2 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MP2"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC",
+      "Internal": "128GB 6GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.8, (wide), PDAF\nAuxiliary lenses",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS, GALILEO, GLONASS",
+      "NFC": "Yes (market/region dependent)",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C 2.0"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "5000 mAh",
+      "Charging": "22.5W wired\nReverse wired\nBypass Charging"
+    },
+    "MISC": {
+      "Colors": "Obsidian Black, Glacier White, Twilight Purple",
+      "Price": "About 240 EUR"
+    }
+  }
+}
