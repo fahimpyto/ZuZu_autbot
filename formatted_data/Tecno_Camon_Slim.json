@@ -1,35 +1,35 @@
 {
   "Camera": {
-    "Rear:": "50 MP, f/1.8, 24mm (wide), 1/1.95\", 0.8µm, PDAF",
-    "Flash:": "LED flash",
-    "Front:": "32 MP, f/2.5, (wide)",
+    "Rear:": "50 MP, f/1.8, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS",
+    "Flash:": "LED flash, HDR, panorama",
+    "Front:": "32 MP, (wide)",
     "Folded:": "",
-    "Main camera:": "50 MP, f/1.8, 24mm (wide), 1/1.95\", 0.8µm, PDAF",
-    "Second camera:": "",
+    "Main camera:": "50 MP, f/1.8, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS",
+    "Second camera:": "8 MP, f/2.2, 14mm, 112˚ (ultrawide), 1/4.0\", 1.12µm",
     "Third camera:": "",
-    "Specifications:": "Aperture size: F/1.8 Focal Length: 24mm",
+    "Specifications:": "Aperture size: F/1.8 Focal Length: 23mm",
     "Video recording:": "Yes"
   },
   "Design": {
     "Keys:": "Right: Volume control, Lock/Unlock key",
-    "Colors:": "New Mondrian, Prism Black, Jungle Green, Van Gogh Blue, Burgundy Red",
+    "Colors:": "Matisse Black, Van Gogh Blue, Burgundy Red",
     "Folded:": "",
     "Weight:": "-",
     "Materials:": "",
-    "Biometrics:": "Accelerometer, proximity, compass",
-    "Dimensions:": "162.8 x 77.7 x 6.4 mm (6.41 x 3.06 x 0.25 in)",
-    "Resistance:": "Mini-LED (354 dots) programmable matrix (on the back)\nIP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)\nMIL-STD-810H compliant*\n* does not guarantee ruggedness or use in extreme conditions"
+    "Biometrics:": "Fingerprint (under display, optical), accelerometer, proximity, compass",
+    "Dimensions:": "162.6 x 77.3 x 6.4 mm (6.40 x 3.04 x 0.25 in)",
+    "Resistance:": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)\nMIL-STD-810H compliant*\n* does not guarantee ruggedness or use in extreme conditions"
   },
   "Battery": {
     "Type:": "",
-    "Capacity:": "5600 mAh",
-    "Charging:": "60W wired",
-    "Max charge speed:": "Wired: 60W"
+    "Capacity:": "6500 mAh",
+    "Charging:": "45W wired",
+    "Max charge speed:": "Wired: 45W"
   },
   "Display": {
     "Size:": "6.78 inches",
-    "Features:": "Accelerometer, proximity, compass",
-    "Resolution:": "1224 x 2720 pixels, 20:9 ratio (~440 ppi density)",
+    "Features:": "Fingerprint (under display, optical), accelerometer, proximity, compass",
+    "Resolution:": "1208 x 2644 pixels, 19.5:9 ratio (~429 ppi density)",
     "Technology:": "AMOLED",
     "Refresh rate:": "144Hz",
     "Screen-to-body:": "",
@@ -37,23 +37,23 @@
     "Front cover display:": ""
   },
   "Cellular": {
-    "Technology:": "GSM / HSPA / LTE",
+    "Technology:": "GSM / HSPA / LTE / 5G",
     "2G bands:": "GSM 850 / 900 / 1800 / 1900",
-    "3G bands:": "HSDPA 850 / 900 / 2100",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
     "4G bands:": "LTE",
-    "5G bands:": "",
-    "SIM type:": "Nano-SIM"
+    "5G bands:": "SA/NSA",
+    "SIM type:": "Nano-SIM + Nano-SIM"
   },
   "Hardware": {
-    "OS:": "Android 16, up to 3 major Android upgrades, HIOS 16.2",
-    "GPU:": "Mali-G57 MC2 (1.1GHz)",
+    "OS:": "Android 16, up to 3 major OS updates, HIOS 16",
+    "GPU:": "Mali-G610",
     "RAM:": "8GB",
-    "Processor:": "Mediatek Helio G200 Ultimate (6 nm)",
+    "Processor:": "Mediatek Dimensity 7300e (6 nm)",
     "Device type:": "Smartphone",
-    "Internal storage:": "128GB (UFS)"
+    "Internal storage:": "256GB (UFS)"
   },
   "Multimedia": {
-    "Speakers:": "Yes, with stereo speakers",
+    "Speakers:": "Yes, with stereo speakers (with Dolby Atmos)",
     "Headphones:": "No",
     "Screen mirroring:": "Wireless screen share",
     "Additional microphone(s):": ""
@@ -62,9 +62,9 @@
     "USB:": "USB Type-C 2.0, OTG",
     "Other:": "NFC, Infrared",
     "Wi-Fi:": "Yes",
-    "Sensors:": "Accelerometer, proximity, compass",
+    "Sensors:": "Fingerprint (under display, optical), accelerometer, proximity, compass",
     "Features:": "USB Type-C 2.0, OTG",
-    "Location:": "GPS, GLONASS, GALILEO, BDS",
+    "Location:": "GPS",
     "Bluetooth:": "Yes"
   }
 }

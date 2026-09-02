@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.8, 24mm (wide), 1/1.95\", 0.8µm, PDAF",
+    "Flash:": "LED flash",
+    "Front:": "32 MP, f/2.5, (wide)",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.8, 24mm (wide), 1/1.95\", 0.8µm, PDAF",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "Aperture size: F/1.8 Focal Length: 24mm",
+    "Video recording:": "Yes"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "New Mondrian, Prism Black, Jungle Green, Van Gogh Blue, Burgundy Red",
+    "Folded:": "",
+    "Weight:": "-",
+    "Materials:": "",
+    "Biometrics:": "Accelerometer, proximity, compass",
+    "Dimensions:": "162.8 x 77.7 x 6.4 mm (6.41 x 3.06 x 0.25 in)",
+    "Resistance:": "Mini-LED (354 dots) programmable matrix (on the back)\nIP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)\nMIL-STD-810H compliant*\n* does not guarantee ruggedness or use in extreme conditions"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "6000 mAh",
+    "Charging:": "60W wired",
+    "Max charge speed:": "Wired: 60W"
+  },
+  "Display": {
+    "Size:": "6.78 inches",
+    "Features:": "Accelerometer, proximity, compass",
+    "Resolution:": "1224 x 2720 pixels, 20:9 ratio (~440 ppi density)",
+    "Technology:": "AMOLED",
+    "Refresh rate:": "144Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "",
+    "SIM type:": "Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 16, up to 3 major OS updates, HIOS 16.3",
+    "GPU:": "Mali-G57 MC2 (1.1GHz)",
+    "RAM:": "8GB",
+    "Processor:": "Mediatek Helio G200 Ultimate (6 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "128GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers (with Dolby Atmos)",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0, OTG",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Yes",
+    "Sensors:": "Accelerometer, proximity, compass",
+    "Features:": "USB Type-C 2.0, OTG",
+    "Location:": "GPS, GLONASS, GALILEO, BDS",
+    "Bluetooth:": "Yes"
+  }
+}
