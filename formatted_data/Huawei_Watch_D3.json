@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "",
+    "Flash:": "",
+    "Front:": "",
+    "Folded:": "",
+    "Main camera:": "",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": ""
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black, Gold",
+    "Folded:": "",
+    "Weight:": "40 g (1.41 oz)",
+    "Materials:": "Glass front, aluminum frame, plastic back",
+    "Biometrics:": "Accelerometer, gyro, compass, heart rate, SpO2, thermometer (skin temperature), differential pressure sensor, barometer",
+    "Dimensions:": "46.5 x 41 x 11.3 mm (1.83 x 1.61 x 0.44 in)",
+    "Resistance:": "Not water-resistant\nBlood Pressure Measurement & ECG with built-in pump & inflatable strap\nECG certified\nMedical-grade and ambulatory blood pressure monitoring"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "",
+    "Charging:": "5W wireless",
+    "Max charge speed:": "Wireless: 5W"
+  },
+  "Display": {
+    "Size:": "1.92 inches",
+    "Features:": "Accelerometer, gyro, compass, heart rate, SpO2, thermometer (skin temperature), differential pressure sensor, barometer",
+    "Resolution:": "480 x 408 pixels (~328 ppi density)",
+    "Technology:": "AMOLED",
+    "Refresh rate:": "",
+    "Screen-to-body:": "",
+    "Peak brightness:": "3000 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "N/A",
+    "4G bands:": "N/A",
+    "5G bands:": "",
+    "SIM type:": "No"
+  },
+  "Hardware": {
+    "OS:": "HarmonyOS",
+    "GPU:": "",
+    "RAM:": "",
+    "Processor:": "",
+    "Device type:": "Smartphone",
+    "Internal storage:": " (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "No",
+    "Other:": "NFC",
+    "Wi-Fi:": "No",
+    "Sensors:": "Accelerometer, gyro, compass, heart rate, SpO2, thermometer (skin temperature), differential pressure sensor, barometer",
+    "Features:": "No",
+    "Location:": "GPS",
+    "Bluetooth:": "6.0, A2DP, LE"
+  }
+}

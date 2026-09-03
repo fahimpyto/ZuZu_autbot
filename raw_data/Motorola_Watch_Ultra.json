@@ -1,0 +1,74 @@
+{
+  "url": "https://www.gsmarena.com/motorola_watch_ultra-14921.php",
+  "name": "Motorola Watch Ultra",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-ultra-watch.jpg",
+  "highlights": [
+    "Exp. release 2026, September\n51g, 12.1mm thickness\nAndroid Wear OS 6\n32GB storage, no card slot",
+    "2.9%\n1,349 HITS",
+    "4\nBECOME A FAN",
+    "1.5\"\n466x466 pixels",
+    "NO",
+    "2GB RAM\nSnapdragon W5+ Gen 1",
+    "550mAh"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2026, September 03",
+      "Status": "Coming soon. Exp. release 2026, September"
+    },
+    "BODY": {
+      "Dimensions": "46.3 x 46.3 x 12.1 mm (1.82 x 1.82 x 0.48 in)",
+      "Weight": "51 g (1.80 oz)",
+      "Build": "Glass front, stainless steel case",
+      "SIM": "eSIM",
+      "": "IP68/5ATM dust tight and water resistant"
+    },
+    "DISPLAY": {
+      "Type": "LTPO pOLED, 2700 nits (peak)",
+      "Size": "1.5 inches",
+      "Resolution": "466 x 466 pixels (~439 ppi density)",
+      "Protection": "Corning Gorilla Glass 3"
+    },
+    "PLATFORM": {
+      "OS": "Android Wear OS 6",
+      "Chipset": "Qualcomm Snapdragon W5+ Gen 1 (4 nm)",
+      "CPU": "Quad-core (4x1.7 GHz Cortex-A53)",
+      "GPU": "Adreno 702"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "32GB 2GB RAM"
+    },
+    "CAMERA": {
+      "": "No"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n",
+      "Bluetooth": "5.3, A2DP, LE",
+      "Positioning": "GPS (L1+L5)",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "No"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, gyro, heart rate, compass, barometer, SpO2"
+    },
+    "BATTERY": {
+      "Type": "550 mAh"
+    },
+    "MISC": {
+      "Colors": "Black, Silver"
+    }
+  }
+}

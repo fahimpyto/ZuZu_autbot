@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "",
+    "Flash:": "",
+    "Front:": "",
+    "Folded:": "",
+    "Main camera:": "",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": ""
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Silver, Gold, Black",
+    "Folded:": "",
+    "Weight:": "38 g or 60 g (1.34 oz)",
+    "Materials:": "Sapphire crystal front, aluminum case (42mm) or stainless steel case (46mm), plastic back",
+    "Biometrics:": "Accelerometer, gyro, heart rate, barometer, compass, SpO2, thermometer (body temperature), X-TAP",
+    "Dimensions:": "46.4 x 46.4 x 10.9 mm (1.83 x 1.83 x 0.43 in)",
+    "Resistance:": "5 ATM (immersible up to 50m for 10 min)\nIP68/IP69 dust tight and water resistant (high pressure water jets)\nEN13319 certified (40m swimproof/diving)\nECG certified"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "",
+    "Charging:": "10W wireless",
+    "Max charge speed:": "Wireless: 10W"
+  },
+  "Display": {
+    "Size:": "1.5 inches",
+    "Features:": "Accelerometer, gyro, heart rate, barometer, compass, SpO2, thermometer (body temperature), X-TAP",
+    "Resolution:": "466 x 466 pixels (~310 ppi density)",
+    "Technology:": "LTPO 2.0 AMOLED",
+    "Refresh rate:": "",
+    "Screen-to-body:": "",
+    "Peak brightness:": "3500 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900 - cellular model only",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - cellular model only",
+    "4G bands:": "LTE - cellular model only",
+    "5G bands:": "",
+    "SIM type:": "eSIM - cellular model only"
+  },
+  "Hardware": {
+    "OS:": "HarmonyOS",
+    "GPU:": "",
+    "RAM:": "",
+    "Processor:": "",
+    "Device type:": "Smartphone",
+    "Internal storage:": " (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "No",
+    "Other:": "NFC",
+    "Wi-Fi:": "Yes, dual-band",
+    "Sensors:": "Accelerometer, gyro, heart rate, barometer, compass, SpO2, thermometer (body temperature), X-TAP",
+    "Features:": "No",
+    "Location:": "GPS (L1+L5), BDS (B1I+B1C+B1a), GALILEO (E1+E5a), QZSS (L1+L5), GLONASS",
+    "Bluetooth:": "5.2, A2DP, LE"
+  }
+}

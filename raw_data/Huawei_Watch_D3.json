@@ -1,0 +1,74 @@
+{
+  "url": "https://www.gsmarena.com/huawei_watch_d3-14926.php",
+  "name": "Huawei Watch D3",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-watch-d3.jpg",
+  "highlights": [
+    "Exp. release 2026, September 23\n40g, 11.3mm thickness\nHarmonyOS\nUnspecified storage, no card slot",
+    "4.1%\n1,792 HITS",
+    "2\nBECOME A FAN",
+    "1.92\"\n480x408 pixels",
+    "NO",
+    "",
+    "5W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "Speed": "No",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2026, September 02",
+      "Status": "Coming soon. Exp. release 2026, September 23"
+    },
+    "BODY": {
+      "Dimensions": "46.5 x 41 x 11.3 mm (1.83 x 1.61 x 0.44 in)",
+      "Weight": "40 g (1.41 oz)",
+      "Build": "Glass front, aluminum frame, plastic back",
+      "SIM": "No",
+      "": "Not water-resistant\nBlood Pressure Measurement & ECG with built-in pump & inflatable strap\nECG certified\nMedical-grade and ambulatory blood pressure monitoring"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 3000 nits (peak)",
+      "Size": "1.92 inches",
+      "Resolution": "480 x 408 pixels (~328 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "HarmonyOS"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "Unspecified"
+    },
+    "CAMERA": {
+      "": "No"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "No",
+      "Bluetooth": "6.0, A2DP, LE",
+      "Positioning": "GPS",
+      "NFC": "Yes (market/region dependent)",
+      "Radio": "No",
+      "USB": "No"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, gyro, compass, heart rate, SpO2, thermometer (skin temperature), differential pressure sensor, barometer"
+    },
+    "BATTERY": {
+      "Type": "",
+      "Charging": "5W wireless"
+    },
+    "MISC": {
+      "Colors": "Black, Gold",
+      "Models": "RIV-B10, RIV-B12"
+    }
+  }
+}

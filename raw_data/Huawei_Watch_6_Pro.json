@@ -1,0 +1,73 @@
+{
+  "url": "https://www.gsmarena.com/huawei_watch_6_pro-14925.php",
+  "name": "Huawei Watch 6 Pro",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-watch6-pro.jpg",
+  "highlights": [
+    "Exp. release 2026, September 23\n50/57/60g, 10.9mm thickness\nHarmonyOS\nUnspecified storage, no card slot",
+    "7.3%\n3,132 HITS",
+    "4\nBECOME A FAN",
+    "1.5\"\n466x466 pixels",
+    "NO",
+    "",
+    "10W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900 - cellular model only",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - cellular model only",
+      "4G bands": "LTE - cellular model only",
+      "Speed": "HSPA, LTE - cellular model only"
+    },
+    "LAUNCH": {
+      "Announced": "2026, September 02",
+      "Status": "Coming soon. Exp. release 2026, September 23"
+    },
+    "BODY": {
+      "Dimensions": "46.4 x 46.4 x 10.9 mm or 11.4 mm",
+      "Weight": "50/57/60 g (1.76 oz)",
+      "Build": "Sapphire crystal front, ceramic case (43mm) or titanium case (46mm), ceramic back",
+      "SIM": "eSIM - cellular model only",
+      "": "5 ATM (immersible up to 50m for 10 min)\nIP68/IP69 dust tight and water resistant (high pressure water jets)\nEN13319 certified (40m swimproof/diving)\nECG certified"
+    },
+    "DISPLAY": {
+      "Type": "LTPO 2.0 AMOLED, 3500 nits (peak)",
+      "Size": "1.5 inches",
+      "Resolution": "466 x 466 pixels (~310 ppi density)",
+      "Protection": "Sapphire crystal"
+    },
+    "PLATFORM": {
+      "OS": "HarmonyOS"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "Unspecified"
+    },
+    "CAMERA": {
+      "": "No"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Yes, dual-band",
+      "Bluetooth": "5.2, A2DP, LE",
+      "Positioning": "GPS (L1+L5), BDS (B1I+B1C+B1a), GALILEO (E1+E5a), QZSS (L1+L5), GLONASS",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "No"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, gyro, heart rate, barometer, compass, SpO2, thermometer (body temperature), X-TAP, depth",
+      "": "Heart Rate Variability (HRV)\nArterial Stiffness Detection"
+    },
+    "BATTERY": {
+      "Type": "",
+      "Charging": "10W wireless"
+    },
+    "MISC": {
+      "Colors": "Titanium, Space Gray, White"
+    }
+  }
+}

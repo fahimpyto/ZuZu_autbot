@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "",
+    "Flash:": "",
+    "Front:": "",
+    "Folded:": "",
+    "Main camera:": "",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": ""
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black, Silver",
+    "Folded:": "",
+    "Weight:": "51 g (1.80 oz)",
+    "Materials:": "Glass front, stainless steel case",
+    "Biometrics:": "Accelerometer, gyro, heart rate, compass, barometer, SpO2",
+    "Dimensions:": "46.3 x 46.3 x 12.1 mm (1.82 x 1.82 x 0.48 in)",
+    "Resistance:": "IP68/5ATM dust tight and water resistant"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "550 mAh",
+    "Charging:": "",
+    "Max charge speed:": ""
+  },
+  "Display": {
+    "Size:": "1.5 inches",
+    "Features:": "Accelerometer, gyro, heart rate, compass, barometer, SpO2",
+    "Resolution:": "466 x 466 pixels (~439 ppi density)",
+    "Technology:": "LTPO pOLED",
+    "Refresh rate:": "",
+    "Screen-to-body:": "",
+    "Peak brightness:": "2700 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "",
+    "SIM type:": "eSIM"
+  },
+  "Hardware": {
+    "OS:": "Android Wear OS 6",
+    "GPU:": "Adreno 702",
+    "RAM:": "2GB",
+    "Processor:": "Qualcomm Snapdragon W5+ Gen 1 (4 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "32GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "No",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n",
+    "Sensors:": "Accelerometer, gyro, heart rate, compass, barometer, SpO2",
+    "Features:": "No",
+    "Location:": "GPS (L1+L5)",
+    "Bluetooth:": "5.3, A2DP, LE"
+  }
+}
