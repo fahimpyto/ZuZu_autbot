@@ -1,0 +1,85 @@
+{
+  "url": "https://www.gsmarena.com/oppo_a7_pro_5g-14928.php",
+  "name": "Oppo A7 Pro",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/oppo-a7-pro.jpg",
+  "highlights": [
+    "Not announced yet\n205g, 8.8mm thickness\nAndroid 16, ColorOS 16\n256GB storage, no card slot",
+    "11%\n4,526 HITS",
+    "4\nBECOME A FAN",
+    "6.57\"\n1080x2372 pixels",
+    "50MP\n1080p",
+    "6/8GB RAM\nSnapdragon 4 Gen 5",
+    "8000mAh\n80W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 2100",
+      "4G bands": "1, 3, 5, 8, 18, 19, 26, 28, 34, 38, 39, 40, 41, 42, 43, 48",
+      "5G bands": "1, 3, 5, 8, 18, 26, 28, 38, 40, 41, 48, 77, 78 SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored. Exp. release 2026, September"
+    },
+    "BODY": {
+      "Dimensions": "159.1 x 75.8 x 8.8 mm (6.26 x 2.98 x 0.35 in)",
+      "Weight": "205 g (7.23 oz)",
+      "Build": "Glass front, plastic frame, plastic back",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nDrop resistant up to 1.8m"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 120Hz",
+      "Size": "6.57 inches, 105.0 cm2 (~87.1% screen-to-body ratio)",
+      "Resolution": "1080 x 2372 pixels (~397 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, ColorOS 16",
+      "Chipset": "Qualcomm Snapdragon 4 Gen 5 (4 nm)",
+      "CPU": "Octa-core (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
+      "GPU": "Adreno 613"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 6GB RAM, 256GB 8GB RAM",
+      "": "UFS"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.8, (wide), PDAF, OIS\nAuxiliary lens",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP",
+      "Features": "Panorama",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.1, A2DP, LE",
+      "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 8000 mAh",
+      "Charging": "80W wired, 40W/80W UFCS, 55W PPS, 13.5W PD\nReverse wired"
+    },
+    "MISC": {
+      "Colors": "Gray, Blue, Pink",
+      "Models": "PYE130"
+    }
+  }
+}
